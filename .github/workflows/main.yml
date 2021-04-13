@@ -1,0 +1,33 @@
+name: Build Angular
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    strategy:
+      matrix:
+        node-version: [12.x]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+
+      - name: install cli
+        run: |
+          npm install -g @angular/cli
+
+      - name: create app
+        run: |
+          ng new My-app
+
+      - name: move files
+        run: |
+          mv ./[a-z]* ./my-app/pia-i18n
+
+      - name: go on app
+        run: |
+          cd My-app
+        
+      - name: generate library
+        run: |
+          ng build pia-i18n
