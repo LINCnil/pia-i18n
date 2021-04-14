@@ -28,11 +28,14 @@ jobs:
         - name: create app
           run: ng new My-app
         
-        - name: create directory
-          run: mkdir ./My-app/pia-i18n
+        - name: create directory projects
+          run: mkdir ./My-app/projects
+
+        - name: create directory pia-i18n
+          run: mkdir ./My-app/projects/pia-i18n
 
         - name: move files
           run: mv ./[a-z]* ./My-app/pia-i18n
         
-        - name: go on app and build library
+        - name: build library
           run:  cd My-app ; ng build pia-i18n
