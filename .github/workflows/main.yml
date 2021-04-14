@@ -32,7 +32,7 @@ jobs:
           run: cd My-app ; ng generate library pia-i18n
 
         - name: move files
-          run: cd .. ; mv ./[a-z]* ./My-app/projects/pia-i18n
+          run: cd / ; mv ./[a-z]* ./My-app/projects/pia-i18n
         
         - name: build library
           run:  cd My-app ; ng build pia-i18n
