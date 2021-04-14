@@ -9,33 +9,28 @@ jobs:
         node-version: [12.x]
 
     steps:
-      - uses: actions/checkout@v1
-      
-      - name: Install Node
-        uses: actions/setup-node@v1
-          with:
-              node-version: 12.8
+        - uses: actions/checkout@v1
 
-      - name: Install NPM
-        run:  npm install
-      
-      - name: Update Npm
-        run:  npm update
-      
-      - name: Typescript compiler
-        uses: iCrawl/action-tsc@v1
-      
-      - name: NpM angular CLI 
-        uses: npm install -g @angular/cli
-      
-      - name: create app
-        run: ng new My-app
-      
-      - name: move files
-        run: mv ./[a-z]* ./my-app/pia-i18n
-      
-      - name: go on app
-        run: cd My-app
-      
-      - name: Build
-        run:  ng build pia-i18n
+        - name: Install NPM
+          run:  npm install
+        
+        - name: Update Npm
+          run:  npm update
+        
+        - name: Typescript compiler
+          uses: iCrawl/action-tsc@v1
+        
+        - name: NpM angular CLI 
+          uses: npm install -g @angular/cli
+        
+        - name: create app
+          run: ng new My-app
+        
+        - name: move files
+          run: mv ./[a-z]* ./My-app/pia-i18n
+        
+        - name: go on app
+          run: cd My-app
+        
+        - name: Build
+          run:  ng build pia-i18n
