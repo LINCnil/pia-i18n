@@ -34,8 +34,5 @@ jobs:
         - name: move files
           run: mv ./[a-z]* ./My-app/pia-i18n
         
-        - name: go on app
-          run: cd My-app
-        
-        - name: Build
-          run:  ng build pia-i18n
+        - name: go on app and build library
+          run:  cd My-app ; ng build pia-i18n
