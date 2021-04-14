@@ -24,6 +24,9 @@ jobs:
         
         - name: NpM angular CLI 
           run: npm install -g @angular/cli
+
+        - name: ngx-translate/core
+          run: npm install @ngx-translate/core --save
         
         - name: create app
           run: ng new My-app
