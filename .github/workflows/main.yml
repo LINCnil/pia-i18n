@@ -22,9 +22,6 @@ jobs:
         - name: Update Npm
           run:  npm update
         
-        - name: Typescript compiler
-          uses: iCrawl/action-tsc@v1
-        
         - name: NpM angular CLI 
           run: npm install -g @angular/cli
         
