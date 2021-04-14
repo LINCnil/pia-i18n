@@ -28,6 +28,9 @@ jobs:
         - name: create app
           run: ng new My-app
         
+        - name: create directory
+          run: mkdir ./My-app/pia-i18n
+
         - name: move files
           run: mv ./[a-z]* ./My-app/pia-i18n
         
