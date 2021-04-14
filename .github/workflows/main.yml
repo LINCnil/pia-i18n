@@ -7,27 +7,30 @@ jobs:
     strategy:
       matrix:
         node-version: [12.x]
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v1
-
-      - name: install cli
-        run: |
-          npm install -g @angular/cli
-
-      - name: create app
-        run: |
-          ng new My-app
-
-      - name: move files
-        run: |
-          mv ./[a-z]* ./my-app/pia-i18n
-
-      - name: go on app
-        run: |
-          cd My-app
         
-      - name: generate library
-        run: |
-          ng build pia-i18n
+    steps:
+        - uses: actions/checkout@v1
+
+        - name: Install NPM
+          run:  npm install
+        
+        - name: Update Npm
+          run:  npm update
+        
+        - name: Typescript compiler
+          uses: iCrawl/action-tsc@v1
+        
+        - name: NpM angular CLI 
+          uses: npm install angular-cli
+        
+        - name: create app
+          run: ng new My-app
+        
+        - name: move files
+          run: mv ./[a-z]* ./my-app/pia-i18n
+        
+        - name: go on app
+          run: cd My-app
+        
+        - name: Build
+          run:  ng build pia-i18n
