@@ -1,5 +1,8 @@
-name: Build Angular
-on: [push]
+name: Build NPM
+on:
+  push:
+    tags:
+      - '*'
 
 jobs:
   build:
@@ -10,27 +13,18 @@ jobs:
 
     steps:
         - uses: actions/checkout@v1
-          # with:
-          #   NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
         - name: Use Node.js ${{ matrix.node-version }}
           uses: actions/setup-node@v1
           with:
             node-version: ${{ matrix.node-version }}
-          # env:
-          #   NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
         - name: Install NPM
           run:  npm install
           env:
             NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-        # - name: Update Npm
-        #   run:  npm update
-        #   env:
-        #     NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-
-        - name: NpM angular CLI
+        - name: NPM angular CLI
           run: npm install -g @angular/cli@8.3.28
 
         - name: prepare to move
@@ -38,17 +32,6 @@ jobs:
 
         - name: create app and prepare with dependancies
           run: ng new pia; cd pia; npm install @ngx-translate/core; npm install @ngx-translate/http-loader;
-          # "@ngx-translate/core": "^13.0.0",
-          # "@ngx-translate/http-loader": "^6.0.0",
-
-        #  cd pia; rm package.json; rm -rf node_modules; cp ../Move/package-for-app.json package.json; npm install
-
-        # - name: CREATE APP ANGULAR
-        #   run: git clone https://github.com/LINCnil/pia.git
-
-          # git clone https://github.com/atnos/pia.git
-          # your_username
-          # your_token
 
         - name: prepare library
           run: cd pia ; ng generate library pia-i18n ; rm ./projects/pia-i18n/* -R
@@ -57,10 +40,10 @@ jobs:
           run: mv ./Move/[a-z]* ./pia/projects/pia-i18n
 
         - name: return pia projet and build library
-          run: cd ./pia ; ng build pia-i18n
+          run: cd ./pia ; rm -f ./projects/pia-i18n/src/lib/assets/i18n/cnil.babel ; ng build pia-i18n 
 
         - name: create tgz file
-          run: cd ./pia/dist/pia-i18n ; rm ./src/lib/assets/i18n/cnil.babel ; npm pack ; cd ../../; npm install ./dist/pia-i18n/atnos-pia-i18n-0.0.1.tgz
+          run: cd ./pia/dist/pia-i18n ; npm pack ; cd ../../; npm install ./dist/pia-i18n/atnos-pia-i18n-0.0.1.tgz
 
         - name: publish library
           run: |
