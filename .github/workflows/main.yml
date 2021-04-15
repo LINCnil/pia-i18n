@@ -13,9 +13,6 @@ jobs:
           # with:
           #   NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-        - name: environment
-          run: echo "export ENV=DEV" > ~/.bashrc
-
         - name: Use Node.js ${{ matrix.node-version }}
           uses: actions/setup-node@v1
           with:
@@ -25,6 +22,8 @@ jobs:
 
         - name: Install NPM
           run:  npm install
+          env:
+            NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
         # - name: Update Npm
         #   run:  npm update
@@ -65,3 +64,5 @@ jobs:
 
         - name: publish library
           run: npm publish ./pia/dist/pia-i18n/pia-i18n-0.0.1.tgz --access private
+          env:
+            NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
