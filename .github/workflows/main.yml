@@ -25,10 +25,10 @@ jobs:
           env:
             NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-        - name: Update Npm
-          run:  npm update
-          env:
-            NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        # - name: Update Npm
+        #   run:  npm update
+        #   env:
+        #     NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
         - name: NpM angular CLI
           run: npm install -g @angular/cli@8.3.28
