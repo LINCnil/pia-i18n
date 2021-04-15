@@ -31,18 +31,8 @@ jobs:
         - name: clone pia repo
           run: git clone https://github.com/LINCnil/pia.git
 
-          # git clone https://github.com/atnos/pia.git
-          # your_username
-          # your_token
-
-        # - name: create library
-        #   run: cd pia ; ng generate library pia-i18n
-
-        # - name: clear directory
-        #   run: rm ./projects/pia-i18n/* -R
-
         - name: prepare library
-        - run: mkdir ./pia/projects
+          run: mkdir ./pia/projects
 
         - name: move files
           run: mv ./Move ./pia/projects/pia-i18n
