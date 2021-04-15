@@ -42,9 +42,12 @@ jobs:
         - name: return pia projet and build library
           run: cd ./pia ; rm -f ./projects/pia-i18n/src/lib/assets/i18n/cnil.babel ; ng build pia-i18n 
 
+        - name: Set output
+          id: vars
+          run: echo ::set-output name=tag::${GITHUB_REF#refs/*/}
+
         - name: create tgz file
           run: |
-            echo ::set-output name=tag::${GITHUB_REF#refs/*/}
             cd ./pia/dist/pia-i18n
             npm pack
             cd ../../
@@ -52,7 +55,6 @@ jobs:
 
         - name: publish library
           run: |
-            echo ::set-output name=tag::${GITHUB_REF#refs/*/}
             npm config set //registry.npmjs.org/:_authToken=$NODE_AUTH_TOKEN
             npm config set scope "<@atnos>"
             npm config list
