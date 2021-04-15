@@ -60,9 +60,9 @@ jobs:
           run: cd ./pia ; ng build pia-i18n
 
         - name: create tgz file
-          run: cd ./pia/dist/pia-i18n ; npm pack ; npm install pia-i18n-0.0.1.tgz
+          run: cd ./pia/dist/pia-i18n ; npm pack ; npm install ./atnos-pia-i18n-0.0.1.tgz
 
         - name: publish library
-          run: npm init --scope=atnos; npm publish ./pia/dist/pia-i18n/pia-i18n-0.0.1.tgz --access public
+          run: npm init --scope=atnos; npm publish ./pia/dist/pia-i18n/atnos-pia-i18n-0.0.1.tgz --access public
           env:
             NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
