@@ -10,8 +10,6 @@ jobs:
 
     steps:
         - uses: actions/checkout@v1
-          with:
-            NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
         - name: Use Node.js ${{ matrix.node-version }}
           uses: actions/setup-node@v1
@@ -20,6 +18,9 @@ jobs:
 
         - name: Install NPM
           run:  npm install
+
+        - env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
         - name: Update Npm
           run:  npm update
