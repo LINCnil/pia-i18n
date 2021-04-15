@@ -10,6 +10,8 @@ jobs:
 
     steps:
         - uses: actions/checkout@v1
+          with:
+            repo-token: ${{ secrets.NPM_TOKEN }}
 
         - name: Use Node.js ${{ matrix.node-version }}
           uses: actions/setup-node@v1
@@ -50,3 +52,6 @@ jobs:
 
         - name: return pia projet and build library
           run: cd ./pia ; ng build pia-i18n
+
+        - name: create tgz file
+          run: cd ./pia/dist/pia-i18n ; npm pack
