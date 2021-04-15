@@ -25,7 +25,7 @@ jobs:
             NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
         - name: NPM angular CLI
-          run: npm install -g @angular/cli@8.3.28
+          run: npm install -g @angular/cli
 
         - name: prepare to move
           run: |
@@ -34,16 +34,15 @@ jobs:
 
         - name: create app and add dependencies
           run: |
-            ng new pia
+            ng new pia --create-application=false
             cd pia
-            npm install @ngx-translate/core
-            npm install @ngx-translate/http-loader
+            npm install @ngx-translate/core @ngx-translate/http-loader
 
         - name: prepare library
           run: |
             cd pia
             ng generate library pia-i18n
-            rm -R ./projects/pia-i18n/*
+            rm -rf ./projects/pia-i18n/*
 
         - name: go to Move folder, get files and move them to pia-i18n
           run: mv ./Move/[a-z]* ./pia/projects/pia-i18n
@@ -52,7 +51,7 @@ jobs:
           run: |
             cd ./pia
             rm -f ./projects/pia-i18n/src/lib/assets/i18n/cnil.babel
-            ng build pia-i18n 
+            ng build pia-i18n --prod
 
         - name: Set output
           id: vars
