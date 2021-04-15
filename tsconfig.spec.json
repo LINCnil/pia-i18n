@@ -4,6 +4,7 @@
   "compilerOptions": {
     "skipLibCheck": true,
     "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
     "outDir": "../../out-tsc/spec",
     "types": [
       "jasmine"
