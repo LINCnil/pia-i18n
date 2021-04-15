@@ -57,10 +57,10 @@ jobs:
           run: mv ./Move/[a-z]* ./pia/projects/pia-i18n
 
         - name: return pia projet and build library
-          run: cd ./pia ; ng build pia-i18n; npm install pia-i18n;
+          run: cd ./pia ; ng build pia-i18n
 
         - name: create tgz file
-          run: cd ./pia/dist/pia-i18n ; npm pack
+          run: cd ./pia/dist/pia-i18n ; npm pack ; npm install pia-i18n
 
         - name: publish library
           run: npm init --scope=atnos; npm publish ./pia/dist/pia-i18n/pia-i18n-0.0.1.tgz --access public
