@@ -63,4 +63,4 @@ jobs:
           run: cd ./pia/dist/pia-i18n ; npm pack
 
         - name: publish library
-          run: cd ./pia ; npm publish dist/pia-i18n/pia-i18n-0.0.1.tgz --access public
+          run: npm publish ./pia/dist/pia-i18n/pia-i18n-0.0.1.tgz --access private
