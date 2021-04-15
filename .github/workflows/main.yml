@@ -23,7 +23,7 @@ jobs:
           run:  npm update
 
         - name: NpM angular CLI
-          run: npm install -g @angular/cli
+          run: npm install -g @angular/cli@8.3.28
 
         - name: prepare to move
           run: mkdir Move ; mv ./[a-z]* ./Move
