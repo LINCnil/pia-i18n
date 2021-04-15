@@ -4,9 +4,7 @@
   "compilerOptions": {
     "skipLibCheck": true,
     "resolveJsonModule": true,
-    "allowSyntheticDefaultImports": true,
-    "declaration": true,
-    "declarationMap": true,
+    "allowSyntheticDefaultImports": true
   },
   "angularCompilerOptions": {
     "enableIvy": false
