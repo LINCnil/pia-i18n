@@ -23,7 +23,7 @@ jobs:
         - name: Install NPM
           run:  npm install
           env:
-            NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+            NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
         # - name: Update Npm
         #   run:  npm update
@@ -64,5 +64,5 @@ jobs:
 
         - name: publish library
           run: npm init --scope=atnos; npm publish ./pia/dist/pia-i18n/atnos-pia-i18n-0.0.1.tgz --access public
-          # env:
-          #   NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          env:
+            NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
