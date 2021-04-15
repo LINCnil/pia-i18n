@@ -17,11 +17,13 @@ jobs:
           uses: actions/setup-node@v1
           with:
             node-version: ${{ matrix.node-version }}
-          env:
-            NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          # env:
+          #   NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
         - name: Install NPM
           run:  npm install
+          env:
+            NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
         - name: Update Npm
           run:  npm update
