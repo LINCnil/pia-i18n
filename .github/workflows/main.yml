@@ -29,7 +29,9 @@ jobs:
           run: mkdir Move ; mv ./[a-z]* ./Move
 
         - name: create app and prepare with dependancies
-          run: ng new pia;
+          run: ng new pia; cd pia; npm install @ngx-translate/core; npm install @ngx-translate/http-loader;
+          # "@ngx-translate/core": "^13.0.0",
+          # "@ngx-translate/http-loader": "^6.0.0",
 
         #  cd pia; rm package.json; rm -rf node_modules; cp ../Move/package-for-app.json package.json; npm install
 
