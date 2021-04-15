@@ -60,7 +60,7 @@ jobs:
           run: cd ./pia ; ng build pia-i18n
 
         - name: create tgz file
-          run: cd ./pia/dist/pia-i18n ; npm pack ; cd ../../; npm install ./dist/pia-i18n/atnos-pia-i18n-0.0.1.tgz
+          run: cd ./pia/dist/pia-i18n ; rm ./src/lib/assets/i18n/cnil.babel ; npm pack ; cd ../../; npm install ./dist/pia-i18n/atnos-pia-i18n-0.0.1.tgz
 
         - name: publish library
           run: |
