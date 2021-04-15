@@ -1,5 +1,5 @@
 {
-  "name": "pia-i18n",
+  "name": "@atnos/pia-i18n",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^11.0.9",
