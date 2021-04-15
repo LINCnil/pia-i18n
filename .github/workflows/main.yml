@@ -63,6 +63,6 @@ jobs:
           run: cd ./pia/dist/pia-i18n ; npm pack ; cd ../../; npm install ./dist/pia-i18n/atnos-pia-i18n-0.0.1.tgz
 
         - name: publish library
-          run: npm init --scope=atnos; npm publish ./pia/dist/pia-i18n/atnos-pia-i18n-0.0.1.tgz --access public
+          run:  npm publish ./pia/dist/pia-i18n/atnos-pia-i18n-0.0.1.tgz --access public
           env:
             NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
