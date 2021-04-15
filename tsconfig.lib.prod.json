@@ -2,6 +2,7 @@
 {
   "extends": "./tsconfig.lib.json",
   "compilerOptions": {
+    "skipLibCheck": true,
     "resolveJsonModule": true,
     "declarationMap": false
   },

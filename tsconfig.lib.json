@@ -2,6 +2,7 @@
 {
   "extends": "../../tsconfig.json",
   "compilerOptions": {
+    "skipLibCheck": true,
     "resolveJsonModule": true,
     "outDir": "../../out-tsc/lib",
     "target": "es2015",
