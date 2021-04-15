@@ -21,7 +21,7 @@ import sv from './assets/i18n/sv.json';
 import lv from './assets/i18n/lv.json';
 
 import { TranslateLoader } from '@ngx-translate/core';
-import { Observable } from 'rxjs/Observable';
+import { Observable } from 'rxjs';
 
 export class PiaTranslateLoader implements TranslateLoader {
   public getTranslation(lang: string): Observable<any> {

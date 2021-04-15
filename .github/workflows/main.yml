@@ -28,8 +28,10 @@ jobs:
         - name: prepare to move
           run: mkdir Move ; mv ./[a-z]* ./Move
 
-        - name: create app
-          run: ng new pia
+        - name: create app and prepare with dependancies
+          run: ng new pia;
+
+        #  cd pia; rm package.json; rm -rf node_modules; cp ../Move/package-for-app.json package.json; npm install
 
         # - name: CREATE APP ANGULAR
         #   run: git clone https://github.com/LINCnil/pia.git
