@@ -47,10 +47,11 @@ jobs:
 
         - name: publish library
           run: |
+            echo ::set-output name=tag::${GITHUB_REF#refs/*/}
             npm config set //registry.npmjs.org/:_authToken=$NODE_AUTH_TOKEN
             npm config set scope "<@atnos>"
             npm config list
-            npm publish ./pia/dist/pia-i18n/atnos-pia-i18n-0.0.1.tgz --access public 
+            npm publish ./pia/dist/pia-i18n/atnos-pia-i18n-${{ steps.vars.outputs.tag }}.tgz --access public
           env:
             CI: true
             NODE_AUTH_TOKEN: ${{secrets.npm_token}}
