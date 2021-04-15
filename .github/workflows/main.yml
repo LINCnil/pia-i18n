@@ -43,7 +43,12 @@ jobs:
           run: cd ./pia ; rm -f ./projects/pia-i18n/src/lib/assets/i18n/cnil.babel ; ng build pia-i18n 
 
         - name: create tgz file
-          run: cd ./pia/dist/pia-i18n ; npm pack ; cd ../../; npm install ./dist/pia-i18n/atnos-pia-i18n-0.0.1.tgz
+          run: |
+            echo ::set-output name=tag::${GITHUB_REF#refs/*/}
+            cd ./pia/dist/pia-i18n
+            npm pack
+            cd ../../
+            npm install ./dist/pia-i18n/atnos-pia-i18n-${{ steps.vars.outputs.tag }}.tgz
 
         - name: publish library
           run: |
