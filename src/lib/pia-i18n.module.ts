@@ -1,5 +1,3 @@
-import { PiaI18nComponent } from './pia-i18n.component';
-
 import { CommonModule, registerLocaleData } from '@angular/common';
 import { ModuleWithProviders, NgModule } from '@angular/core';
 import { PiaTranslateLoader } from './pia-translate-loader';
@@ -52,7 +50,7 @@ registerLocaleData(localeSV, 'sv');
 registerLocaleData(localeLV, 'lv');
 
 @NgModule({
-  declarations: [PiaI18nComponent],
+  declarations: [],
   imports: [
     CommonModule,
     TranslateModule.forRoot({

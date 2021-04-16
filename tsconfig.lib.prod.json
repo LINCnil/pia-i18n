@@ -7,6 +7,7 @@
     "allowSyntheticDefaultImports": true
   },
   "angularCompilerOptions": {
+    "fullTemplateTypeCheck": true,
     "enableIvy": false
   }
 }

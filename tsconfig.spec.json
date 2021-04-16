@@ -10,6 +10,9 @@
       "jasmine"
     ]
   },
+  "angularCompilerOptions": {
+    "fullTemplateTypeCheck": true,
+  },
   "files": [
     "src/test.ts",
     "src/polyfills.ts"
