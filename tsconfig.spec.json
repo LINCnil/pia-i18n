@@ -12,6 +12,7 @@
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
+    "enableIvy": false
   },
   "files": [
     "src/test.ts",
