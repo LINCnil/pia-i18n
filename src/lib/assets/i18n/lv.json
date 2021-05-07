@@ -486,153 +486,103 @@
 				"source": "PIAF Connected objects p42 - WIKI"
 			},
 			"PIA_DEF_MIN2": {
-				"descripción": "",
 				"description": "Kad sensitīvi dati ir saņemti kā daļa no vispārīgas informācijas vai nosūtīti tikai statistikas vajadzībām, tos var konvertēt mazāk sensitīvā formā vai pseidonimizēt. Piemēram: <br>- ja sistēma statistikas vajadzībām apkopo IP adreses, lai noteiktu lietotāja atrašanās vietu, IP adresi var izdzēst, kad ir izsecināta pilsēta vai rajons<br>- ja sistēma saņem video datus no novērošanas kamerām, tā var atpazīt cilvēkus, kas atrodas vai pārvietojas notikuma vietā, un aizmiglot viņus<br>- ja sistēma ir viedskaitītājs, tā var apkopot enerģijas izmantošanu noteiktā laikposmā, neierakstot to reālā laikā",
-				"fuente": "",
 				"name": "Sensitivitātes pakāpes samazināšana, izmantojot pārveidošanu",
 				"source": "PIAF Connected objects p42 - WIKI"
 			},
 			"PIA_DEF_MIN3": {
-				"descripción": "",
 				"description": "Sistēma var nodrošināt, ka: <br>- lietotājs var izmantot resursu vai pakalpojumu, neriskējot atklāt savu identitāti (anonīmi dati)<br>- lietotājs var izmantot resursu vai pakalpojumu, neriskējot izpaust savu identitāti, taču joprojām ir identificējams un atbildīgs par to izmantošanu (pseidonīmi dati)<br>- lietotājs var vairākkārt izmantot resursus vai pakalpojumus, neriskējot, ka šie dažādi lietojumi tiks sasaistīti kopā (datus nevar savstarpēji sasaistīt)<br>- lietotājs var izmantot resursu vai pakalpojumu, neriskējot, ka citi, jo ​​īpaši trešās puses spēj novērot, ka resurss vai pakalpojums tiek izmantots (neievērojamība)<br>Metode no iepriekš minētā saraksta jāizvēlas, pamatojoties uz identificētajiem apdraudējumiem. Dažiem privātuma apdraudējuma veidiem pseidonimizācija būs piemērotāka nekā anonimizācija (piemēram, ja ir nepieciešama izsekojamība). Turklāt daži privātuma apdraudējumi tiks novērsti, izmantojot metožu kombināciju.",
-				"fuente": "",
 				"name": "Datu identificējošā rakstura samazināšana",
 				"source": "PIAF Connected objects p42 - WIKI"
 			},
 			"PIA_DEF_MIN4": {
-				"descripción": "",
 				"description": "Sistēmu var organizēt neatkarīgās daļās ar atsevišķi nodalītām piekļuves kontroles funkcijām. Datus var arī sadalīt starp šīm neatkarīgajām apakšsistēmām un kontrolēt katru apakšsistēmu, izmantojot dažādus piekļuves kontroles mehānismus. Ja apakšsistēma ir apdraudēta, tādējādi var mazināt ietekmi uz visiem datiem.",
-				"fuente": "",
 				"name": "Datu uzkrāšanas samazināšana",
 				"source": "PIAF Connected objects p42 - WIKI"
 			},
 			"PIA_DEF_MIN5": {
-				"descripción": "",
 				"description": "Sistēma var ierobežot piekļuvi datiem saskaņā ar zinātvajadzības principu. Sistēma var nodalīt sensitīvos datus un piemērot īpašas piekļuves kontroles politikas. Sistēma var arī šifrēt sensitīvus datus, lai aizsargātu to konfidencialitāti pārsūtīšanas un glabāšanas laikā. Ir jāaizsargā arī piekļuve pagaidu sīkdatnēm, kas tiek radītas datu apstrādes laikā.",
-				"fuente": "",
 				"name": "Datu piekļuves ierobežošana",
 				"source": "PIAF Connected objects p42 - WIKI"
 			},
 			"PIA_DEF_MINC": {
-				"Descripción": "",
 				"description": "Samaziniet risku nopietnību, ierobežojot personas datu apjomu līdz tam, kas ir absolūti nepieciešams noteikta mērķa sasniegšanai, pretējā gadījumā datus nevāc.",
-				"fuente": "",
 				"name": "Personas datu apjoma samazināšana līdz minimumam",
 				"source": "WIKI Minimisation_des_données_:_adéquates,_pertinentes_et_limitées"
 			},
 			"PIA_DEF_MIND": {
-				"descripción": "",
 				"description": "Samaziniet risku nopietnību, līdz minimumam samazinot pašus datus, veicot pasākumus, lai samazinātu to sensivitāti, piemēram, filtrējot un noņemot nevajadzīgus datus, pseidonimizējot datus utt.",
-				"fuente": "",
 				"name": "Pašu datu samazināšana",
 				"source": "PIA3 p64"
 			},
 			"PIA_DEF_OPP": {
-				"descripción": "",
 				"description": " Datu subjektam, balstoties uz iemesliem saistībā ar viņa īpašo situāciju, ir tiesības jebkurā laikā iebilst pret savu personas datu apstrādi saskaņā ar <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">[VDAR] 21.pants</a>",
-				"fuente": "",
 				"name": "Tiesības iebilst",
 				"source": "VDAR 21. pants"
 			},
 			"PIA_DEF_PBDS": {
-				"descripción": "",
 				"description": "Pasākumi, kas veikti, lai integrētu personas datu aizsardzību visās jaunajās apstrādes darbībās (uzticami nosaukumi, vadlīnijas, CNIL metodoloģija riska pārvaldībai vai cita iekšēja metodika).",
-				"fuente": "",
 				"name": "Projekta vadība",
-				"nombre": "",
 				"source": "Mesures_US"
 			},
 			"PIA_DEF_PC": {
-				"descripción": "",
 				"description": "Personas, uz kurām attiecas dati, uz ko attiecas apstrāde.",
-				"fuente": "",
 				"name": "Datu subjekts",
 				"source": "PIA1 p9"
 			},
 			"PIA_DEF_PORT": {
-				"descripción": "",
 				"description": " Datu subjektam ir tiesības saņemt personas datus attiecībā uz sevi, kurus viņš sniedzis pārzinim, strukturētā, plaši izmantotā un mašīnlasāmā formātā un ir tiesības minētos datus nosūtīt citam pārzinim, un pārzinis, kuram attiecīgie personas dati sniegti, tam nerada nekādus šķēršļus. Skat. <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">[VDAR] 20. pants</a>",
-				"fuente": "",
 				"name": "Right to data portability",
 				"source": "VDAR 20. pants"
 			},
 			"PIA_DEF_PSEU": {
-				"descripción": "",
 				"description": "Personas datu apstrāde, ko veic tādā veidā, lai personas datus vairs nav iespējams saistīt ar konkrētu datu subjektu bez papildu informācijas izmantošanas, ar noteikumu, ka šāda papildu informācija tiek turēta atsevišķi un tai piemēro tehniskus un organizatoriskus pasākumus, lai nodrošinātu, ka personas dati netiek saistīti ar identificētu vai identificējamu fizisku personu.<br>Pseidonimizācija samazina datu kopas sasaisti ar datu subjekta sākotnējo identitāti; tā ir noderīgs drošības līdzeklis, bet tā nav anonimizācijas metode.",
-				"fuente": "",
 				"name": "Pseidonimizācija",
-				"nombre": "",
 				"source": "VDAR 4. panta 5. punkts un 29. panta darba grupas vadlīnijas (22.lpp.) http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf"
 			},
 			"PIA_DEF_PWD": {
-				"descripción": "",
 				"description": "Paroles sastāv no vismaz astoņām rakstzīmēm; tās ir jāatjauno, ja ir vismazākās bažas, ka tās varētu būt apdraudētas, un, ja iespējams, periodiski (ik pēc sešiem mēnešiem vai reizi gadā), un tajās jāiekļauj vismaz trīs no četrām rakstzīmju šķirām (lielie burti, mazie burti, cipari un speciālās rakstzīmes); nomainot paroli, pēdējās piecas paroles nedrīkst atkārtoti izmantot; vienu un to pašu paroli nevajadzētu izmantot dažādām piekļuvēm; paroles nedrīkst būt saistītas ar personisku informāciju (ieskaitot vārdu vai dzimšanas datumu). Nosakiet maksimālo mēģinājumu skaitu, pēc kuriem tiek izteikts brīdinājums un autentifikācija tiek bloķēta (īslaicīgi vai līdz brīdim, kad tā tiek manuāli atbloķēta).",
-				"fuente": "",
 				"name": "Parole",
-				"nombre": "",
 				"source": "Mesure_US"
 			},
 			"PIA_DEF_RECT": {
-				"descripción": "",
 				"description": "Datu subjektam ir tiesības panākt, lai pārzinis bez nepamatotas kavēšanās labotu neprecīzus datu subjekta personas datus. Ņemot vērā apstrādes nolūkus, datu subjektam ir tiesības panākt, lai nepilnīgi personas dati tiktu papildināti, tostarp sniedzot papildu paziņojumu.",
-				"fuente": "",
 				"name": "Tiesības labot",
-				"nombre": "",
 				"source": "VDAR 16. pants"
 			},
 			"PIA_DEF_RGPD": {
-				"Descripción": "",
 				"description": "Regula par fizisku personu aizsardzību attiecībā uz personas datu apstrādi un šādu datu brīvu apriti un ar ko atceļ Direktīvu 95/46/EK.",
-				"fuente": "",
 				"name": "VDAR (Vispārīgā datu aizsardzības regula)",
 				"source": "VDAR nosaukums"
 			},
 			"PIA_DEF_RT": {
-				"descripción": "",
 				"description": "Fiziska vai juridiska persona, publiska iestāde, aģentūra vai cita struktūra, kas viena pati vai kopīgi ar citām nosaka personas datu apstrādes nolūkus un līdzekļus; ja šādas apstrādes nolūkus un līdzekļus nosaka ar Savienības vai dalībvalsts tiesību aktiem, pārzini vai tā iecelšanas konkrētos kritērijus var paredzēt Savienības vai dalībvalsts tiesību aktos.<br>Skat. <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">[VDAR] 4. panta 7. punkts</a>",
-				"fuente": "",
 				"name": "Pārzinis",
-				"nombre": "",
 				"source": "VDAR 4. panta 7. punkts"
 			},
 			"PIA_DEF_SRC": {
-				"descripción": "",
 				"description": "Persona vai avots, kas nav cilvēks, kas var radīt risku. Šis avots var rīkoties nejauši vai apzināti.",
-				"fuente": "",
 				"name": "Riska avots",
-				"nombre": "",
 				"source": "PIA1 p11 - WIKI"
 			},
 			"PIA_DEF_ST": {
-				"descripción": "",
 				"description": "Fiziska vai juridiska persona, publiska iestāde, aģentūra vai cita struktūra, kura pārziņa vārdā apstrādā personas datus. Skat. <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">[VDAR] 4. panta 8. punkts</a>.<br>Apstrādātājs un jebkura persona, kas darbojas pārziņa vai apstrādātāja pakļautībā un kam ir piekļuve personas datiem, neapstrādā minētos datus citādi, kā vien saskaņā ar pārziņa norādījumiem, ja vien to darīt nepieprasa Savienības vai dalībvalsts tiesību akti. Skat. <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">[VDAR] 29. pants</a>.",
-				"fuente": "",
 				"name": "Apstrādātājs",
-				"nombre": "",
 				"source": "VDAR 4. panta 8. punkts un 29. pants"
 			},
 			"PIA_DEF_SUPT": {
-				"descripción": "",
 				"description": "Līdzeklis, uz kuru balstās personas dati. Tā var būt aparatūra, programmatūra, tīkli, cilvēki, dokumenti vai dokumentu nosūtīšanas kanāli.",
-				"fuente": "",
 				"name": "Papildlīdzekļi",
-				"nombre": "",
 				"source": "PIA1 p10"
 			},
 			"PIA_DEF_VIOL": {
-				"descripción": "",
 				"description": "Drošības pārkāpums, kura rezultātā notiek nejauša vai nelikumīga nosūtīto, uzglabāto vai citādi apstrādāto personas datu iznīcināšana, nozaudēšana, pārveidošana, neatļauta izpaušana vai piekļuve tiem.",
-				"fuente": "",
 				"name": "Personas datu aizsardzības pārkāpums",
-				"nombre": "",
 				"source": "VDAR 4. panta 12. punkts"
 			},
 			"PIA_DEF_VRA": {
-				"Descripción": "",
 				"description": "Varbūtība izsaka riska iestāšanās iespēju. Tas galvenokārt ir atkarīgs no apdraudēto līdzekļu neaizsargātības līmeņa un riska avotu spējas tos izmantot.",
-				"fuente": "",
 				"name": "Varbūtība",
-				"nombre": "",
 				"source": "PIA1 page 6"
 			},
 			"PIA_EX_DC": {
