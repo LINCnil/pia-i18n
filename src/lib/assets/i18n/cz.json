@@ -1127,13 +1127,13 @@
 			},
 			"step5": {
 				"description": "TO TRANSLATE - If the assessment of a section has not yet begun, the request forassessment may be cancelled to make changes to the processing description.",
-				"title": "TO TRANSLATE - Cancel a request"
+				"title": "Cancel a request"
 			}
 		},
 		"general": {
-			"done": "Confirm",
-			"next": "Next",
-			"skip": "Skip"
+			"done": "TO TRANSLATE - Confirm",
+			"next": "TO TRANSLATE - Next",
+			"skip": "TO TRANSLATE - Skip"
 		},
 		"validated": {
 			"step1": {

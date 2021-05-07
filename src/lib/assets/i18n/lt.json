@@ -1131,9 +1131,9 @@
 			}
 		},
 		"general": {
-			"done": "Confirm",
-			"next": "Next",
-			"skip": "Skip"
+			"done": "TO TRANSLATE - Confirm",
+			"next": "TO TRANSLATE - Next",
+			"skip": "TO TRANSLATE - Skip"
 		},
 		"validated": {
 			"step1": {
