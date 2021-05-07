@@ -6,7 +6,7 @@
     "title": "***",
     "translators": "***",
     "translators_name": "***",
-    "version_number": ""
+    "version_number": "***"
   },
   "action_plan": {
     "acceptable_measures": "***",
@@ -19,7 +19,7 @@
     "risk2": "***",
     "risk3": "***",
     "risks": "***",
-    "title": ""
+    "title": "***"
   },
   "authentication": {
     "description": "***",
@@ -27,7 +27,7 @@
     "start_app": "***",
     "subtitle1": "***",
     "subtitle2": "***",
-    "title": ""
+    "title": "***"
   },
   "cartography": {
     "important": "***",
@@ -42,14 +42,14 @@
     "negligible": "***",
     "risk1_access": "***",
     "risk2_modification": "***",
-    "seriousness_axe": ""
+    "seriousness_axe": "***"
   },
   "comments": {
     "comment": "***",
     "comments_count": "***",
     "new_comment": "***",
     "placeholder_new_comment": "***",
-    "send": ""
+    "send": "***"
   },
   "disableInteraction": "***",
   "doneLabel": "***",
@@ -64,7 +64,7 @@
       "3": "***",
       "4": "***",
       "likelihood": "***",
-      "seriousness": ""
+      "seriousness": "***"
     },
     "improvable": "***",
     "placeholder_acceptable": "***",
@@ -72,7 +72,7 @@
     "placeholder_improvable2": "***",
     "placeholder_to_correct": "***",
     "title": "***",
-    "to_correct": ""
+    "to_correct": "***"
   },
   "exitOnOverlayClick": "***",
   "header": {
@@ -83,7 +83,7 @@
       "issue_reporting": "***",
       "manual": "***",
       "pia_example_link": "***",
-      "title": ""
+      "title": "***"
     },
     "homepage_link": "***",
     "knowledge_base_link": "***",
@@ -111,7 +111,7 @@
       "pt": "***",
       "ro": "***",
       "sl": "***",
-      "sv": ""
+      "sv": "***"
     },
     "logo_subtitle": "***",
     "logo_title": "***",
@@ -121,11 +121,11 @@
       "accessibility": "***",
       "onboarding": "***",
       "settings": "***",
-      "url_setting": ""
+      "url_setting": "***"
     }
   },
   "help": {
-    "title": ""
+    "title": "***"
   },
   "homepage": {
     "cards": {
@@ -145,9 +145,9 @@
           "duplicate": "***",
           "export": "***",
           "remove": "***",
-          "unarchive": ""
+          "unarchive": "***"
         },
-        "validate_pia": ""
+        "validate_pia": "***"
       },
       "knowledges": {
         "edit": "***",
@@ -156,7 +156,7 @@
         "placeholder_author": "***",
         "placeholder_contributors": "***",
         "placeholder_entry_number": "***",
-        "placeholder_name": ""
+        "placeholder_name": "***"
       },
       "knowledges_entry": {
         "all_sections": "***",
@@ -168,7 +168,7 @@
         "placeholder_category": "***",
         "placeholder_description": "***",
         "placeholder_name": "***",
-        "placeholder_updated_at": ""
+        "placeholder_updated_at": "***"
       },
       "new_pia": "***",
       "new_structure": "***",
@@ -189,7 +189,7 @@
       "structure": "***",
       "structure_name": "***",
       "title_close_creation": "***",
-      "validation": ""
+      "validation": "***"
     },
     "filters": {
       "assessor": "***",
@@ -204,7 +204,7 @@
       "sort": "***",
       "sort_by": "***",
       "status": "***",
-      "validator": ""
+      "validator": "***"
     },
     "lists": {
       "column_author": "***",
@@ -225,11 +225,11 @@
           "edit": "***",
           "export": "***",
           "remove": "***",
-          "unarchive": ""
+          "unarchive": "***"
         }
       }
     },
-    "search_filter": ""
+    "search_filter": "***"
   },
   "keyboardNavigation": "***",
   "knowledge_base": {
@@ -244,20 +244,20 @@
       "measures_on_data": "***",
       "no_result": "***",
       "organizational_measures": "***",
-      "title": ""
+      "title": "***"
     },
     "placeholder_add_measure": "***",
     "placeholder_help": "***",
     "search": "***",
-    "title": ""
+    "title": "***"
   },
   "measures": {
     "add": "***",
     "placeholder_title": "***",
-    "remove": ""
+    "remove": "***"
   },
   "misc": {
-    "display": ""
+    "display": "***"
   },
   "modals": {
     "close": "***",
@@ -265,7 +265,7 @@
       "comment": "***",
       "content": "***",
       "keep": "***",
-      "remove": ""
+      "remove": "***"
     }
   },
   "nextLabel": "***",
@@ -273,90 +273,90 @@
     "dashboard": {
       "step1": {
         "description": "***",
-        "title": ""
+        "title": "***"
       },
       "step2": {
         "description": "***",
-        "title": ""
+        "title": "***"
       },
       "step3": {
         "description": "***",
-        "title": ""
+        "title": "***"
       },
       "step4": {
         "description": "***",
-        "title": ""
+        "title": "***"
       },
       "step5": {
         "description": "***",
-        "title": ""
+        "title": "***"
       }
     },
     "entry": {
       "step1": {
         "description": "***",
-        "title": ""
+        "title": "***"
       },
       "step2": {
         "description": "***",
-        "title": ""
+        "title": "***"
       },
       "step3": {
         "description": "***",
-        "title": ""
+        "title": "***"
       },
       "step4": {
         "description": "***",
-        "title": ""
+        "title": "***"
       },
       "step5": {
         "description": "***",
-        "title": ""
+        "title": "***"
       },
       "step6": {
         "description": "***",
-        "title": ""
+        "title": "***"
       },
       "step7": {
         "description": "***",
-        "title": ""
+        "title": "***"
       }
     },
     "evaluation": {
       "step1": {
         "description": "***",
-        "title": ""
+        "title": "***"
       },
       "step2": {
         "description": "***",
-        "title": ""
+        "title": "***"
       },
       "step3": {
         "description": "***",
-        "title": ""
+        "title": "***"
       },
       "step4": {
         "description": "***",
-        "title": ""
+        "title": "***"
       },
       "step5": {
         "description": "***",
-        "title": ""
+        "title": "***"
       }
     },
     "general": {
       "done": "***",
       "next": "***",
-      "skip": ""
+      "skip": "***"
     },
     "validated": {
       "step1": {
         "description": "***",
-        "title": ""
+        "title": "***"
       },
       "step2": {
         "description": "***",
-        "title": ""
+        "title": "***"
       }
     }
   },
@@ -372,7 +372,7 @@
     "placeholder_search_content": "***",
     "treatment_lock": "***",
     "treatment_nok": "***",
-    "treatment_ok": ""
+    "treatment_ok": "***"
   },
   "overview-risks": {
     "important": "***",
@@ -382,7 +382,7 @@
     "negligible": "***",
     "potential_impacts": "***",
     "sources": "***",
-    "threat": ""
+    "threat": "***"
   },
   "pia": {
     "attachments": {
@@ -390,20 +390,20 @@
       "download": "***",
       "loading": "***",
       "remove": "***",
-      "title": ""
+      "title": "***"
     },
     "footer": {
       "ask_evaluation": "***",
       "mandatory_fields": "***",
       "structure_add_question": "***",
       "subsection_validated": "***",
-      "validate_evaluation": ""
+      "validate_evaluation": "***"
     },
     "header": {
       "display_action_plan": "***",
       "edition": "***",
       "evaluation": "***",
-      "preview": ""
+      "preview": "***"
     },
     "sections": {
       "based_on_structure_name": "***",
@@ -414,23 +414,23 @@
           "cancel": "***",
           "cancel_button": "***",
           "content": "***",
-          "title": ""
+          "title": "***"
         },
         "validation": {
           "cancel": "***",
           "cancel_button": "***",
           "content": "***",
-          "title": ""
+          "title": "***"
         }
       },
-      "validate_pia": ""
+      "validate_pia": "***"
     },
     "statuses": {
-      "5": ""
+      "5": "***"
     }
   },
   "question": {
-    "remove": ""
+    "remove": "***"
   },
   "questions": {
     "gauges": {
@@ -438,9 +438,9 @@
       "1": "***",
       "2": "***",
       "3": "***",
-      "4": ""
+      "4": "***"
     },
-    "placeholder_title": ""
+    "placeholder_title": "***"
   },
   "rejection_page": {
     "applied_adjustments": "***",
@@ -448,17 +448,17 @@
     "button": {
       "abandon_treatment": "***",
       "reject_pia": "***",
-      "send_for_validation": ""
+      "send_for_validation": "***"
     },
     "previous_rejection": "***",
     "rejection_reason": "***",
     "rejection_reason_placeholder": "***",
-    "title": ""
+    "title": "***"
   },
   "settings": {
     "content": "***",
     "title": "***",
-    "update": ""
+    "update": "***"
   },
   "showBullets": "***",
   "skipLabel": "***",
@@ -470,7 +470,7 @@
       "measures": "***",
       "no_action_plan": "***",
       "risks": "***",
-      "title": ""
+      "title": "***"
     },
     "actions": {
       "individual_download": "***",
@@ -480,7 +480,7 @@
       "individual_download_select": "***",
       "individual_to_download": "***",
       "print": "***",
-      "print_and_download": ""
+      "print_and_download": "***"
     },
     "attachments": "***",
     "csv_action_plan_comment": "***",
@@ -507,10 +507,10 @@
       "restore_version": "***",
       "revision": "***",
       "save": "***",
-      "show": ""
+      "show": "***"
     },
     "risks_cartography_title": "***",
-    "risks_overview_title": ""
+    "risks_overview_title": "***"
   },
   "validation_page": {
     "add_signed_pia": "***",
@@ -518,7 +518,7 @@
     "button": {
       "rejection": "***",
       "signed_validation": "***",
-      "simple_validation": ""
+      "simple_validation": "***"
     },
     "confirmation1": "***",
     "confirmation2": "***",
@@ -530,6 +530,6 @@
     "responsible": "***",
     "signed_attachments_history": "***",
     "validated_pia_with_signature": "***",
-    "waiting_for_signature": ""
+    "waiting_for_signature": "***"
   }
 }
