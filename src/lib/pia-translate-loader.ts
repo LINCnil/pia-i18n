@@ -19,6 +19,7 @@ import ro from './assets/i18n/ro.json';
 import sl from './assets/i18n/sl.json';
 import sv from './assets/i18n/sv.json';
 import lv from './assets/i18n/lv.json';
+import bg from './assets/i18n/bg.json';
 
 import { TranslateLoader } from '@ngx-translate/core';
 import { Observable } from 'rxjs';
@@ -89,6 +90,9 @@ export class PiaTranslateLoader implements TranslateLoader {
           break;
         case 'lv':
           observer.next(lv);
+          break;
+        case 'bg':
+          observer.next(bg);
           break;
         default:
           observer.next(fr);
