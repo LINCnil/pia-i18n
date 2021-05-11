@@ -23,40 +23,40 @@
 		"title": "Übersicht"
 	},
 	"authentication": {
-		"12_characters": "TO TRANSLATE - 12 characters",
-		"account_recovery": "TO TRANSLATE - Password recovery",
-		"activation_code": "TO TRANSLATE - Activation code",
-		"cancel": "TO TRANSLATE - Cancel",
-		"confirm": "TO TRANSLATE - Confirm",
-		"confirmation": "TO TRANSLATE - Confirmation",
-		"continue": "TO TRANSLATE - Continue",
-		"create_account": "TO TRANSLATE - Sign up",
-		"create_account2": "TO TRANSLATE - Create account",
+		"12_characters": "12 Zeichen",
+		"account_recovery": "Kennwort wiederherstellen",
+		"activation_code": "Aktivierungskode",
+		"cancel": "Abbrechen",
+		"confirm": "Bestätigen",
+		"confirmation": "Bestätigung",
+		"continue": "Weiter",
+		"create_account": "Anlegen",
+		"create_account2": "Benutzerkonto anlegen",
 		"description": "Diese Software der <strong>französischen Datenschutzbehörde (CNIL)</strong> soll den Datenverantwortlichen bei der Erstellung und dem Nachweis der Einhaltung der DS-GVO helfen. Sie hilft bei der Durchführung einer Datenschutz-Folgenabschätzung, indem sie die Verwendung der von der CNIL entwickelten PIA-Methode erleichtert.",
-		"email": "TO TRANSLATE - Email",
-		"email_placeholder": "TO TRANSLATE - Email",
-		"forgotten_password": "TO TRANSLATE - Forgotten ?",
-		"login": "TO TRANSLATE - Login",
-		"lowercase": "TO TRANSLATE - Lowercase",
-		"password": "TO TRANSLATE - Password",
-		"password_security": "TO TRANSLATE - Password security",
+		"email": "E-Mail",
+		"email_placeholder": "E-Mail",
+		"forgotten_password": "Vergessen?",
+		"login": "Anmeldung",
+		"lowercase": "Kleinbuchstaben",
+		"password": "Kennwort",
+		"password_security": "Kennwort Sicherheit",
 		"recovery_code": "TO TRANSLATE - Reset code",
 		"recovery_code_message": "TO TRANSLATE - An email containing a code has been sent to this email. Please enter the code in the field below.",
 		"recovery_code_not_sent": "TO TRANSLATE - Unreceived code?",
-		"saved_password": "TO TRANSLATE - Your password is saved. You can now sign in.",
-		"sign_in": "TO TRANSLATE - Sign in",
-		"sign_in_button": "TO TRANSLATE - Sign in",
-		"special_character": "TO TRANSLATE - Special character",
+		"saved_password": "Kennwort wurde gespeichert. Sie können sich nun anmelden.",
+		"sign_in": "Anmelden",
+		"sign_in_button": "Anmelden",
+		"special_character": "Sonderzeichen",
 		"start": "Starten",
 		"start_app": "Zugriff auf die PIA-Software (Beta)",
 		"subtitle1": "Eine Plattform zum Erstellen<br>und Verwalten Ihrer DSFAs",
 		"subtitle2": "Zugriff auf Tools und Glossare",
 		"title": "Datenschutz-Folgenabschätzung",
-		"transaction_error": "TO TRANSLATE - Unable to process your request.",
-		"uppercase": "TO TRANSLATE - Uppercase",
-		"wrong_activation_code": "TO TRANSLATE - (wrong)",
-		"wrong_confirmation": "TO TRANSLATE - Wrong confirmation",
-		"wrong_email": "TO TRANSLATE - Wrong email"
+		"transaction_error": "TO TRANSLATE - Die Anforderung kann nicht bearbeitet werden.",
+		"uppercase": "Großbuchstaben",
+		"wrong_activation_code": "(falsch)",
+		"wrong_confirmation": "fehlerhafte Bestätigung",
+		"wrong_email": "falsche E-Mail-Adresse"
 	},
 	"cartography": {
 		"important": "Substantiell",
@@ -81,22 +81,22 @@
 		"send": "Senden"
 	},
 	"date": {
-		"april": "TO TRANSLATE - April",
-		"august": "TO TRANSLATE - August",
-		"december": "TO TRANSLATE - December",
-		"earlier-in-this-month": "TO TRANSLATE - Earlier this month",
-		"earlier-in-this-week": "TO TRANSLATE - Earlier this week",
-		"february": "TO TRANSLATE - February",
-		"january": "TO TRANSLATE - January",
-		"july": "TO TRANSLATE - July",
-		"june": "TO TRANSLATE - June",
-		"march": "TO TRANSLATE - March",
-		"may": "TO TRANSLATE - May",
-		"november": "TO TRANSLATE - November",
-		"october": "TO TRANSLATE - October",
-		"september": "TO TRANSLATE - September",
-		"today": "TO TRANSLATE - Today",
-		"yesterday": "TO TRANSLATE - Yesterday"
+		"april": "April",
+		"august": "August",
+		"december": "Dezember",
+		"earlier-in-this-month": "Anfang des Monats",
+		"earlier-in-this-week": "Anfang der Woche",
+		"february": "Februar",
+		"january": "Januar",
+		"july": "Juli",
+		"june": "Juni",
+		"march": "März",
+		"may": "Mai",
+		"november": "November",
+		"october": "Oktober",
+		"september": "September",
+		"today": "Heute",
+		"yesterday": "Gestern"
 	},
 	"errors": {
 		"content": "Wenn Sie auf andere Probleme stoßen oder Verbesserungsvorschläge haben, können Sie diese über das folgende Formular zurücksenden: <a href=\"https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia\" target=\"_blank\">https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia</a>",
@@ -130,16 +130,16 @@
 		"to_correct": "zu berichtigen"
 	},
 	"header": {
-		"archives": "TO TRANSLATE - PIA Archives",
-		"current_pias": "TO TRANSLATE - Current PIAs",
+		"archives": "DSFA Archiv",
+		"current_pias": "Aktuelle DSFAs",
 		"exit_full_screen_mode": "Drücken Sie F11, um den Vollbildmodus zu verlassen.",
 		"help": {
-			"issue_reporting": "TO TRANSLATE - Report an issue",
-			"manual": "TO TRANSLATE - User manual",
+			"issue_reporting": "Ein Problem melden",
+			"manual": "Benutzerhandbuch",
 			"pia_example_link": "Beispiel DSFA",
 			"title": "Hilfe"
 		},
-		"homepage_link": "TO TRANSLATE - My PIAs",
+		"homepage_link": "Meine DSFAs",
 		"knowledge_base_link": "Wissensbasis",
 		"languages": {
 			"bg": "български",
@@ -177,8 +177,8 @@
 			"accessibility": "Unterstützung für Sehbehinderte (kontrastreiche Farben, bei Rot-Grün-Sehschwäche)",
 			"onboarding": "TO TRANSLATE - Restart tutorial",
 			"settings": "Einstellungen",
-			"url_setting": "TO TRANSLATE - Server URL configuration",
-			"users": "TO TRANSLATE - Users"
+			"url_setting": "Server-URL-Konfiguration",
+			"users": "Benutzer"
 		}
 	},
 	"help": {
@@ -225,62 +225,62 @@
 	"homepage": {
 		"cards": {
 			"author": "Bearbeiter",
-			"category": "TO TRANSLATE - Category",
+			"category": "Kategorie",
 			"creation_status": "Anlegen",
 			"date": "Datum",
 			"evaluation": "Prüfer",
-			"guest": "TO TRANSLATE - Guest(s)",
+			"guest": "Gast",
 			"import_pia": "DSFA importieren",
 			"import_structure": "Vorlage importieren",
 			"item": {
 				"consult_pia": "Ansehen",
-				"consult_structure": "TO TRANSLATE - Consult template",
+				"consult_structure": "Vorlage anzeigen",
 				"edit_pia": "Bearbeiten",
 				"edit_structure": "Bearbeiten der Vorlage",
 				"tools": {
 					"action_plan": "Aktionsplan<br>anzeigen",
-					"archive": "TO TRANSLATE - Archive",
+					"archive": "Archivieren",
 					"duplicate": "Kopieren",
 					"export": "Exportieren",
 					"more_options": "Weitere Optionen",
 					"pia": "DSFA<br>anzeigen",
-					"remove": "TO TRANSLATE - Delete",
-					"unarchive": "TO TRANSLATE - Unarchive"
+					"remove": "Löschen",
+					"unarchive": "Wiederherstellen"
 				},
-				"validate_pia": "TO TRANSLATE - Validate"
+				"validate_pia": "Prüfen"
 			},
 			"knowledges": {
-				"edit": "TO TRANSLATE - Edit the base",
-				"import": "TO TRANSLATE - Import a base",
-				"new": "TO TRANSLATE - Create a base",
-				"placeholder_author": "TO TRANSLATE - Author",
-				"placeholder_contributors": "TO TRANSLATE - Contributors",
-				"placeholder_entry_number": "TO TRANSLATE - Number of entries",
-				"placeholder_name": "TO TRANSLATE - Base's name"
+				"edit": "Wissensdatenbank ändern",
+				"import": "Wissensdatenbank importieren",
+				"new": "Neue Wissensdatenbank",
+				"placeholder_author": "Autor",
+				"placeholder_contributors": "Mitwirkende",
+				"placeholder_entry_number": "Anzahl Einträge",
+				"placeholder_name": "Name der Wissensdatenbank"
 			},
 			"knowledges_entry": {
-				"all_sections": "TO TRANSLATE - All sections",
-				"choose_category": "TO TRANSLATE - Choose a category",
-				"contents": "TO TRANSLATE - Contents",
-				"create": "TO TRANSLATE - Create this element",
-				"linked_to": "TO TRANSLATE - Linked to",
-				"new": "TO TRANSLATE - Create an element",
-				"placeholder_category": "TO TRANSLATE - Category",
-				"placeholder_description": "TO TRANSLATE - Your description here...",
-				"placeholder_name": "TO TRANSLATE - Element's name",
-				"placeholder_updated_at": "TO TRANSLATE - Last updated"
+				"all_sections": "Alle Abschnitte",
+				"choose_category": "Kategorie auswählen",
+				"contents": "TO TRANSLATE - Inhalt",
+				"create": "Diesen Eintrag anlegen",
+				"linked_to": "Verknüpft mit",
+				"new": "Eintrag anlegen",
+				"placeholder_category": "Kategorie",
+				"placeholder_description": "Beschreibung...",
+				"placeholder_name": "Name des Eintrags",
+				"placeholder_updated_at": "Letzte Aktualisierung"
 			},
 			"new_pia": "Neue DSFA",
 			"new_structure": "Neue Vorlage",
 			"or": "oder",
 			"pia_name": "DSFA",
 			"placeholder_author": "Vorname Nachname",
-			"placeholder_category": "TO TRANSLATE - Category",
+			"placeholder_category": "Kategorie",
 			"placeholder_evaluation": "Vorname Nachname",
-			"placeholder_import_knowledgeBase": "TO TRANSLATE - Import base",
+			"placeholder_import_knowledgeBase": "Wissensdatenbank importieren",
 			"placeholder_import_pia": "DSFA importieren",
 			"placeholder_import_structure": "Vorlage importieren",
-			"placeholder_new_knowledgeBase": "TO TRANSLATE - New base",
+			"placeholder_new_knowledgeBase": "Neue Wissensdatenbank",
 			"placeholder_new_pia": "Neue DSFA",
 			"placeholder_new_structure": "Neue Vorlage",
 			"placeholder_pia_name": "DSFA-Titel",
@@ -300,10 +300,10 @@
 		"filters": {
 			"assessor": "Überprüft von",
 			"author": "Bearbeitet von",
-			"card": "TO TRANSLATE - Card view",
+			"card": "Rasteransicht",
 			"card_rocket_content": "Für eine neue DSFA,<br> klicken Sie auf \"+\"",
 			"card_rocket_content_structure": "Fangen Sia an!<br><br>Um eine Vorlage<br>zu beginnen, klicken Sie auf<br> auf das +.",
-			"category": "TO TRANSLATE - Category",
+			"category": "Kategorie",
 			"date": "Datum",
 			"import_pia": "DSFA importieren",
 			"import_structure": "Vorlage importieren",
@@ -336,18 +336,18 @@
 			"item": {
 				"tools": {
 					"action_plan": "Aktionsplan anzeigen",
-					"archive": "TO TRANSLATE - Archive",
+					"archive": "Archivieren",
 					"consult": "Ansehen",
 					"duplicate": "Kopieren",
 					"edit": "Bearbeiten",
 					"export": "Exportieren",
 					"pia": "DSFA anzeigen",
-					"remove": "TO TRANSLATE - Delete",
-					"unarchive": "TO TRANSLATE - Unarchive"
+					"remove": "Löschen",
+					"unarchive": "Wiederherstellen"
 				}
 			}
 		},
-		"search_filter": "TO TRANSLATE - Search"
+		"search_filter": "Suchen"
 	},
 	"knowledge_base": {
 		"add_measure": "Hinzufügen",
@@ -361,8 +361,8 @@
 			"organizational_measure": "Organisationsmaßnahme",
 			"principle": "Prinzip"
 		},
-		"choose_knowledge_base": "TO TRANSLATE - Choose your knowledge base",
-		"default_knowledge_base": "TO TRANSLATE - CNIL's knowledge base",
+		"choose_knowledge_base": "Wähle die eigene Wissensdatenbank",
+		"default_knowledge_base": "CNILs Wissensdatenbank",
 		"filters": {
 			"all": "Alle",
 			"definitions": "Definitionen",
@@ -935,8 +935,8 @@
 		},
 		"archive": "Archivieren",
 		"archive_pia": {
-			"archive": "TO TRANSLATE - Archive PIA",
-			"content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>archive this PIA ?"
+			"archive": "DSFA archivieren",
+			"content": "<span class='strong'>Warning,</span><br>Sind Sie sicher, dass Sie<br>diese DSFA archivieren möchten?"
 		},
 		"ask_for_evaluation": {
 			"content": "Der Unterabschnitt steht jetzt zur Überprüfung bereit."
@@ -968,7 +968,7 @@
 			"review_section": "Überprüfen Sie einen Abschnitt"
 		},
 		"general_error": {
-			"content": "TO TRANSLATE - All our apologies an error has occurred."
+			"content": "Entschuldigung, es ist ein Fehler aufgetreten."
 		},
 		"import_wrong_pia_file": {
 			"content": "Die importierte Datei entspricht nicht dem Dateityp einer DSFA."
@@ -977,12 +977,12 @@
 			"content": "Die importierte Datei entspricht nicht dem Dateityp einer Vorlage."
 		},
 		"knowledge": {
-			"content": "TO TRANSLATE - Are you sure you want to delete this element?",
-			"remove": "TO TRANSLATE - Delete this element"
+			"content": "Sind Sie sicher, dass Sie diesen Eintrag löschen wollen?",
+			"remove": "Eintrag löschen"
 		},
 		"knowledges": {
-			"content": "TO TRANSLATE - Are you sure you want to delete this knowledge base?",
-			"remove": "TO TRANSLATE - Delete this knowledge base"
+			"content": "Sind Sie sicher, dass Sie diese Wissensdatenbank löschen wollen?",
+			"remove": "Wissensdatenbank löschen"
 		},
 		"modal_select_text_pia": {
 			"content": "Der Inhalt der DSFA wurde in die Zwischenablage kopiert."
@@ -992,8 +992,8 @@
 		},
 		"recover_version": {
 			"continue": "Fortsetzen",
-			"message": "TO TRANSLATE - By continuing, you will restore this report version: {{date}}.<br><br>The current version will be saved.",
-			"title": "TO TRANSLATE - Restore a previous version"
+			"message": "Beim Fortsetzen wird diese Report-Version wiederhergestellt: {{date}}.<br><br>Die aktuelle Version wird gesichert.",
+			"title": "Vorherige Version wiederherstellen"
 		},
 		"refuse_pia": {
 			"content": "Nach Ihrer Ablehnung wird vom Analyse-<br>in den Überprüfungsmodus zurückgesetzt,<br>um die notwendigen Änderungen vorzunehmen."
@@ -1010,7 +1010,7 @@
 			"remove": "Entfernen Sie<br>diese Maßnahme"
 		},
 		"remove_pia": {
-			"content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>remove permanently this PIA?",
+			"content": "<span class='strong'>Warnung!</span><br>Sind Sie sicher, dass Sie<br>diese DSFA endgültig löschen möchten?",
 			"remove": "Diese DSFA entfernen"
 		},
 		"remove_question": {
@@ -1034,8 +1034,8 @@
 		},
 		"start_evaluation": "Beginnen Sie die Überprüfung",
 		"unarchive_pia": {
-			"content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>unarchive this PIA ?",
-			"unarchive": "TO TRANSLATE - Unarchive PIA"
+			"content": "<span class='strong'>Warnung!</span><br>Sind Sie sicher, dass Sie<br>diese DSFA wiederherstellen möchten?",
+			"unarchive": "DSFA wiederherstellen"
 		},
 		"update_server_url_nok": {
 			"content": "Keine Verbindung möglich."
@@ -1045,8 +1045,8 @@
 		},
 		"users": {
 			"delete": {
-				"confirm": "TO TRANSLATE - Remove user",
-				"content": "TO TRANSLATE - Are you sure you want to delete this user?"
+				"confirm": "Benutzer entfernen",
+				"content": "Sind Sie sicher, diesen Benutzer zu löschen?"
 			}
 		},
 		"validate_evaluation": {
@@ -1059,24 +1059,24 @@
 	"onboarding": {
 		"dashboard": {
 			"step1": {
-				"description": "TO TRANSLATE - Click on the <strong>+</strong> to create your first PIA.",
-				"title": "TO TRANSLATE - Create a PIA"
+				"description": "Auf das <strong>+</strong> klicken, um die erste DSFA anzulegen.",
+				"title": "DSFA anlegen"
 			},
 			"step2": {
 				"description": "TO TRANSLATE - <p><strong>Editors</strong> write the first version of the analysis.</p><p>They are, for example, the project managers associated with the data processing.</p>",
-				"title": "TO TRANSLATE - PIA's roles"
+				"title": "DSFA Rollen"
 			},
 			"step3": {
 				"description": "TO TRANSLATE - <p><strong>Reviewers</strong> are involved in a second phase.</p><p>They use their legal or technical expertise to check the quality and compliance of the processing.</p><p>They are, for example, DPO, legal experts, ...</p>",
-				"title": "TO TRANSLATE - PIA's roles"
+				"title": "DSFA Rollen"
 			},
 			"step4": {
 				"description": "TO TRANSLATE - <p>The <strong>validator</strong> accepts or rejects the implementation of the processing. He must sign the analysis.</p><p>He is the controller, e.g. the CEO.</p>",
-				"title": "TO TRANSLATE - PIA's roles"
+				"title": "DSFA Rollen"
 			},
 			"step5": {
 				"description": "TO TRANSLATE - <p><strong>Templates</strong> are an advanced feature. They are used to create a pre-filled basis for the analysis.</p><p>You can create templates by going to the associated section accessible from the top menu.</p>",
-				"title": "TO TRANSLATE - Templates"
+				"title": "Vorlagen"
 			}
 		},
 		"entry": {
@@ -1094,19 +1094,19 @@
 			},
 			"step4": {
 				"description": "TO TRANSLATE - These describe the security measures already planned for the processing operation and make it possible to assess its potential impact on the data subjects.",
-				"title": "TO TRANSLATE - Risks"
+				"title": "Risiken"
 			},
 			"step5": {
 				"description": "TO TRANSLATE - This allows the DPO to express her opinion on the implementation of the processing and the controller to accept or refuse it.",
-				"title": "TO TRANSLATE - Validation"
+				"title": "Prüfung"
 			},
 			"step6": {
 				"description": "TO TRANSLATE - <p>It provides contextual assistance in carrying out the analysis and is based on the GDPR, the security guide and the CNIL's PIA guides</p><p>In addition to these contents, you can also create your own knowledge bases to easily access information specific to your organization.</p>",
-				"title": "TO TRANSLATE - The knowledge base"
+				"title": "Wissensdatenbank"
 			},
 			"step7": {
 				"description": "TO TRANSLATE - At any time during the analysis, you can download the analysis in various formats to share it with your colleagues.",
-				"title": "TO TRANSLATE - Export your PIA"
+				"title": "DSFA exportieren"
 			}
 		},
 		"evaluation": {
@@ -1590,25 +1590,25 @@
 		"title": "Information zur DSFA"
 	},
 	"users": {
-		"add_new_user": "TO TRANSLATE - Add a new user",
-		"cancel": "TO TRANSLATE - Cancel",
-		"choose_profile": "TO TRANSLATE - Choose a profile for this user",
-		"continue": "TO TRANSLATE - Continue",
-		"data": "TO TRANSLATE - Data",
-		"edit_user": "TO TRANSLATE - Edit an user",
-		"email": "TO TRANSLATE - Email",
-		"first_name": "TO TRANSLATE - First name",
+		"add_new_user": "Neuen Benutzer hinzufügen",
+		"cancel": "Abbrechen",
+		"choose_profile": "Profil für den Benutzer auswählen",
+		"continue": "Weiter",
+		"data": "Daten",
+		"edit_user": "Benutzer ändern",
+		"email": "E-Mail",
+		"first_name": "Vorname",
 		"functional_admin": "TO TRANSLATE - Functional administrator",
-		"last_name": "TO TRANSLATE - Last name",
-		"new_user_button": "TO TRANSLATE - New user",
-		"profile": "TO TRANSLATE - Profile",
-		"remove": "TO TRANSLATE - Delete",
-		"remove_current_user_error_message": "TO TRANSLATE - You can't delete your own account.",
-		"remove_last_functional_admin_error_message": "TO TRANSLATE - You cannot delete this user because at least one Technical Administrator account must remain.",
-		"remove_user_with_linked_pias_error_message": "TO TRANSLATE - Several PIAs are attached to this user, so you cannot delete him.",
-		"technical_admin": "TO TRANSLATE - Technical administrator",
-		"update": "TO TRANSLATE - Update",
-		"user": "TO TRANSLATE - User"
+		"last_name": "Name",
+		"new_user_button": "Benutzer anlegen",
+		"profile": "Profil",
+		"remove": "Löschen",
+		"remove_current_user_error_message": "Das eigene Benutzerkonto kann nicht gelöscht werden.",
+		"remove_last_functional_admin_error_message": "Löschen des Benutzers nicht möglich, da mindestens ein Technischer Administrator angelegt sein muss.",
+		"remove_user_with_linked_pias_error_message": "Diverse DSFAs sind diesem Benutzer zugeordnet, löschen nicht möglich.",
+		"technical_admin": "Technischer Administrator",
+		"update": "Ändern",
+		"user": "Benutzer"
 	},
 	"validation_page": {
 		"add_signed_pia": "Fügen Sie die unterschriebene DSFA hinzu",
