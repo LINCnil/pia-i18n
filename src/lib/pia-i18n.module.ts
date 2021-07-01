@@ -25,6 +25,7 @@ import localeRO from '@angular/common/locales/ro';
 import localeSL from '@angular/common/locales/sl';
 import localeSV from '@angular/common/locales/sv';
 import localeLV from '@angular/common/locales/lv';
+import localeBG from '@angular/common/locales/bg';
 import { TranslateService } from '@ngx-translate/core';
 
 registerLocaleData(localeEN, 'en');
@@ -48,6 +49,7 @@ registerLocaleData(localeRO, 'ro');
 registerLocaleData(localeSL, 'sl');
 registerLocaleData(localeSV, 'sv');
 registerLocaleData(localeLV, 'lv');
+registerLocaleData(localeBG, 'bg');
 
 @NgModule({
   declarations: [],
