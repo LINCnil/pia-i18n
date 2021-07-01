@@ -39,10 +39,10 @@
 		"login": "Anmeldung",
 		"lowercase": "Kleinbuchstaben",
 		"password": "Kennwort",
-		"password_security": "Kennwort Sicherheit",
-		"recovery_code": "TO TRANSLATE - Reset code",
-		"recovery_code_message": "TO TRANSLATE - An email containing a code has been sent to this email. Please enter the code in the field below.",
-		"recovery_code_not_sent": "TO TRANSLATE - Unreceived code?",
+		"password_security": "Kennwortsicherheit",
+		"recovery_code": "Code zurücksetzen",
+		"recovery_code_message": "Es wurde eine E-Mail mit einem Code an die angegebene Adresse gesendet. Bitte geben Sie den Code in das untenstehende Feld ein.",
+		"recovery_code_not_sent": "Code nicht erhalten?",
 		"saved_password": "Kennwort wurde gespeichert. Sie können sich nun anmelden.",
 		"sign_in": "Anmelden",
 		"sign_in_button": "Anmelden",
@@ -52,7 +52,7 @@
 		"subtitle1": "Eine Plattform zum Erstellen<br>und Verwalten Ihrer DSFAs",
 		"subtitle2": "Zugriff auf Tools und Glossare",
 		"title": "Datenschutz-Folgenabschätzung",
-		"transaction_error": "TO TRANSLATE - Die Anforderung kann nicht bearbeitet werden.",
+		"transaction_error": "Die Anforderung kann nicht bearbeitet werden.",
 		"uppercase": "Großbuchstaben",
 		"wrong_activation_code": "(falsch)",
 		"wrong_confirmation": "fehlerhafte Bestätigung",
@@ -175,7 +175,7 @@
 		"tools": {
 			"about": "Über",
 			"accessibility": "Unterstützung für Sehbehinderte (kontrastreiche Farben, bei Rot-Grün-Sehschwäche)",
-			"onboarding": "TO TRANSLATE - Restart tutorial",
+			"onboarding": "Starten Sie das Tutorial neu",
 			"settings": "Einstellungen",
 			"url_setting": "Server-URL-Konfiguration",
 			"users": "Benutzer"
@@ -261,7 +261,7 @@
 			"knowledges_entry": {
 				"all_sections": "Alle Abschnitte",
 				"choose_category": "Kategorie auswählen",
-				"contents": "TO TRANSLATE - Inhalt",
+				"contents": "Inhalt",
 				"create": "Diesen Eintrag anlegen",
 				"linked_to": "Verknüpft mit",
 				"new": "Eintrag anlegen",
@@ -307,7 +307,7 @@
 			"date": "Datum",
 			"import_pia": "DSFA importieren",
 			"import_structure": "Vorlage importieren",
-			"list": "TO TRANSLATE - List view",
+			"list": "Listenansicht",
 			"list_rocket_content": "Fangen Sie an! Um eine DSFA anzulegen, klicken Sie auf \"Neue DSFA\"",
 			"list_rocket_content_structure": "Fangen Sie an! Um eine Vorlage<br>zu beginnen, klicken Sie auf die Schaltfläche +.",
 			"name": "Name",
@@ -322,7 +322,7 @@
 		"lists": {
 			"column_actions": "Aktionen",
 			"column_author": "Bearbeitet von",
-			"column_category": "TO TRANSLATE - Category",
+			"column_category": "Kategorie",
 			"column_creation": "Bearbeitet",
 			"column_evaluation": "Überprüft von",
 			"column_pia": "DSFA",
@@ -945,7 +945,7 @@
 			"content": "Dieser Abschnitt wurde zur Bearbeitung zurückgeschickt.<br>Einige Felder müssen korrigiert werden,<br>damit sie ordnungsgemäß überprüft werden können."
 		},
 		"back_to_evaluation": {
-			"content": "Dieser Abschnitt wurde zur Überprüfung zurückgeschickt.<br>Einige Felder müssen überprüft werden,<br>um ihre ordnungsgemäße Validierung zu ermöglichen."
+			"content": "Dieser Abschnitt wurde zur Überprüfung zurückgeschickt.<br>Einige Felder müssen überprüft werden,<br>um ihre ordnungsgemäße Prüfung zu ermöglichen."
 		},
 		"back_to_home": "Zurück zur Startseite",
 		"cancel": "Abbrechen",
@@ -1063,87 +1063,87 @@
 				"title": "DSFA anlegen"
 			},
 			"step2": {
-				"description": "TO TRANSLATE - <p><strong>Editors</strong> write the first version of the analysis.</p><p>They are, for example, the project managers associated with the data processing.</p>",
+				"description": "<p>Die <strong>Redakteure</strong> schreiben die erste Version der Analyse.</p><p>Dies sind beispielsweise die mit der Bearbeitung verbundenen Projektleiter.</p>",
 				"title": "DSFA Rollen"
 			},
 			"step3": {
-				"description": "TO TRANSLATE - <p><strong>Reviewers</strong> are involved in a second phase.</p><p>They use their legal or technical expertise to check the quality and compliance of the processing.</p><p>They are, for example, DPO, legal experts, ...</p>",
+				"description": "<p>In einem zweiten Schritt greifen die <strong>Bewerter</strong> ein.</p><p>Sie kontrollieren dank ihrer rechtlichen oder technischen Kenntnisse die Qualität und Konformität der Verarbeitung.</p><p>Dies sind zum Beispiel die DSB, Anwälte, ...</p>",
 				"title": "DSFA Rollen"
 			},
 			"step4": {
-				"description": "TO TRANSLATE - <p>The <strong>validator</strong> accepts or rejects the implementation of the processing. He must sign the analysis.</p><p>He is the controller, e.g. the CEO.</p>",
+				"description": "<p>Der <strong>Bestätiger</strong> akzeptiert die Implementierung der Verarbeitung oder nicht. Er muss die Analyse unterschreiben.</p><p>Dies ist der Datenverantwortliche, beispielsweise der CEO.</p>",
 				"title": "DSFA Rollen"
 			},
 			"step5": {
-				"description": "TO TRANSLATE - <p><strong>Templates</strong> are an advanced feature. They are used to create a pre-filled basis for the analysis.</p><p>You can create templates by going to the associated section accessible from the top menu.</p>",
+				"description": "<p>Die <strong>Vorlagen</strong> sind eine erweiterte Funktion. Sie ermöglichen es Ihnen, eine vorausgefüllte Datenbank für die Analyse zu erstellen.</p><p>Sie können Vorlagen erstellen, indem Sie im oberen Menü zum entsprechenden Abschnitt gehen.</p>",
 				"title": "Vorlagen"
 			}
 		},
 		"entry": {
 			"step1": {
-				"description": "TO TRANSLATE - To move from one part of the analysis to another, use the left navigation menu.",
-				"title": "TO TRANSLATE - Browse"
+				"description": "Um von einem Teil der Analyse zu einem anderen zu gelangen, verwenden Sie das Navigationsmenü auf der linken Seite.",
+				"title": "Durchsuchen"
 			},
 			"step2": {
-				"description": "TO TRANSLATE - This is used to explain the purpose of the processing and how it will be implemented.",
-				"title": "TO TRANSLATE - Context"
+				"description": "Es wird verwendet, um den Zweck der Verarbeitung zu erklären und wie sie durchgeführt werden soll.",
+				"title": "Der Kontext"
 			},
 			"step3": {
-				"description": "TO TRANSLATE - These aim to ensure that the processing complies with the GDPR.",
-				"title": "TO TRANSLATE - Fundamental principles"
+				"description": "Sie stellen sicher, dass die Verarbeitung mit der DS-GVO konform ist.",
+				"title": "Die grundlegenden Prinzipien"
 			},
 			"step4": {
-				"description": "TO TRANSLATE - These describe the security measures already planned for the processing operation and make it possible to assess its potential impact on the data subjects.",
+				"description": "Sie beschreiben die bereits für die Verarbeitung vorgesehenen Sicherheitsmaßnahmen und ermöglichen eine Bewertung der möglichen Auswirkungen auf die betroffenen Personen.",
 				"title": "Risiken"
 			},
 			"step5": {
-				"description": "TO TRANSLATE - This allows the DPO to express her opinion on the implementation of the processing and the controller to accept or refuse it.",
+				"description": "Sie ermöglicht es dem DSB, seine Meinung zur Durchführung der Verarbeitung zu äußern und dem für die Verarbeitung Verantwortlichen, diese zu akzeptieren oder abzulehnen.",
 				"title": "Prüfung"
 			},
 			"step6": {
-				"description": "TO TRANSLATE - <p>It provides contextual assistance in carrying out the analysis and is based on the GDPR, the security guide and the CNIL's PIA guides</p><p>In addition to these contents, you can also create your own knowledge bases to easily access information specific to your organization.</p>",
+				"description": "<p>Es bietet kontextbezogene Hilfestellungen zur Durchführung der Analyse und basiert auf der DS-GVO, dem Sicherheitsleitfaden und den PIA-Leitfäden der CNIL.</p><p>Zusätzlich zu diesen Inhalten können Sie auch Ihre eigenen Wissensdatenbanken erstellen, um einfach auf organisationsspezifische Informationen zuzugreifen.</p>",
 				"title": "Wissensdatenbank"
 			},
 			"step7": {
-				"description": "TO TRANSLATE - At any time during the analysis, you can download the analysis in various formats to share it with your colleagues.",
+				"description": "Zu jedem Zeitpunkt des Analyseprozesses können Sie die Analyse in verschiedenen Formaten herunterladen, um sie mit Ihren Kollegen zu teilen.",
 				"title": "DSFA exportieren"
 			}
 		},
 		"evaluation": {
 			"step1": {
-				"description": "TO TRANSLATE - The evaluation can take an entire section into account, or at the level of each element of a section.",
-				"title": "TO TRANSLATE - Evaluate the PIA"
+				"description": "Die Auswertung kann auf der Ebene eines gesamten Abschnitts oder auf der Ebene der einzelnen Elemente eines Abschnitts erfolgen.",
+				"title": "Beurteilung der DSFA"
 			},
 			"step2": {
-				"description": "TO TRANSLATE - <p>This evaluation indicates to the editors that elements are missing in order to make a relevant assessment.</p><p>The assessor must indicate these in the associated <strong>evaluation comment</strong> field. The editor will make the necessary corrections.</p>",
-				"title": "TO TRANSLATE - To correct"
+				"description": "<p>Diese Bewertung zeigt den Verfassern an, dass Elemente fehlen, um eine relevante Bewertung vorzunehmen.</p><p>Der Prüfer sollte diese im zugehörigen <strong>Beurteilungskommentarfeld</strong> angeben. Der Autor wird die notwendigen Korrekturen vornehmen.</p>",
+				"title": "Muss korrigiert werden"
 			},
 			"step3": {
-				"description": "TO TRANSLATE - <p>This assessment indicates the processing elements to be revised. They are detailed in the <strong>action plan / corrective action</strong> field.</p><p>These measures will be automatically added to the action plan part of the analysis. It is necessary to implement them as soon as possible.</p>",
-				"title": "TO TRANSLATE - Improvable"
+				"description": "<p>Diese Bewertung zeigt die zu überarbeitenden Behandlungspunkte an. Sie sind im Feld <strong>Aktionsplan / Korrekturmaßnahmen</strong>detailliert aufgeführt.</p><p>Diese Maßnahmen werden automatisch zum Aktionsplanteil der Analyse hinzugefügt. Es ist notwendig, sie so schnell wie möglich zu implementieren.</p>",
+				"title": "Verbesserungswürdig"
 			},
 			"step4": {
-				"description": "TO TRANSLATE - This assessment means that this part of the processing can be implemented without modification.",
-				"title": "TO TRANSLATE - Acceptable"
+				"description": "Diese Bewertung bedeutet, dass dieses Behandlungselement ohne Änderung implementiert werden kann.",
+				"title": "Annehmbar"
 			},
 			"step5": {
-				"description": "TO TRANSLATE - If the assessment of a section has not yet begun, the request forassessment may be cancelled to make changes to the processing description.",
-				"title": "TO TRANSLATE - Cancel a request"
+				"description": "Wenn die Beurteilung einer Sektion noch nicht begonnen hat, ist es möglich, die Beurteilungsanfrage abzubrechen, um Änderungen an der Verabeitungsbeschreibung vorzunehmen.",
+				"title": "Stornieren einer Anfrage"
 			}
 		},
 		"general": {
-			"done": "TO TRANSLATE - Confirm",
-			"next": "TO TRANSLATE - Next",
-			"skip": "TO TRANSLATE - Skip"
+			"done": "Bestätigen",
+			"next": "Weiter",
+			"skip": "Überspringen"
 		},
 		"validated": {
 			"step1": {
-				"description": "TO TRANSLATE - A complete and validated analysis can be consulted at any time via a dedicated interface.",
-				"title": "TO TRANSLATE - Consult a validated PIA"
+				"description": "Eine vollständig überpüfte Analyse kann jederzeit über eine spezielle Schnittstelle abgerufen werden.",
+				"title": "Ansicht einer überpüften DSFA"
 			},
 			"step2": {
-				"description": "TO TRANSLATE - It is necessary to review regularly an analysis. You can edit or duplicate it at any time to review its content according to the processing evolution.",
-				"title": "TO TRANSLATE - Update a validated PIA"
+				"description": "Es ist notwendig, die Analyse regelmäßig zu überarbeiten. Sie können sie jederzeit bearbeiten oder duplizieren, um ihren Inhalt entsprechend der Entwicklung der Behandlung zu überarbeiten.",
+				"title": "Aktualisieren einer geprüften DSFA"
 			}
 		}
 	},
@@ -1181,7 +1181,7 @@
 	"pia": {
 		"attachments": {
 			"add": "Hinzufügen",
-			"download": "TO TRANSLATE - Download the attachment",
+			"download": "Download der Anlage",
 			"loading": "",
 			"remove": "Löschen",
 			"title": "Anlagen"
@@ -1578,12 +1578,12 @@
 		"previous_page": "Zurück zur vorherigen Seite",
 		"rejection_reason": "Ablehnungsgrund",
 		"revision": {
-			"current_version": "TO TRANSLATE - Current version",
-			"pia_version": "TO TRANSLATE - PIA versions",
-			"restore_version": "TO TRANSLATE - Restore",
-			"revision": "TO TRANSLATE - Versions and revision",
-			"save": "TO TRANSLATE - Create a new version",
-			"show": "TO TRANSLATE - Display the {{length}} versions"
+			"current_version": "Aktuelle Version",
+			"pia_version": "Versionen der DSFA",
+			"restore_version": "Wiederherstellen",
+			"revision": "Versionen und Überarbeitungen",
+			"save": "Erstellen Sie eine neue Version",
+			"show": " {{length}} Version (en) anzeigen"
 		},
 		"risks_cartography_title": "Risikokartierung",
 		"risks_overview_title": "Risikokübersicht",
@@ -1598,7 +1598,7 @@
 		"edit_user": "Benutzer ändern",
 		"email": "E-Mail",
 		"first_name": "Vorname",
-		"functional_admin": "TO TRANSLATE - Functional administrator",
+		"functional_admin": "Funktionaler Administrator",
 		"last_name": "Name",
 		"new_user_button": "Benutzer anlegen",
 		"profile": "Profil",
