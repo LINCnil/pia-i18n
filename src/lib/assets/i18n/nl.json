@@ -140,7 +140,7 @@
     "placeholder_acceptable": "Volgens de beschikbare informatie zijn de geïmplementeerde maatregelen toereikend om goed te voldoen aan de gegevensbeschermingsvereisten.",
     "placeholder_improvable1": "Volgens de beschikbare informatie moeten aanvullende maatregelen worden genomen om de gegevensbescherming van de verwerking te verbeteren.",
     "placeholder_improvable2": "Voer uw opmerkingen in.",
-    "placeholder_to_correct": "De verstrekte informatie is niet voldoende om ze goed te evalueren. Stuur terug naar de editor om de originele inzending te verbeteren.",
+    "placeholder_to_correct": "De verstrekte informatie is niet voldoende om ze goed te evalueren. Stuur terug naar de redacteur om de originele inzending te verbeteren.",
     "status": ["Hangende", "Te corrigeren", "Verbeterbaar", "Aanvaardbaar"],
     "title": "Evaluatie",
     "to_correct": "Te corrigeren"
@@ -239,7 +239,7 @@
   },
   "homepage": {
     "cards": {
-      "author": "Aanpassen",
+      "author": "Redactie",
       "category": "Categorie",
       "creation_status": "Creatie",
       "date": "Datum",
@@ -336,7 +336,7 @@
     },
     "lists": {
       "column_actions": "Acties",
-      "column_author": "Aanpassen",
+      "column_author": "Redactie",
       "column_category": "Categorie",
       "column_creation": "Gemaakt",
       "column_evaluation": "Reviewen",
@@ -512,7 +512,7 @@
         "source": "PIAF Connected objects p42 - WIKI"
       },
       "PIA_DEF_MIN4": {
-        "description": "The system can be organised into independent parts with separate access control functions. The data can also be divided between these independent sub-systems and controlled by each sub-system using different access control mechanisms. If a sub-system is compromised, the impacts on all of the data can thus be reduced.",
+        "description": "Het systeem kan worden opgeeeld in onafhankelijke onderdelen met aparte toegangscontrolefuncties. De gegevens kunnen ook worden verdeeld tussen deze twee onafhankelijke subsystemen and worden aangestuurd door elke subsysteem gebruikmakend van verschillende toegangcontrolemechanismen. De impact op alle data kan zo worden gereduceerd als een subsysteem gecompromitteerd geraakt.",
         "name": "Vermindering van gegevensaccumulatie",
         "source": "PIAF Connected objects p42 - WIKI"
       },
@@ -582,7 +582,7 @@
         "source": "PIA1 p11 - WIKI"
       },
       "PIA_DEF_ST": {
-        "description": "Natuurlijke of rechtspersoon, overheidsinstantie, agentschap of andere instantie die persoonsgegevens namens de verantwoordelijke voor de verwerking verwerkt, zie <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&from=NL\">Art. 4.8 van de [AVG]</a>.<br>The processor and any person acting under the authority of the controller or of the processor, who has access to personal data, shall not process those data except on instructions from the controller, unless required to do so by Union or Member State law, see <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&from=NL\">Art. 29 van de [AVG]</a>.",
+        "description": "Natuurlijke of rechtspersoon, overheidsinstantie, agentschap of andere instantie die persoonsgegevens namens de verantwoordelijke voor de verwerking verwerkt, zie <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&from=NL\">Art. 4.8 van de [AVG]</a>.<br>De verwerker en eenieder die onder het gezag van de verwerkingsverantwoordelijke of van de verwerker handelt en toegang heeft tot persoonsgegevens, verwerkt deze uitsluitend in opdracht van de verwerkingsverantwoordelijke, tenzij hij Unierechtelijk of lidstaatrechtelijk tot de verwerking gehouden is., zie <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&from=NL\">Art. 29 van de [AVG]</a>.",
         "name": "Verwerker",
         "source": "AVG Art. 4.8 and 29"
       },
@@ -723,8 +723,8 @@
         "source": "PIAF Connected Objects p18"
       },
       "PIA_METHOD_MES": {
-        "description": "(TRANSLATION REQUIRED) Planned controls are those originally put in place, before any analysis by the assessor. Corrective measures advised by the assessor will be stated in the action plan and will enable a second assessment of the severity and likelihood of the risk.",
-        "name": "(TRANSLATION REQUIRED) Planned and corrective controls",
+        "description": "Geplande beheersmaatregelen zijn de naamtregelen die origineel werdn genomen, voor enige analyse door de beoordelaar. Corrigerende maatregelen die worden aangeraden door de beoordelaar zullen worden opgenomen in het actieplan en zullen een tweede beoordeling toelaten van de ernst en de waarschijnlijkheid van het risico.",
+        "name": "Geplande en corrigerende beheersmaatregelen",
         "source": ""
       },
       "PIA_ORG_AUD": {
@@ -1490,7 +1490,7 @@
     "pia_name": "PIA",
     "pia_validator": "Naam validator",
     "preview_dpo_opinion": "Mening van DPO en betrokkenen",
-    "preview_edition": "Aanpassen",
+    "preview_edition": "Redactie",
     "preview_evaluation": "Reviewen",
     "preview_no_data": "Geen gegevens weer te geven.",
     "preview_status": "Status",
@@ -1549,19 +1549,19 @@
       },
       "step2": {
         "title": "PIA rollen",
-        "description": "TO TRANSLATE - <p><strong>Editors</strong> write the first version of the analysis.</p><p>They are, for example, the project managers associated with the data processing.</p>"
+        "description": "<p><strong>Redacteurs</strong> schrijven de eerste versie van de analyse.</p><p>Dat kan bijv. de projectmanager zijn die te maken heeft met de verwerking.</p>"
       },
       "step3": {
-        "title": "TO TRANSLATE - PIA's roles",
-        "description": "TO TRANSLATE - <p><strong>Reviewers</strong> are involved in a second phase.</p><p>They use their legal or technical expertise to check the quality and compliance of the processing.</p><p>They are, for example, DPO, legal experts, ...</p>"
+        "title": "PIA rollen",
+        "description": "<p><strong>Reviewers</strong> zijn betrokken bij de tweede fase.</p><p>Zij gebruiken hun juridische of technische expertise om de kwaliteit en de naleving van de verwerking te controleren.</p><p>Dat kan bijv. de DPO of de juridisch expert zijn.</p>"
       },
       "step4": {
-        "title": "TO TRANSLATE - PIA's roles",
-        "description": "TO TRANSLATE - <p>The <strong>validator</strong> accepts or rejects the implementation of the processing. He must sign the analysis.</p><p>He is the controller, e.g. the CEO.</p>"
+        "title": "PIA rollen",
+        "description": "<p>De <strong>validator</strong> aanvaardt of verwerpt de implementatie van de verwerking en moet de analyse ondertekenen.</p><p>Het gaat om de verantwoordelijke, bijv. de CEO.</p>"
       },
       "step5": {
-        "title": "TO TRANSLATE - Templates",
-        "description": "TO TRANSLATE - <p><strong>Templates</strong> are an advanced feature. They are used to create a pre-filled basis for the analysis.</p><p>You can create templates by going to the associated section accessible from the top menu.</p>"
+        "title": "Sjablonen",
+        "description": "<p><strong>Sjablonen</strong> zijn een geavanceerde functie. Ze worden gebruik om een vooringevulde basis voor de analyse te maken.</p><p>Je kunt sjablonen maken door naar deze sectie te gaan in het menu bovenaan.</p>"
       }
     },
     "entry": {
@@ -1571,49 +1571,49 @@
       },
       "step2": {
         "title": "Context",
-        "description": "TO TRANSLATE - This is used to explain the purpose of the processing and how it will be implemented."
+        "description": "Dit wordt gebruikt om het doel van de verwerking toe te lichten en hoe dit zal worden geïmplemteneerd."
       },
       "step3": {
         "title": "Fundamentele principes",
         "description": "Deze zijn erop gericht ervoor te zorgen dat de verwerking conform de GDPR verloopt."
       },
       "step4": {
-        "title": "TO TRANSLATE - Risks",
-        "description": "TO TRANSLATE - These describe the security measures already planned for the processing operation and make it possible to assess its potential impact on the data subjects."
+        "title": "Risico's",
+        "description": "Deze beschrijven die reeds geplande beveiligingsmaatregelen voor de verwerking en laten toe de potentiële impact op de betrokkenen in te schatten."
       },
       "step5": {
-        "title": "TO TRANSLATE - Validation",
-        "description": "TO TRANSLATE - This allows the DPO to express her opinion on the implementation of the processing and the controller to accept or refuse it."
+        "title": "Validatie",
+        "description": "Dit laat de DPO toe zijn of haar mening te geven over de implemtentatie van de verwerkingte geven, en de verantwoordelijke om deze te aanvaarden of verwerpen."
       },
       "step6": {
-        "title": "TO TRANSLATE - The knowledge base",
-        "description": "TO TRANSLATE - <p>It provides contextual assistance in carrying out the analysis and is based on the GDPR, the security guide and the CNIL's PIA guides</p><p>In addition to these contents, you can also create your own knowledge bases to easily access information specific to your organization.</p>"
+        "title": "De kennisbank",
+        "description": "<p>Deze geeft contextuele ondersteuning bij het uitvoeren van de analyse en is gebaseerd op de GDPR, de beveligingsgids en de PIA-gidsen van de CNIL</p><p>Daarnaast kun je je eigen kennisbanken maken om gemakkelijk specifieke informatie over de organisatie te raadplegen.</p>"
       },
       "step7": {
-        "title": "TO TRANSLATE - Export your PIA",
-        "description": "TO TRANSLATE - At any time during the analysis, you can download the analysis in various formats to share it with your colleagues."
+        "title": "PIA exporteren",
+        "description": "Je kunt de analyse op eender welk moment downloaden in verschillende formaten om ze te delen met je collega's."
       }
     },
     "evaluation": {
       "step1": {
         "title": "PIA evalueren",
-        "description": "TO TRANSLATE - The evaluation can take an entire section into account, or at the level of each element of a section."
+        "description": "De evaluatie kan een volledige sectie in rekening brengen, of focussen op een onderdeel van een sectie."
       },
       "step2": {
         "title": "Te corrigeren",
-        "description": "TO TRANSLATE - <p>This evaluation indicates to the editors that elements are missing in order to make a relevant assessment.</p><p>The assessor must indicate these in the associated <strong>evaluation comment</strong> field. The editor will make the necessary corrections.</p>"
+        "description": "<p>Deze evaluatie signaleert aan de redacteurs dat er elementen ontbreken om een goede beoordeling te maken.</p><p>De beoordeleaar moet deze aanduiden in het verwante <strong>evaluatie commentaar</strong> veld. De redacteur zal de nodige aanpassingen doen.</p>"
       },
       "step3": {
-        "title": "TO TRANSLATE - Improvable",
-        "description": "TO TRANSLATE - <p>This assessment indicates the processing elements to be revised. They are detailed in the <strong>action plan / corrective action</strong> field.</p><p>These measures will be automatically added to the action plan part of the analysis. It is necessary to implement them as soon as possible.</p>"
+        "title": "Te verbeteren",
+        "description": "<p>Deze evaluatie geeft de verwerkingselementen aan die moeten worden herzien. Ze worden beschrijven in het <strong>actieplan / verbeteractie</strong> veld.</p><p>Deze maatregelen worden automatisch toegevoegd aan het actieplan-gedeelte van de analyse. Deze moeten zo snel mogelijk worden geïmplementeerd.</p>"
       },
       "step4": {
-        "title": "TO TRANSLATE - Acceptable",
-        "description": "TO TRANSLATE - This assessment means that this part of the processing can be implemented without modification."
+        "title": "Aanvaardbaar",
+        "description": "Deze evaluatie geeft aan dat dit gedeelte van de verwerking zonder aanpassingen kan worden geïmplementeerd."
       },
       "step5": {
-        "title": "TO TRANSLATE - Cancel a request",
-        "description": "TO TRANSLATE - If the assessment of a section has not yet begun, the request forassessment may be cancelled to make changes to the processing description."
+        "title": "Een verzoek annuleren",
+        "description": "Als de evaluatie van een sectie nog niet is aangevat, kan het verzoek voor evaluatie worden geannuleerd om aanpassingen te maken aan de beschrijving van de verwerking."
       }
     },
     "validated": {
