@@ -23,25 +23,25 @@
     "title": "Overzicht"
   },
   "users": {
-    "new_user_button": "TO TRANSLATE - New user",
-    "first_name": "TO TRANSLATE - First name",
-    "last_name": "TO TRANSLATE - Last name",
-    "email": "TO TRANSLATE - Email",
-    "profile": "TO TRANSLATE - Profile",
-    "remove": "TO TRANSLATE - Delete",
-    "update": "TO TRANSLATE - Update",
-    "technical_admin": "TO TRANSLATE - Technical administrator",
-    "functional_admin": "TO TRANSLATE - Functional administrator",
-    "user": "TO TRANSLATE - User",
-    "remove_current_user_error_message": "TO TRANSLATE - You can't delete your own account.",
-    "remove_user_with_linked_pias_error_message": "TO TRANSLATE - Several PIAs are attached to this user, so you cannot delete him.",
-    "remove_last_functional_admin_error_message": "TO TRANSLATE - You cannot delete this user because at least one Technical Administrator account must remain.",
-    "add_new_user": "TO TRANSLATE - Add a new user",
-    "edit_user": "TO TRANSLATE - Edit an user",
-    "data": "TO TRANSLATE - Data",
-    "choose_profile": "TO TRANSLATE - Choose a profile for this user",
-    "cancel": "TO TRANSLATE - Cancel",
-    "continue": "TO TRANSLATE - Continue"
+    "new_user_button": "Nieuwe gebruiker",
+    "first_name": "Voornaam",
+    "last_name": "Naam",
+    "email": "E-mailadres",
+    "profile": "Profiel",
+    "remove": "Verwijderen",
+    "update": "Updaten",
+    "technical_admin": "Technisch beheerder",
+    "functional_admin": "Functioneel beheerder",
+    "user": "Gebruiker",
+    "remove_current_user_error_message": "Je kunt je eigen account niet verwijderen.",
+    "remove_user_with_linked_pias_error_message": "Je kunt deze gebruiker niet verwijderen omdat er meerdere PIA's aan gelinkt zijn.",
+    "remove_last_functional_admin_error_message": "Je kunt deze gebruiker niet verwijderen omdat er tenminste één technisch beheerder account moet zijn.",
+    "add_new_user": "Nieuwe gebruiker toevoegen",
+    "edit_user": "Gebruiker aanpassen",
+    "data": "Gegevens",
+    "choose_profile": "Kies een profiel voor deze gebruiker",
+    "cancel": "Annuleren",
+    "continue": "Verdergaan"
   },
   "authentication": {
     "description": "De PIA-software van de <strong> Franse autoriteit voor gegevensbescherming (CNIL) </strong> is bedoeld als ondersteuningsmiddel voor de verwerkingsverantwoordelijken bij de implementatie van de verplichtingen van de AVG. De software begeleidt de uitvoering van een gegevensbeschermingseffectbeoordeling en wil het gebruik van de door de CNIL ontwikkelde PIA-richtlijnen vergemakkelijken.",
@@ -50,34 +50,34 @@
     "subtitle1": "Een platform om uw PIA's te maken en te beheren",
     "subtitle2": "Toegang tot tools en woordenlijsten",
     "title": "Privacy Impact Assessment",
-    "sign_in": "TO TRANSLATE - Sign in",
-    "login": "TO TRANSLATE - Login",
-    "password": "TO TRANSLATE - Password",
-    "forgotten_password": "TO TRANSLATE - Forgotten ?",
-    "create_account": "TO TRANSLATE - Sign up",
-    "sign_in_button": "TO TRANSLATE - Sign in",
-    "saved_password": "TO TRANSLATE - Your password is saved. You can now sign in.",
-    "confirm": "TO TRANSLATE - Confirm",
-    "create_account2": "TO TRANSLATE - Create account",
-    "cancel": "TO TRANSLATE - Cancel",
-    "account_recovery": "TO TRANSLATE - Password recovery",
-    "confirmation": "TO TRANSLATE - Confirmation",
-    "wrong_confirmation": "TO TRANSLATE - Wrong confirmation",
-    "password_security": "TO TRANSLATE - Password security",
-    "12_characters": "TO TRANSLATE - 12 characters",
-    "uppercase": "TO TRANSLATE - Uppercase",
-    "lowercase": "TO TRANSLATE - Lowercase",
-    "special_character": "TO TRANSLATE - Special character",
-    "activation_code": "TO TRANSLATE - Activation code",
-    "wrong_activation_code": "TO TRANSLATE - (wrong)",
-    "continue": "TO TRANSLATE - Continue",
-    "transaction_error": "TO TRANSLATE - Unable to process your request.",
-    "email": "TO TRANSLATE - Email",
-    "wrong_email": "TO TRANSLATE - Wrong email",
-    "email_placeholder": "TO TRANSLATE - Email",
-    "recovery_code_message": "TO TRANSLATE - An email containing a code has been sent to this email. Please enter the code in the field below.",
-    "recovery_code": "TO TRANSLATE - Reset code",
-    "recovery_code_not_sent": "TO TRANSLATE - Unreceived code?"
+    "sign_in": "Aanmelden",
+    "login": "Aanmelden",
+    "password": "Wachtwoord",
+    "forgotten_password": "Vergeten?",
+    "create_account": "Registreren",
+    "sign_in_button": "Aanmelden",
+    "saved_password": "Je wachtwoord werd opgeslagen. Je kunt nu aanmelden.",
+    "confirm": "Bevestigen",
+    "create_account2": "Account aanmaken",
+    "cancel": "Annuleren",
+    "account_recovery": "Wachtwoordherstel",
+    "confirmation": "Bevestiging",
+    "wrong_confirmation": "Verkeerde bevestiging",
+    "password_security": "Wachtwoordsterkte",
+    "12_characters": "12 tekens",
+    "uppercase": "Hoofdletter",
+    "lowercase": "Kleine letter",
+    "special_character": "Speciaal teken",
+    "activation_code": "Activatiecode",
+    "wrong_activation_code": "(verkeerd)",
+    "continue": "Verdergaan",
+    "transaction_error": "Kan uw verzoek niet verwerken.",
+    "email": "E-mailadres",
+    "wrong_email": "Verkeerd e-mailadres",
+    "email_placeholder": "E-mailadres",
+    "recovery_code_message": "Er werd een e-mail met een code verzonden naar dit e-mailadres. Gelieve de code in het veld hieronder in te voeren.",
+    "recovery_code": "Code resetten",
+    "recovery_code_not_sent": "Code niet ontvangen?"
   },
   "cartography": {
     "important": "Belangrijk",
@@ -102,22 +102,22 @@
     "send": "Verzenden"
   },
   "date": {
-    "april": "TO TRANSLATE - April",
-    "august": "TO TRANSLATE - August",
-    "december": "TO TRANSLATE - December",
-    "earlier-in-this-month": "TO TRANSLATE - Earlier this month",
-    "earlier-in-this-week": "TO TRANSLATE - Earlier this week",
-    "february": "TO TRANSLATE - February",
-    "january": "TO TRANSLATE - January",
-    "july": "TO TRANSLATE - July",
-    "june": "TO TRANSLATE - June",
-    "march": "TO TRANSLATE - March",
-    "may": "TO TRANSLATE - May",
-    "november": "TO TRANSLATE - November",
-    "october": "TO TRANSLATE - October",
-    "september": "TO TRANSLATE - September",
-    "today": "TO TRANSLATE - Today",
-    "yesterday": "TO TRANSLATE - Yesterday"
+    "april": "april",
+    "august": "augustus",
+    "december": "december",
+    "earlier-in-this-month": "Eerder deze maandEarlier this month",
+    "earlier-in-this-week": "Eerder deze week",
+    "february": "februari",
+    "january": "januari",
+    "july": "juli",
+    "june": "juni",
+    "march": "maart",
+    "may": "mei",
+    "november": "november",
+    "october": "oktober",
+    "september": "september",
+    "today": "vandaag",
+    "yesterday": "gisteren"
   },
   "errors": {
     "content": "Als u andere problemen ondervindt of verbetersuggesties heeft, <br> kunt u deze via dit formulier terugsturen: <a href=\"https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia\" target=\"_blank\">https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia</a>",
@@ -146,16 +146,16 @@
     "to_correct": "Te corrigeren"
   },
   "header": {
-    "archives": "TO TRANSLATE - PIA Archives",
-    "current_pias": "TO TRANSLATE - Current PIAs",
+    "archives": "PIA archief",
+    "current_pias": "Huidige PIA's",
     "exit_full_screen_mode": "Druk F11 om het volledige scherm te sluiten.",
     "help": {
-      "issue_reporting": "TO TRANSLATE - Report an issue",
-      "manual": "TO TRANSLATE - User manual",
+      "issue_reporting": "Een probleem melden,
+      "manual": "Gebruikershandleiding",
       "pia_example_link": "PIA-voorbeeld",
       "title": "Help"
     },
-    "homepage_link": "TO TRANSLATE - My PIAs",
+    "homepage_link": "Mijn PIA's",
     "knowledge_base_link": "Kennisbank",
     "languages": {
       "cnil_translations": "Vertalingen door de CNIL",
@@ -188,12 +188,12 @@
     "logo_title": "Privacy Impact Assessment",
     "structures": "PIA-sjablonen",
     "tools": {
-      "users": "TO TRANSLATE - Users",
-      "onboarding": "TO TRANSLATE - Restart tutorial",
+      "users": "Gebruikers",
+      "onboarding": "Tutortial herstarten",
       "about": "Over",
       "accessibility": "Toegang voor slechtzienden (kleuren met hoog contrast, daltonisme)",
       "settings": "Instellingen",
-      "url_setting": "TO TRANSLATE - Server URL configuration"
+      "url_setting": "Server URL configuratie"
     }
   },
   "help": {
@@ -240,7 +240,7 @@
   "homepage": {
     "cards": {
       "author": "Aanpassen",
-      "category": "TO TRANSLATE - Category",
+      "category": "Categorie",
       "creation_status": "Creatie",
       "date": "Datum",
       "evaluation": "Reviewen",
@@ -248,19 +248,19 @@
       "import_structure": "Sjabloon importeren",
       "item": {
         "consult_pia": "Raadplegen",
-        "consult_structure": "TO TRANSLATE - Consult template",
-        "validate_pia": "TO TRANSLATE - Validate",
+        "consult_structure": "Sjabloon raadplegen",
+        "validate_pia": "Valideren",
         "edit_pia": "Aanpassen",
         "edit_structure": "Sjabloon aanpassen",
         "tools": {
           "action_plan": "Toon<br>actieplan",
-          "archive": "TO TRANSLATE - Archive",
+          "archive": "Archief",
           "duplicate": "Dupliceren",
           "export": "Exporteren",
           "more_options": "Meer opties",
           "pia": "PIA<br>tonen",
-          "remove": "TO TRANSLATE - Delete",
-          "unarchive": "TO TRANSLATE - Unarchive"
+          "remove": "Verwijderen",
+          "unarchive": "Archiveren ongedaan maken"
         }
       },
       "new_pia": "Nieuwe PIA",
@@ -268,14 +268,14 @@
       "or": "of",
       "pia_name": "PIA",
       "placeholder_author": "Voornaam Achternaam",
-      "placeholder_category": "TO TRANSLATE - Category",
+      "placeholder_category": "Categorie",
       "placeholder_evaluation": "Voornaam Achternaam",
       "placeholder_import_pia": "PIA importeren",
       "placeholder_import_structure": "Sjabloon importeren",
-      "placeholder_import_knowledgeBase": "TO TRANSLATE - Import base",
+      "placeholder_import_knowledgeBase": "Kennisbank importeren",
       "placeholder_new_pia": "Nieuwe PIA",
       "placeholder_new_structure": "Nieuw sjabloon",
-      "placeholder_new_knowledgeBase": "TO TRANSLATE - New base",
+      "placeholder_new_knowledgeBase": "Nieuwe kennisbank",
       "placeholder_pia_name": "Titel PIA",
       "placeholder_sector_name": "Naam verwante sector",
       "placeholder_start": "Alle velden moeten worden ingevuld",
@@ -288,41 +288,41 @@
       "structure": "Sjabloon",
       "structure_name": "Naam van het sjabloon",
       "title_close_creation": "Sluiten",
-      "guest": "TO TRANSLATE - Guest(s)",
+      "guest": "Gast(en)",
       "validation": "Valideren",
       "knowledges": {
-        "new": "TO TRANSLATE - Create a base",
-        "import": "TO TRANSLATE - Import a base",
-        "edit": "TO TRANSLATE - Edit the base",
-        "placeholder_name": "TO TRANSLATE - Base's name",
-        "placeholder_author": "TO TRANSLATE - Author",
-        "placeholder_contributors": "TO TRANSLATE - Contributors",
-        "placeholder_entry_number": "TO TRANSLATE - Number of entries"
+        "new": "Kennisbank maken",
+        "import": "Kennisbank importeren",
+        "edit": "Kennisbank bewerken",
+        "placeholder_name": "Naam kennisbank",
+        "placeholder_author": "Auteur",
+        "placeholder_contributors": "Medewerker",
+        "placeholder_entry_number": "Aantal trefwoorden"
       },
       "knowledges_entry": {
-        "new": "TO TRANSLATE - Create an element",
-        "create": "TO TRANSLATE - Create this element",
-        "placeholder_name": "TO TRANSLATE - Element's name",
-        "placeholder_category": "TO TRANSLATE - Category",
-        "placeholder_description": "TO TRANSLATE - Your description here...",
-        "placeholder_updated_at": "TO TRANSLATE - Last updated",
-        "contents": "TO TRANSLATE - Contents",
-        "choose_category": "TO TRANSLATE - Choose a category",
-        "linked_to": "TO TRANSLATE - Linked to",
-        "all_sections": "TO TRANSLATE - All sections"
+        "new": "Elementen maken",
+        "create": "Dit element maken",
+        "placeholder_name": "Elementnaam",
+        "placeholder_category": "Categorie",
+        "placeholder_description": "Zet hier je beschrijving...",
+        "placeholder_updated_at": "Laatst aangepast",
+        "contents": "Inhoud",
+        "choose_category": "Categorie kiezen",
+        "linked_to": "Gelinkt aan",
+        "all_sections": "Alle secties"
       }
     },
     "filters": {
       "assessor": "Reviewer",
       "author": "Auteur",
-      "card": "TO TRANSLATE - Card view",
+      "card": "Weergave: fiches",
       "card_rocket_content": "Aan de slag! <br> <br> Om een PIA te starten, <br> klikt u op Nieuwe PIA",
       "card_rocket_content_structure": "Aan de slag!<br><br>Om een sjabloon <br>te starten, klikt u <br> op de +",
-      "category": "TO TRANSLATE - Category",
+      "category": "Categorie",
       "date": "Datum",
       "import_pia": "PIA importeren",
       "import_structure": "Sjabloon importeren",
-      "list": "TO TRANSLATE - List view",
+      "list": "Weergave: lijst",
       "list_rocket_content": "Aan de slag! Om een PIA te starten, klik op de +",
       "list_rocket_content_structure": "Aan de slag! Om een sjabloon<br>te starten, klikt u op de +",
       "name": "Naam",
@@ -337,7 +337,7 @@
     "lists": {
       "column_actions": "Acties",
       "column_author": "Aanpassen",
-      "column_category": "TO TRANSLATE - Category",
+      "column_category": "Categorie",
       "column_creation": "Gemaakt",
       "column_evaluation": "Reviewen",
       "column_pia": "PIA",
@@ -351,22 +351,22 @@
       "item": {
         "tools": {
           "action_plan": "Actieplan tonen",
-          "archive": "TO TRANSLATE - Archive",
+          "archive": "Archiveren",
           "consult": "Raadplegen",
           "duplicate": "Dupliceren",
           "edit": "Aanpassen",
           "export": "Exporteren",
           "pia": "PIA tonen",
-          "remove": "TO TRANSLATE - Delete",
-          "unarchive": "TO TRANSLATE - Unarchive"
+          "remove": "Verwijderen,
+          "unarchive": "Archiveren ongedaan maken"
         }
       }
     },
-    "search_filter": "TO TRANSLATE - Search"
+    "search_filter": "Zoeken"
   },
   "knowledge_base": {
-    "choose_knowledge_base": "TO TRANSLATE - Choose your knowledge base",
-    "default_knowledge_base": "TO TRANSLATE - CNIL's knowledge base",
+    "choose_knowledge_base": "Kies je kennisbank",
+    "default_knowledge_base": "CNIL Kennisbank",
     "add_measure": "Toevoegen",
     "add_measure_hint": "U kunt ook een maatregel uit de kennisbank toevoegen.",
     "category": {
@@ -942,12 +942,12 @@
   "modals": {
     "users": {
       "delete": {
-        "content": "TO TRANSLATE - Are you sure you want to delete this user?",
-        "confirm": "TO TRANSLATE - Remove user"
+        "content": "Ben je zeker dat je deze gebruiker wilt verwijderen?",
+        "confirm": "Gebruiker verwijderen"
       }
     },
     "abandon_pia": {
-      "additional_text": "Archivering is niet definitief en de PIA kan er zo nodig op terugkomen.",
+      "additional_text": "Archiveren is niet definitief en je kunt zo nodig op de PIA terugkomen.",
       "content": "Wilt u de verwerking opgeven?"
     },
     "action_plan_no_evaluation": {
@@ -956,8 +956,8 @@
     },
     "archive": "Archief",
     "archive_pia": {
-      "archive": "TO TRANSLATE - Archive PIA",
-      "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>archive this PIA ?"
+      "archive": "PIA archiveren",
+      "content": "<span class='strong'>Opgelet,</span><br>Ben je zeker dat je <br>deze PIA wilt archiveren?"
     },
     "ask_for_evaluation": {
       "content": "Dit gedeelte kan worden beoordeeld."
@@ -1002,8 +1002,8 @@
     },
     "recover_version": {
       "continue": "Vervolgen",
-      "message": "TO TRANSLATE - By continuing, you will restore this report version: {{date}}.<br><br>The current version will be saved.",
-      "title": "TO TRANSLATE - Restore a previous version"
+      "message": "Door verder te gaan, zul je deze rapportversie terugzetten: {{date}}.<br><br>De huidige versie zal worden opgeslagen.",
+      "title": "Eerdere versie terugzetten"
     },
     "refuse_pia": {
       "content": "Aangezien u de PIA hebt afgewezen, wordt deze ter beoordeling teruggestuurd om de vereiste wijzigingen aan te brengen."
@@ -1021,7 +1021,7 @@
     },
     "remove_pia": {
       "content": "<span class='strong'>Opgelet,</span><br>Weet u zeker dat u deze PIA wilt verwijderen?",
-      "remove": "TO TRANSLATE - Remove this PIA"
+      "remove": "Deze PIA verwijderen"
     },
     "remove_question": {
       "content": "Wilt u de vraag verwijderen?",
@@ -1044,8 +1044,8 @@
     },
     "start_evaluation": "Start review",
     "unarchive_pia": {
-      "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>unarchive this PIA ?",
-      "unarchive": "TO TRANSLATE - Unarchive PIA"
+      "content": "<span class='strong'>Opgelet,</span><br>Ben je zeker dat je het archiveren <br>van deze PIA ongedaan wilt maken?",
+      "unarchive": "Archiveren PIA ongedaan maken"
     },
     "update_server_url_nok": {
       "content": "Verbinden mislukt."
@@ -1060,15 +1060,15 @@
       "content": "Sorry, maar er zijn meerdere velden die moeten worden gecorrigeerd. <br> Keer terug naar de bewerkingsmodus om correcties aan te brengen."
     },
     "general_error": {
-      "content": "TO TRANSLATE - All our apologies an error has occurred."
+      "content": "Onze excuses. Er heeft zich een fout voorgedaan."
     },
     "knowledges": {
-      "content": "TO TRANSLATE - Are you sure you want to delete this knowledge base?",
-      "remove": "TO TRANSLATE - Delete this knowledge base"
+      "content": "Ben je zeker dat je deze kennisbank wilt verwijderen?",
+      "remove": "Deze kennisbank verwijderen"
     },
     "knowledge": {
-      "content": "TO TRANSLATE - Are you sure you want to delete this element?",
-      "remove": "TO TRANSLATE - Delete this element"
+      "content": "Ben je zeker dat je dit element wilt verwijderen?",
+      "remove": "Dit element verwijderen"
     }
   },
   "opinions": {
@@ -1105,7 +1105,7 @@
   "pia": {
     "attachments": {
       "add": "Toevoegen",
-      "download": "TO TRANSLATE - Download the attachment",
+      "download": "Bijlage downloaden",
       "remove": "Verwijderen",
       "title": "Bijlagen"
     },
@@ -1443,12 +1443,12 @@
     },
     "actions": {
       "complete_download": "Volledig verslag downloaden",
-      "complete_download_desc": "Exporteer in een .zip-archief de volledige inhoud van het verslag (.doc en afbeeldingen), de bijlagen en het actieplan in .csv-formaat..",
+      "complete_download_desc": "Exporteer in een .zip-archief de volledige inhoud van het verslag (.doc en afbeeldingen), de bijlagen en het actieplan in .csv-formaat.",
       "individual_download": "Alle elementen van het verslag downloaden",
       "individual_download_desc": "Bepaalde elementen van het verslag exporteren.",
       "individual_download_doc": "Teksten (.doc)",
       "individual_download_images": "Visuele elementen (.png) waaronder het risico-overzicht, de risico-mapping en het actieplan.",
-      "individual_download_json": "TO TRANSLATE - Report to import into the PIA tool (.json file)",
+      "individual_download_json": "Rapport om in de PIA tool te importeren (.json)",
       "individual_download_select": "Te exporteren elementen selecteren:",
       "individual_to_download": "Downloaden",
       "print": "Verslag afdrukken",
@@ -1501,12 +1501,12 @@
     "previous_page": "Terug naar de vorige pagina",
     "rejection_reason": "Reden van verwerping",
     "revision": {
-      "current_version": "TO TRANSLATE - Current version",
-      "pia_version": "TO TRANSLATE - PIA versions",
-      "restore_version": "TO TRANSLATE - Restore",
-      "revision": "TO TRANSLATE - Versions and revision",
-      "save": "TO TRANSLATE - Create a new version",
-      "show": "TO TRANSLATE - Display the {{length}} versions"
+      "current_version": "Huidige versie",
+      "pia_version": "PIA versies",
+      "restore_version": "Terugzetten",
+      "revision": "Versies en herziening",
+      "save": "Nieuwe versie maken",
+      "show": "De {{length}} versies weergeven"
     },
     "risks_cartography_title": "Risicokaart",
     "risks_overview_title": "Overzicht risico's",
@@ -1544,11 +1544,11 @@
     },
     "dashboard": {
       "step1": {
-        "title": "TO TRANSLATE - Create a PIA",
-        "description": "TO TRANSLATE - Click on the <strong>+</strong> to create your first PIA."
+        "title": "PIA maken",
+        "description": "Klik op <strong>+</strong> om je eerste PIA te maken."
       },
       "step2": {
-        "title": "TO TRANSLATE - PIA's roles",
+        "title": "PIA rollen",
         "description": "TO TRANSLATE - <p><strong>Editors</strong> write the first version of the analysis.</p><p>They are, for example, the project managers associated with the data processing.</p>"
       },
       "step3": {
@@ -1566,16 +1566,16 @@
     },
     "entry": {
       "step1": {
-        "title": "TO TRANSLATE - Browse",
-        "description": "TO TRANSLATE - To move from one part of the analysis to another, use the left navigation menu."
+        "title": "Verkennen",
+        "description": "Gebruik het linker navigatiemenu om van het ene deel van de analyse naar het andere te gaan."
       },
       "step2": {
-        "title": "TO TRANSLATE - Context",
+        "title": "Context",
         "description": "TO TRANSLATE - This is used to explain the purpose of the processing and how it will be implemented."
       },
       "step3": {
-        "title": "TO TRANSLATE - Fundamental principles",
-        "description": "TO TRANSLATE - These aim to ensure that the processing complies with the GDPR."
+        "title": "Fundamentele principes",
+        "description": "Deze zijn erop gericht ervoor te zorgen dat de verwerking conform de GDPR verloopt."
       },
       "step4": {
         "title": "TO TRANSLATE - Risks",
@@ -1596,11 +1596,11 @@
     },
     "evaluation": {
       "step1": {
-        "title": "TO TRANSLATE - Evaluate the PIA",
+        "title": "PIA evalueren",
         "description": "TO TRANSLATE - The evaluation can take an entire section into account, or at the level of each element of a section."
       },
       "step2": {
-        "title": "TO TRANSLATE - To correct",
+        "title": "Te corrigeren",
         "description": "TO TRANSLATE - <p>This evaluation indicates to the editors that elements are missing in order to make a relevant assessment.</p><p>The assessor must indicate these in the associated <strong>evaluation comment</strong> field. The editor will make the necessary corrections.</p>"
       },
       "step3": {
@@ -1618,12 +1618,12 @@
     },
     "validated": {
       "step1": {
-        "title": "TO TRANSLATE - Consult a validated PIA",
-        "description": "TO TRANSLATE - A complete and validated analysis can be consulted at any time via a dedicated interface."
+        "title": "Een gevalideerde PIA raadplegen",
+        "description": "Een volledige en gevalideerde analyse kun je op eender welk moment consulteren via de interface."
       },
       "step2": {
-        "title": "TO TRANSLATE - Update a validated PIA",
-        "description": "TO TRANSLATE - It is necessary to review regularly an analysis. You can edit or duplicate it at any time to review its content according to the processing evolution."
+        "title": "Een gevalideerde PIA updaten",
+        "description": "Een analyse moet regelmatig gereviewed worden. Je kunt ze op eender welk moment aanpassen of dupliceren om de inhoud te reviewen in overeenstemming met de evolutie van de verwerking."
       }
     }
   }
