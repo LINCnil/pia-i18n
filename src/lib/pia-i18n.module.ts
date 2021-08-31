@@ -4,6 +4,7 @@ import { PiaTranslateLoader } from './pia-translate-loader';
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import { HttpClient } from '@angular/common/http';
 
+import localeBG from '@angular/common/locales/bg';
 import localeEN from '@angular/common/locales/en';
 import localeCS from '@angular/common/locales/cs';
 import localeDA from '@angular/common/locales/da';
@@ -27,6 +28,7 @@ import localeSV from '@angular/common/locales/sv';
 import localeLV from '@angular/common/locales/lv';
 import { TranslateService } from '@ngx-translate/core';
 
+registerLocaleData(localeBG, 'bg');
 registerLocaleData(localeEN, 'en');
 registerLocaleData(localeCS, 'cz');
 registerLocaleData(localeDA, 'dk');
