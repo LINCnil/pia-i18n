@@ -150,7 +150,7 @@
     "current_pias": "Huidige PIA's",
     "exit_full_screen_mode": "Druk F11 om het volledige scherm te sluiten.",
     "help": {
-      "issue_reporting": "Een probleem melden,
+      "issue_reporting": "Een probleem melden",
       "manual": "Gebruikershandleiding",
       "pia_example_link": "PIA-voorbeeld",
       "title": "Help"
@@ -357,7 +357,7 @@
           "edit": "Aanpassen",
           "export": "Exporteren",
           "pia": "PIA tonen",
-          "remove": "Verwijderen,
+          "remove": "Verwijderen",
           "unarchive": "Archiveren ongedaan maken"
         }
       }
