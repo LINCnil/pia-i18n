@@ -160,6 +160,7 @@
     "languages": {
       "cnil_translations": "CNIL provided translations",
       "community_translations": "Community provided translations",
+      "bg": "Bulgarian",
       "cz": "Česky",
       "de": "Deutsch",
       "dk": "Dansk",
