@@ -160,6 +160,7 @@
     "languages": {
       "cnil_translations": "CNIL’i  esitatud tõlge",
       "community_translations": "Kogukondade tehtud tõlked",
+      "bg": "български",
       "cz": "Česky",
       "de": "Deutsch",
       "dk": "Dansk",
@@ -174,6 +175,7 @@
       "hu": "Magyar",
       "it": "Italiano",
       "lt": "Lietuviškai",
+      "lv": "Latviešu valoda",
       "nl": "Nederlands",
       "no": "Norsk",
       "official_translation": "Originaal versioon",
@@ -181,8 +183,7 @@
       "pt": "Português",
       "ro": "Română",
       "sl": "Slovenščina",
-      "sv": "Svenska",
-      "lv": "Latviešu valoda"
+      "sv": "Svenska"
     },
     "logo_subtitle": "privacy impact assessment",
     "logo_title": "Andmekaitsealane mõjuhinnag",

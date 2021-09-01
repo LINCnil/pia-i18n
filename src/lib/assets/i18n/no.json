@@ -160,6 +160,7 @@
     "languages": {
       "cnil_translations": "TO BE TRANSLATED - CNIL provided translations",
       "community_translations": "TO BE TRANSLATED - Community provided translations",
+      "bg": "български",
       "cz": "Česky",
       "de": "Deutsch",
       "dk": "Dansk",
@@ -174,6 +175,7 @@
       "hu": "Magyar",
       "it": "Italiano",
       "lt": "Lietuviškai",
+      "lv": "Latviešu valoda",
       "nl": "Nederlands",
       "no": "Norsk",
       "official_translation": "TO BE TRANSLATED - Original version",
@@ -181,8 +183,7 @@
       "pt": "Português",
       "ro": "Română",
       "sl": "Slovenščina",
-      "sv": "Svenska",
-      "lv": "Latviešu valoda"
+      "sv": "Svenska"
     },
     "logo_subtitle": "Vurdering av personvernkonsekvenser",
     "logo_title": "PIA",

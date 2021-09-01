@@ -1,3 +1,4 @@
+import bg from './assets/i18n/bg.json';
 import cz from './assets/i18n/cz.json';
 import de from './assets/i18n/de.json';
 import dk from './assets/i18n/dk.json';
@@ -27,6 +28,9 @@ export class PiaTranslateLoader implements TranslateLoader {
   public getTranslation(lang: string): Observable<any> {
     return Observable.create(observer => {
       switch (lang) {
+        case 'bg':
+          observer.next(bg);
+          break;
         case 'cz':
           observer.next(cz);
           break;
@@ -66,6 +70,9 @@ export class PiaTranslateLoader implements TranslateLoader {
         case 'lt':
           observer.next(lt);
           break;
+        case 'lv':
+          observer.next(lv);
+          break;
         case 'nl':
           observer.next(nl);
           break;
@@ -86,9 +93,6 @@ export class PiaTranslateLoader implements TranslateLoader {
           break;
         case 'sv':
           observer.next(sv);
-          break;
-        case 'lv':
-          observer.next(lv);
           break;
         default:
           observer.next(fr);

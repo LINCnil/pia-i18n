@@ -160,6 +160,7 @@
     "languages": {
       "cnil_translations": "Μεταφράσεις που παρείχε η CNIL",
       "community_translations": "Μεταφράσεις που παρείχε η κοινότητα",
+      "bg": "български",
       "cz": "Česky",
       "de": "Deutsch",
       "dk": "Dansk",
@@ -174,6 +175,7 @@
       "hu": "Magyar",
       "it": "Italiano",
       "lt": "Lietuviškai",
+      "lv": "Latviešu valoda",
       "nl": "Nederlands",
       "no": "Norsk",
       "official_translation": "Αρχική έκδοση",
@@ -181,8 +183,7 @@
       "pt": "Português",
       "ro": "Română",
       "sl": "Slovenščina",
-      "sv": "Svenska",
-      "lv": "Latviešu valoda"
+      "sv": "Svenska"
     },
     "logo_subtitle": "privacy impact assessment",
     "logo_title": "Εκτίμηση αντικτύπου",

@@ -4,6 +4,7 @@ import { PiaTranslateLoader } from './pia-translate-loader';
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import { HttpClient } from '@angular/common/http';
 
+import localeBG from '@angular/common/locales/bg';
 import localeEN from '@angular/common/locales/en';
 import localeCS from '@angular/common/locales/cs';
 import localeDA from '@angular/common/locales/da';
@@ -17,6 +18,7 @@ import localeHR from '@angular/common/locales/hr';
 import localeHU from '@angular/common/locales/hu';
 import localeIT from '@angular/common/locales/it';
 import localeLT from '@angular/common/locales/lt';
+import localeLV from '@angular/common/locales/lv';
 import localeNB from '@angular/common/locales/nb';
 import localeNL from '@angular/common/locales/nl';
 import localePL from '@angular/common/locales/pl';
@@ -24,9 +26,9 @@ import localePT from '@angular/common/locales/pt';
 import localeRO from '@angular/common/locales/ro';
 import localeSL from '@angular/common/locales/sl';
 import localeSV from '@angular/common/locales/sv';
-import localeLV from '@angular/common/locales/lv';
 import { TranslateService } from '@ngx-translate/core';
 
+registerLocaleData(localeBG, 'bg');
 registerLocaleData(localeEN, 'en');
 registerLocaleData(localeCS, 'cz');
 registerLocaleData(localeDA, 'dk');
@@ -40,6 +42,7 @@ registerLocaleData(localeHR, 'hr');
 registerLocaleData(localeHU, 'hu');
 registerLocaleData(localeIT, 'it');
 registerLocaleData(localeLT, 'lt');
+registerLocaleData(localeLV, 'lv');
 registerLocaleData(localeNL, 'nl');
 registerLocaleData(localeNB, 'no');
 registerLocaleData(localePL, 'pl');
@@ -47,7 +50,6 @@ registerLocaleData(localePT, 'pt');
 registerLocaleData(localeRO, 'ro');
 registerLocaleData(localeSL, 'sl');
 registerLocaleData(localeSV, 'sv');
-registerLocaleData(localeLV, 'lv');
 
 @NgModule({
   declarations: [],
