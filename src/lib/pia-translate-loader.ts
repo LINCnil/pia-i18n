@@ -70,6 +70,9 @@ export class PiaTranslateLoader implements TranslateLoader {
         case 'lt':
           observer.next(lt);
           break;
+        case 'lv':
+          observer.next(lv);
+          break;
         case 'nl':
           observer.next(nl);
           break;
@@ -90,9 +93,6 @@ export class PiaTranslateLoader implements TranslateLoader {
           break;
         case 'sv':
           observer.next(sv);
-          break;
-        case 'lv':
-          observer.next(lv);
           break;
         default:
           observer.next(fr);

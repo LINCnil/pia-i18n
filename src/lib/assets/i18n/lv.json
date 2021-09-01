@@ -160,7 +160,7 @@
     "languages": {
       "cnil_translations": "CNIL nodrošinātie tulkojumi",
       "community_translations": "Kopienas nodrošinātie tulkojumi",
-      "bg": "TO TRANSLATE - Bulgarian",
+      "bg": "български",
       "cz": "Česky",
       "de": "Deutsch",
       "dk": "Dansk",
@@ -175,6 +175,7 @@
       "hu": "Magyar",
       "it": "Italiano",
       "lt": "Lietuviškai",
+      "lv": "Latviešu valoda",
       "nl": "Nederlands",
       "no": "Norsk",
       "official_translation": "Sākotnējā versija",
@@ -182,8 +183,7 @@
       "pt": "Português",
       "ro": "Română",
       "sl": "Slovenščina",
-      "sv": "Svenska",
-      "lv": "Latviešu valoda"
+      "sv": "Svenska"
     },
     "logo_subtitle": "",
     "logo_title": "Ietekmes uz privātumu novērtējums",

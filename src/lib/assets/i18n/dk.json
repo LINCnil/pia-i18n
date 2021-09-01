@@ -160,7 +160,7 @@
     "languages": {
       "cnil_translations": "Oversættelser af CNILs",
       "community_translations": "Community oversættelser",
-      "bg": "TO TRANSLATE - Bulgarian",
+      "bg": "български",
       "cz": "Česky",
       "de": "Deutsch",
       "dk": "Dansk",
@@ -175,6 +175,7 @@
       "hu": "Magyar",
       "it": "Italiano",
       "lt": "Lietuviškai",
+      "lv": "Latviešu valoda",
       "nl": "Nederlands",
       "no": "Norsk",
       "official_translation": "Original version",
@@ -182,8 +183,7 @@
       "pt": "Português",
       "ro": "Română",
       "sl": "Slovenščina",
-      "sv": "Svenska",
-      "lv": "Latviešu valoda"
+      "sv": "Svenska"
     },
     "logo_subtitle": "privacy impact assessment",
     "logo_title": "PIA Konsekvensanalyse",

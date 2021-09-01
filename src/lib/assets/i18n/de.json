@@ -165,7 +165,7 @@
     "languages": {
       "cnil_translations": "Von der CNIL bereitgestellte Übersetzungen",
       "community_translations": "Von der Community bereitgestellte Übersetzungen",
-      "bg": "TO TRANSLATE - Bulgarian",
+      "bg": "български",
       "cz": "Česky",
       "de": "Deutsch",
       "dk": "Dansk",
@@ -180,6 +180,7 @@
       "hu": "Magyar",
       "it": "Italiano",
       "lt": "Lietuviškai",
+      "lv": "Latviešu valoda",
       "nl": "Nederlands",
       "no": "Norsk",
       "official_translation": "Originalversion",
@@ -187,8 +188,7 @@
       "pt": "Português",
       "ro": "Română",
       "sl": "Slovenščina",
-      "sv": "Svenska",
-      "lv": "Latviešu valoda"
+      "sv": "Svenska"
     },
     "logo_subtitle": "PIA - privacy impact assessment",
     "logo_title": "DSFA - Datenschutz-Folgenabschätzung",

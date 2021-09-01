@@ -160,7 +160,7 @@
     "languages": {
       "cnil_translations": "Traduceri oferite de către CNIL",
       "community_translations": "Traduceri oferite de către Comunitate",
-      "bg": "TO TRANSLATE - Bulgarian",
+      "bg": "български",
       "cz": "Česky",
       "de": "Deutsch",
       "dk": "Dansk",
@@ -175,6 +175,7 @@
       "hu": "Magyar",
       "it": "Italiano",
       "lt": "Lietuviškai",
+      "lv": "Latviešu valoda",
       "nl": "Nederlands",
       "no": "Norsk",
       "official_translation": "Versiune Originală",
@@ -182,8 +183,7 @@
       "pt": "Português",
       "ro": "Română",
       "sl": "Slovenščina",
-      "sv": "Svenska",
-      "lv": "Latviešu valoda"
+      "sv": "Svenska"
     },
     "logo_subtitle": "privacy impact assessment",
     "logo_title": "Analiza impactului asupra confidențialității datelor",
