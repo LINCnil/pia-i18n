@@ -22,63 +22,42 @@
     "risks": "Risico's",
     "title": "Overzicht"
   },
-  "users": {
-    "new_user_button": "Nieuwe gebruiker",
-    "first_name": "Voornaam",
-    "last_name": "Naam",
-    "email": "E-mailadres",
-    "profile": "Profiel",
-    "remove": "Verwijderen",
-    "update": "Updaten",
-    "technical_admin": "Technisch beheerder",
-    "functional_admin": "Functioneel beheerder",
-    "user": "Gebruiker",
-    "remove_current_user_error_message": "Je kunt je eigen account niet verwijderen.",
-    "remove_user_with_linked_pias_error_message": "Je kunt deze gebruiker niet verwijderen omdat er meerdere PIA's aan gelinkt zijn.",
-    "remove_last_functional_admin_error_message": "Je kunt deze gebruiker niet verwijderen omdat er tenminste één technisch beheerder account moet zijn.",
-    "add_new_user": "Nieuwe gebruiker toevoegen",
-    "edit_user": "Gebruiker aanpassen",
-    "data": "Gegevens",
-    "choose_profile": "Kies een profiel voor deze gebruiker",
-    "cancel": "Annuleren",
-    "continue": "Verdergaan"
-  },
   "authentication": {
+    "12_characters": "12 tekens",
+    "account_recovery": "Wachtwoordherstel",
+    "activation_code": "Activatiecode",
+    "cancel": "Annuleren",
+    "confirm": "Bevestigen",
+    "confirmation": "Bevestiging",
+    "continue": "Verdergaan",
+    "create_account": "Registreren",
+    "create_account2": "Account aanmaken",
     "description": "De PIA-software van de <strong> Franse autoriteit voor gegevensbescherming (CNIL) </strong> is bedoeld als ondersteuningsmiddel voor de verwerkingsverantwoordelijken bij de implementatie van de verplichtingen van de AVG. De software begeleidt de uitvoering van een gegevensbeschermingseffectbeoordeling en wil het gebruik van de door de CNIL ontwikkelde PIA-richtlijnen vergemakkelijken.",
+    "email": "E-mailadres",
+    "email_placeholder": "E-mailadres",
+    "forgotten_password": "Vergeten?",
+    "login": "Aanmelden",
+    "lowercase": "Kleine letter",
+    "password": "Wachtwoord",
+    "password_security": "Wachtwoordsterkte",
+    "recovery_code": "Code resetten",
+    "recovery_code_message": "Er werd een e-mail met een code verzonden naar dit e-mailadres. Gelieve de code in het veld hieronder in te voeren.",
+    "recovery_code_not_sent": "Code niet ontvangen?",
+    "saved_password": "Je wachtwoord werd opgeslagen. Je kunt nu aanmelden.",
+    "sign_in": "Aanmelden",
+    "sign_in_button": "Aanmelden",
+    "sign_out_button": "TO TRANSLATE - Sign out",
+    "special_character": "Speciaal teken",
     "start": "Beginnen",
     "start_app": "De PIA-software openen (Beta)",
     "subtitle1": "Een platform om uw PIA's te maken en te beheren",
     "subtitle2": "Toegang tot tools en woordenlijsten",
     "title": "Privacy Impact Assessment",
-    "sign_in": "Aanmelden",
-    "login": "Aanmelden",
-    "password": "Wachtwoord",
-    "forgotten_password": "Vergeten?",
-    "create_account": "Registreren",
-    "sign_in_button": "Aanmelden",
-    "sign_out_button": "TO TRANSLATE - Sign out",
-    "saved_password": "Je wachtwoord werd opgeslagen. Je kunt nu aanmelden.",
-    "confirm": "Bevestigen",
-    "create_account2": "Account aanmaken",
-    "cancel": "Annuleren",
-    "account_recovery": "Wachtwoordherstel",
-    "confirmation": "Bevestiging",
-    "wrong_confirmation": "Verkeerde bevestiging",
-    "password_security": "Wachtwoordsterkte",
-    "12_characters": "12 tekens",
-    "uppercase": "Hoofdletter",
-    "lowercase": "Kleine letter",
-    "special_character": "Speciaal teken",
-    "activation_code": "Activatiecode",
-    "wrong_activation_code": "(verkeerd)",
-    "continue": "Verdergaan",
     "transaction_error": "Kan uw verzoek niet verwerken.",
-    "email": "E-mailadres",
-    "wrong_email": "Verkeerd e-mailadres",
-    "email_placeholder": "E-mailadres",
-    "recovery_code_message": "Er werd een e-mail met een code verzonden naar dit e-mailadres. Gelieve de code in het veld hieronder in te voeren.",
-    "recovery_code": "Code resetten",
-    "recovery_code_not_sent": "Code niet ontvangen?"
+    "uppercase": "Hoofdletter",
+    "wrong_activation_code": "(verkeerd)",
+    "wrong_confirmation": "Verkeerde bevestiging",
+    "wrong_email": "Verkeerd e-mailadres"
   },
   "cartography": {
     "important": "Belangrijk",
@@ -142,7 +121,12 @@
     "placeholder_improvable1": "Volgens de beschikbare informatie moeten aanvullende maatregelen worden genomen om de gegevensbescherming van de verwerking te verbeteren.",
     "placeholder_improvable2": "Voer uw opmerkingen in.",
     "placeholder_to_correct": "De verstrekte informatie is niet voldoende om ze goed te evalueren. Stuur terug naar de redacteur om de originele inzending te verbeteren.",
-    "status": ["Hangende", "Te corrigeren", "Verbeterbaar", "Aanvaardbaar"],
+    "status": [
+      "Hangende",
+      "Te corrigeren",
+      "Verbeterbaar",
+      "Aanvaardbaar"
+    ],
     "title": "Evaluatie",
     "to_correct": "Te corrigeren"
   },
@@ -159,9 +143,9 @@
     "homepage_link": "Mijn PIA's",
     "knowledge_base_link": "Kennisbank",
     "languages": {
+      "bg": "български",
       "cnil_translations": "Vertalingen door de CNIL",
       "community_translations": "Vertalingen door de community",
-      "bg": "български",
       "cz": "Česky",
       "de": "Deutsch",
       "dk": "Dansk",
@@ -190,12 +174,12 @@
     "logo_title": "Privacy Impact Assessment",
     "structures": "PIA-sjablonen",
     "tools": {
-      "users": "Gebruikers",
-      "onboarding": "Tutortial herstarten",
       "about": "Over",
       "accessibility": "Toegang voor slechtzienden (kleuren met hoog contrast, daltonisme)",
+      "onboarding": "Tutortial herstarten",
       "settings": "Instellingen",
-      "url_setting": "Server URL configuratie"
+      "url_setting": "Server URL configuratie",
+      "users": "Gebruikers"
     }
   },
   "help": {
@@ -246,12 +230,12 @@
       "creation_status": "Creatie",
       "date": "Datum",
       "evaluation": "Reviewen",
+      "guest": "Gast(en)",
       "import_pia": "PIA importeren",
       "import_structure": "Sjabloon importeren",
       "item": {
         "consult_pia": "Raadplegen",
         "consult_structure": "Sjabloon raadplegen",
-        "validate_pia": "Valideren",
         "edit_pia": "Aanpassen",
         "edit_structure": "Sjabloon aanpassen",
         "tools": {
@@ -263,7 +247,29 @@
           "pia": "PIA<br>tonen",
           "remove": "Verwijderen",
           "unarchive": "Archiveren ongedaan maken"
-        }
+        },
+        "validate_pia": "Valideren"
+      },
+      "knowledges": {
+        "edit": "Kennisbank bewerken",
+        "import": "Kennisbank importeren",
+        "new": "Kennisbank maken",
+        "placeholder_author": "Auteur",
+        "placeholder_contributors": "Medewerker",
+        "placeholder_entry_number": "Aantal trefwoorden",
+        "placeholder_name": "Naam kennisbank"
+      },
+      "knowledges_entry": {
+        "all_sections": "Alle secties",
+        "choose_category": "Categorie kiezen",
+        "contents": "Inhoud",
+        "create": "Dit element maken",
+        "linked_to": "Gelinkt aan",
+        "new": "Elementen maken",
+        "placeholder_category": "Categorie",
+        "placeholder_description": "Zet hier je beschrijving...",
+        "placeholder_name": "Elementnaam",
+        "placeholder_updated_at": "Laatst aangepast"
       },
       "new_pia": "Nieuwe PIA",
       "new_structure": "Nieuw sjabloon",
@@ -272,12 +278,12 @@
       "placeholder_author": "Voornaam Achternaam",
       "placeholder_category": "Categorie",
       "placeholder_evaluation": "Voornaam Achternaam",
+      "placeholder_import_knowledgeBase": "Kennisbank importeren",
       "placeholder_import_pia": "PIA importeren",
       "placeholder_import_structure": "Sjabloon importeren",
-      "placeholder_import_knowledgeBase": "Kennisbank importeren",
+      "placeholder_new_knowledgeBase": "Nieuwe kennisbank",
       "placeholder_new_pia": "Nieuwe PIA",
       "placeholder_new_structure": "Nieuw sjabloon",
-      "placeholder_new_knowledgeBase": "Nieuwe kennisbank",
       "placeholder_pia_name": "Titel PIA",
       "placeholder_sector_name": "Naam verwante sector",
       "placeholder_start": "Alle velden moeten worden ingevuld",
@@ -290,29 +296,7 @@
       "structure": "Sjabloon",
       "structure_name": "Naam van het sjabloon",
       "title_close_creation": "Sluiten",
-      "guest": "Gast(en)",
-      "validation": "Valideren",
-      "knowledges": {
-        "new": "Kennisbank maken",
-        "import": "Kennisbank importeren",
-        "edit": "Kennisbank bewerken",
-        "placeholder_name": "Naam kennisbank",
-        "placeholder_author": "Auteur",
-        "placeholder_contributors": "Medewerker",
-        "placeholder_entry_number": "Aantal trefwoorden"
-      },
-      "knowledges_entry": {
-        "new": "Elementen maken",
-        "create": "Dit element maken",
-        "placeholder_name": "Elementnaam",
-        "placeholder_category": "Categorie",
-        "placeholder_description": "Zet hier je beschrijving...",
-        "placeholder_updated_at": "Laatst aangepast",
-        "contents": "Inhoud",
-        "choose_category": "Categorie kiezen",
-        "linked_to": "Gelinkt aan",
-        "all_sections": "Alle secties"
-      }
+      "validation": "Valideren"
     },
     "filters": {
       "assessor": "Reviewer",
@@ -367,8 +351,6 @@
     "search_filter": "Zoeken"
   },
   "knowledge_base": {
-    "choose_knowledge_base": "Kies je kennisbank",
-    "default_knowledge_base": "CNIL Kennisbank",
     "add_measure": "Toevoegen",
     "add_measure_hint": "U kunt ook een maatregel uit de kennisbank toevoegen.",
     "category": {
@@ -380,6 +362,8 @@
       "organizational_measure": "Organisatorische maatregelen",
       "principle": "Principe"
     },
+    "choose_knowledge_base": "Kies je kennisbank",
+    "default_knowledge_base": "CNIL Kennisbank",
     "filters": {
       "all": "Allemaal",
       "definitions": "Definities",
@@ -942,12 +926,6 @@
     "display": "Laten zien / verbergen"
   },
   "modals": {
-    "users": {
-      "delete": {
-        "content": "Ben je zeker dat je deze gebruiker wilt verwijderen?",
-        "confirm": "Gebruiker verwijderen"
-      }
-    },
     "abandon_pia": {
       "additional_text": "Archiveren is niet definitief en je kunt zo nodig op de PIA terugkomen.",
       "content": "Wilt u de verwerking opgeven?"
@@ -990,11 +968,22 @@
       "remove": "Verwijderen",
       "review_section": "Controleer een sectie"
     },
+    "general_error": {
+      "content": "Onze excuses. Er heeft zich een fout voorgedaan."
+    },
     "import_wrong_pia_file": {
       "content": "Het geïmporteerde bestand stemt niet overeen met een bestand van het type PIA"
     },
     "import_wrong_structure_file": {
       "content": "Het geïmporteerde bestand stemt niet overeen met een bestand van het type sjabloon"
+    },
+    "knowledge": {
+      "content": "Ben je zeker dat je dit element wilt verwijderen?",
+      "remove": "Dit element verwijderen"
+    },
+    "knowledges": {
+      "content": "Ben je zeker dat je deze kennisbank wilt verwijderen?",
+      "remove": "Deze kennisbank verwijderen"
     },
     "modal_select_text_pia": {
       "content": "De inhoud van de PIA is gekopieerd naar het klembord."
@@ -1055,22 +1044,108 @@
     "update_server_url_ok": {
       "content": "Het serveradres werd geüpdatet."
     },
+    "users": {
+      "delete": {
+        "confirm": "Gebruiker verwijderen",
+        "content": "Ben je zeker dat je deze gebruiker wilt verwijderen?"
+      }
+    },
     "validate_evaluation": {
       "content": "Dit gedeelte is klaar voor het valideren van de PIA."
     },
     "validate_evaluation_to_correct": {
       "content": "Sorry, maar er zijn meerdere velden die moeten worden gecorrigeerd. <br> Keer terug naar de bewerkingsmodus om correcties aan te brengen."
+    }
+  },
+  "onboarding": {
+    "dashboard": {
+      "step1": {
+        "description": "Klik op <strong>+</strong> om je eerste PIA te maken.",
+        "title": "PIA maken"
+      },
+      "step2": {
+        "description": "<p><strong>Redacteurs</strong> schrijven de eerste versie van de analyse.</p><p>Dat kan bijv. de projectmanager zijn die te maken heeft met de verwerking.</p>",
+        "title": "PIA rollen"
+      },
+      "step3": {
+        "description": "<p><strong>Reviewers</strong> zijn betrokken bij de tweede fase.</p><p>Zij gebruiken hun juridische of technische expertise om de kwaliteit en de naleving van de verwerking te controleren.</p><p>Dat kan bijv. de DPO of de juridisch expert zijn.</p>",
+        "title": "PIA rollen"
+      },
+      "step4": {
+        "description": "<p>De <strong>validator</strong> aanvaardt of verwerpt de implementatie van de verwerking en moet de analyse ondertekenen.</p><p>Het gaat om de verantwoordelijke, bijv. de CEO.</p>",
+        "title": "PIA rollen"
+      },
+      "step5": {
+        "description": "<p><strong>Sjablonen</strong> zijn een geavanceerde functie. Ze worden gebruik om een vooringevulde basis voor de analyse te maken.</p><p>Je kunt sjablonen maken door naar deze sectie te gaan in het menu bovenaan.</p>",
+        "title": "Sjablonen"
+      }
     },
-    "general_error": {
-      "content": "Onze excuses. Er heeft zich een fout voorgedaan."
+    "entry": {
+      "step1": {
+        "description": "Gebruik het linker navigatiemenu om van het ene deel van de analyse naar het andere te gaan.",
+        "title": "Verkennen"
+      },
+      "step2": {
+        "description": "Dit wordt gebruikt om het doel van de verwerking toe te lichten en hoe dit zal worden geïmplemteneerd.",
+        "title": "Context"
+      },
+      "step3": {
+        "description": "Deze zijn erop gericht ervoor te zorgen dat de verwerking conform de GDPR verloopt.",
+        "title": "Fundamentele principes"
+      },
+      "step4": {
+        "description": "Deze beschrijven die reeds geplande beveiligingsmaatregelen voor de verwerking en laten toe de potentiële impact op de betrokkenen in te schatten.",
+        "title": "Risico's"
+      },
+      "step5": {
+        "description": "Dit laat de DPO toe zijn of haar mening te geven over de implemtentatie van de verwerkingte geven, en de verantwoordelijke om deze te aanvaarden of verwerpen.",
+        "title": "Validatie"
+      },
+      "step6": {
+        "description": "<p>Deze geeft contextuele ondersteuning bij het uitvoeren van de analyse en is gebaseerd op de GDPR, de beveligingsgids en de PIA-gidsen van de CNIL</p><p>Daarnaast kun je je eigen kennisbanken maken om gemakkelijk specifieke informatie over de organisatie te raadplegen.</p>",
+        "title": "De kennisbank"
+      },
+      "step7": {
+        "description": "Je kunt de analyse op eender welk moment downloaden in verschillende formaten om ze te delen met je collega's.",
+        "title": "PIA exporteren"
+      }
     },
-    "knowledges": {
-      "content": "Ben je zeker dat je deze kennisbank wilt verwijderen?",
-      "remove": "Deze kennisbank verwijderen"
+    "evaluation": {
+      "step1": {
+        "description": "De evaluatie kan een volledige sectie in rekening brengen, of focussen op een onderdeel van een sectie.",
+        "title": "PIA evalueren"
+      },
+      "step2": {
+        "description": "<p>Deze evaluatie signaleert aan de redacteurs dat er elementen ontbreken om een goede beoordeling te maken.</p><p>De beoordeleaar moet deze aanduiden in het verwante <strong>evaluatie commentaar</strong> veld. De redacteur zal de nodige aanpassingen doen.</p>",
+        "title": "Te corrigeren"
+      },
+      "step3": {
+        "description": "<p>Deze evaluatie geeft de verwerkingselementen aan die moeten worden herzien. Ze worden beschrijven in het <strong>actieplan / verbeteractie</strong> veld.</p><p>Deze maatregelen worden automatisch toegevoegd aan het actieplan-gedeelte van de analyse. Deze moeten zo snel mogelijk worden geïmplementeerd.</p>",
+        "title": "Te verbeteren"
+      },
+      "step4": {
+        "description": "Deze evaluatie geeft aan dat dit gedeelte van de verwerking zonder aanpassingen kan worden geïmplementeerd.",
+        "title": "Aanvaardbaar"
+      },
+      "step5": {
+        "description": "Als de evaluatie van een sectie nog niet is aangevat, kan het verzoek voor evaluatie worden geannuleerd om aanpassingen te maken aan de beschrijving van de verwerking.",
+        "title": "Een verzoek annuleren"
+      }
     },
-    "knowledge": {
-      "content": "Ben je zeker dat je dit element wilt verwijderen?",
-      "remove": "Dit element verwijderen"
+    "general": {
+      "done": "TO TRANSLATE - Confirm",
+      "next": "TO TRANSLATE - Next",
+      "skip": "TO TRANSLATE - Skip"
+    },
+    "validated": {
+      "step1": {
+        "description": "Een volledige en gevalideerde analyse kun je op eender welk moment consulteren via de interface.",
+        "title": "Een gevalideerde PIA raadplegen"
+      },
+      "step2": {
+        "description": "Een analyse moet regelmatig gereviewed worden. Je kunt ze op eender welk moment aanpassen of dupliceren om de inhoud te reviewen in overeenstemming met de evolutie van de verwerking.",
+        "title": "Een gevalideerde PIA updaten"
+      }
     }
   },
   "opinions": {
@@ -1108,6 +1183,7 @@
     "attachments": {
       "add": "Toevoegen",
       "download": "Bijlage downloaden",
+      "loading": "TO TRANSLATE - Uploading...",
       "remove": "Verwijderen",
       "title": "Bijlagen"
     },
@@ -1514,6 +1590,27 @@
     "risks_overview_title": "Overzicht risico's",
     "title": "PIA informatie"
   },
+  "users": {
+    "add_new_user": "Nieuwe gebruiker toevoegen",
+    "cancel": "Annuleren",
+    "choose_profile": "Kies een profiel voor deze gebruiker",
+    "continue": "Verdergaan",
+    "data": "Gegevens",
+    "edit_user": "Gebruiker aanpassen",
+    "email": "E-mailadres",
+    "first_name": "Voornaam",
+    "functional_admin": "Functioneel beheerder",
+    "last_name": "Naam",
+    "new_user_button": "Nieuwe gebruiker",
+    "profile": "Profiel",
+    "remove": "Verwijderen",
+    "remove_current_user_error_message": "Je kunt je eigen account niet verwijderen.",
+    "remove_last_functional_admin_error_message": "Je kunt deze gebruiker niet verwijderen omdat er tenminste één technisch beheerder account moet zijn.",
+    "remove_user_with_linked_pias_error_message": "Je kunt deze gebruiker niet verwijderen omdat er meerdere PIA's aan gelinkt zijn.",
+    "technical_admin": "Technisch beheerder",
+    "update": "Updaten",
+    "user": "Gebruiker"
+  },
   "validation_page": {
     "add_signed_pia": "Voeg de ondertekende PIA toe",
     "after_reading": "Na het lezen van de volledige PIA betreffende de gegevensverwerking gelinkt aan ",
@@ -1537,96 +1634,5 @@
     },
     "validated_pia_with_signature": "Gevalideerd (ondertekend)",
     "waiting_for_signature": "Wachten op ondertekende PIA"
-  },
-  "onboarding": {
-    "general": {
-      "next": "Next",
-      "skip": "Skip",
-      "done": "Confirm"
-    },
-    "dashboard": {
-      "step1": {
-        "title": "PIA maken",
-        "description": "Klik op <strong>+</strong> om je eerste PIA te maken."
-      },
-      "step2": {
-        "title": "PIA rollen",
-        "description": "<p><strong>Redacteurs</strong> schrijven de eerste versie van de analyse.</p><p>Dat kan bijv. de projectmanager zijn die te maken heeft met de verwerking.</p>"
-      },
-      "step3": {
-        "title": "PIA rollen",
-        "description": "<p><strong>Reviewers</strong> zijn betrokken bij de tweede fase.</p><p>Zij gebruiken hun juridische of technische expertise om de kwaliteit en de naleving van de verwerking te controleren.</p><p>Dat kan bijv. de DPO of de juridisch expert zijn.</p>"
-      },
-      "step4": {
-        "title": "PIA rollen",
-        "description": "<p>De <strong>validator</strong> aanvaardt of verwerpt de implementatie van de verwerking en moet de analyse ondertekenen.</p><p>Het gaat om de verantwoordelijke, bijv. de CEO.</p>"
-      },
-      "step5": {
-        "title": "Sjablonen",
-        "description": "<p><strong>Sjablonen</strong> zijn een geavanceerde functie. Ze worden gebruik om een vooringevulde basis voor de analyse te maken.</p><p>Je kunt sjablonen maken door naar deze sectie te gaan in het menu bovenaan.</p>"
-      }
-    },
-    "entry": {
-      "step1": {
-        "title": "Verkennen",
-        "description": "Gebruik het linker navigatiemenu om van het ene deel van de analyse naar het andere te gaan."
-      },
-      "step2": {
-        "title": "Context",
-        "description": "Dit wordt gebruikt om het doel van de verwerking toe te lichten en hoe dit zal worden geïmplemteneerd."
-      },
-      "step3": {
-        "title": "Fundamentele principes",
-        "description": "Deze zijn erop gericht ervoor te zorgen dat de verwerking conform de GDPR verloopt."
-      },
-      "step4": {
-        "title": "Risico's",
-        "description": "Deze beschrijven die reeds geplande beveiligingsmaatregelen voor de verwerking en laten toe de potentiële impact op de betrokkenen in te schatten."
-      },
-      "step5": {
-        "title": "Validatie",
-        "description": "Dit laat de DPO toe zijn of haar mening te geven over de implemtentatie van de verwerkingte geven, en de verantwoordelijke om deze te aanvaarden of verwerpen."
-      },
-      "step6": {
-        "title": "De kennisbank",
-        "description": "<p>Deze geeft contextuele ondersteuning bij het uitvoeren van de analyse en is gebaseerd op de GDPR, de beveligingsgids en de PIA-gidsen van de CNIL</p><p>Daarnaast kun je je eigen kennisbanken maken om gemakkelijk specifieke informatie over de organisatie te raadplegen.</p>"
-      },
-      "step7": {
-        "title": "PIA exporteren",
-        "description": "Je kunt de analyse op eender welk moment downloaden in verschillende formaten om ze te delen met je collega's."
-      }
-    },
-    "evaluation": {
-      "step1": {
-        "title": "PIA evalueren",
-        "description": "De evaluatie kan een volledige sectie in rekening brengen, of focussen op een onderdeel van een sectie."
-      },
-      "step2": {
-        "title": "Te corrigeren",
-        "description": "<p>Deze evaluatie signaleert aan de redacteurs dat er elementen ontbreken om een goede beoordeling te maken.</p><p>De beoordeleaar moet deze aanduiden in het verwante <strong>evaluatie commentaar</strong> veld. De redacteur zal de nodige aanpassingen doen.</p>"
-      },
-      "step3": {
-        "title": "Te verbeteren",
-        "description": "<p>Deze evaluatie geeft de verwerkingselementen aan die moeten worden herzien. Ze worden beschrijven in het <strong>actieplan / verbeteractie</strong> veld.</p><p>Deze maatregelen worden automatisch toegevoegd aan het actieplan-gedeelte van de analyse. Deze moeten zo snel mogelijk worden geïmplementeerd.</p>"
-      },
-      "step4": {
-        "title": "Aanvaardbaar",
-        "description": "Deze evaluatie geeft aan dat dit gedeelte van de verwerking zonder aanpassingen kan worden geïmplementeerd."
-      },
-      "step5": {
-        "title": "Een verzoek annuleren",
-        "description": "Als de evaluatie van een sectie nog niet is aangevat, kan het verzoek voor evaluatie worden geannuleerd om aanpassingen te maken aan de beschrijving van de verwerking."
-      }
-    },
-    "validated": {
-      "step1": {
-        "title": "Een gevalideerde PIA raadplegen",
-        "description": "Een volledige en gevalideerde analyse kun je op eender welk moment consulteren via de interface."
-      },
-      "step2": {
-        "title": "Een gevalideerde PIA updaten",
-        "description": "Een analyse moet regelmatig gereviewed worden. Je kunt ze op eender welk moment aanpassen of dupliceren om de inhoud te reviewen in overeenstemming met de evolutie van de verwerking."
-      }
-    }
   }
 }

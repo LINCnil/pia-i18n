@@ -22,63 +22,42 @@
     "risks": "Risks",
     "title": "Overview"
   },
-  "users": {
-    "new_user_button": "New user",
-    "first_name": "First name",
-    "last_name": "Last name",
-    "email": "Email",
-    "profile": "Profile",
-    "remove": "Delete",
-    "update": "Update",
-    "technical_admin": "Technical administrator",
-    "functional_admin": "Functional administrator",
-    "user": "User",
-    "remove_current_user_error_message": "You can't delete your own account.",
-    "remove_user_with_linked_pias_error_message": "Several PIAs are attached to this user, so you cannot delete him.",
-    "remove_last_functional_admin_error_message": "You cannot delete this user because at least one Technical Administrator account must remain.",
-    "add_new_user": "Add a new user",
-    "edit_user": "Edit an user",
-    "data": "Data",
-    "choose_profile": "Choose a profile for this user",
-    "cancel": "Cancel",
-    "continue": "Continue"
-  },
   "authentication": {
+    "12_characters": "12 characters",
+    "account_recovery": "Password recovery",
+    "activation_code": "Activation code",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "confirmation": "Confirmation",
+    "continue": "Continue",
+    "create_account": "Sign up",
+    "create_account2": "Create account",
     "description": "This software by the <strong>French Data Protection Authority (CNIL)</strong> is meant to guide the data controllers in building and demonstrating compliance to the GDPR. It helps to properly carry out a data protection impact assessment by facilitating the use of the PIA method developed by the CNIL.",
+    "email": "Email",
+    "email_placeholder": "Email",
+    "forgotten_password": "Forgotten ?",
+    "login": "Login",
+    "lowercase": "Lowercase",
+    "password": "Password",
+    "password_security": "Password security",
+    "recovery_code": "Reset code",
+    "recovery_code_message": "An email containing a code has been sent to this email. Please enter the code in the field below.",
+    "recovery_code_not_sent": "Unreceived code?",
+    "saved_password": "Your password is saved. You can now sign in.",
+    "sign_in": "Sign in",
+    "sign_in_button": "Sign in",
+    "sign_out_button": "Sign out",
+    "special_character": "Special character",
     "start": "Start",
     "start_app": "Access the PIA's software (Beta)",
     "subtitle1": "A platform to create <br> and manage your PIAs",
     "subtitle2": "Access tools and glossaries",
     "title": "Privacy impact assessment",
-    "sign_in": "Sign in",
-    "login": "Login",
-    "password": "Password",
-    "forgotten_password": "Forgotten ?",
-    "create_account": "Sign up",
-    "sign_in_button": "Sign in",
-    "sign_out_button": "Sign out",
-    "saved_password": "Your password is saved. You can now sign in.",
-    "confirm": "Confirm",
-    "create_account2": "Create account",
-    "cancel": "Cancel",
-    "account_recovery": "Password recovery",
-    "confirmation": "Confirmation",
-    "wrong_confirmation": "Wrong confirmation",
-    "password_security": "Password security",
-    "12_characters": "12 characters",
-    "uppercase": "Uppercase",
-    "lowercase": "Lowercase",
-    "special_character": "Special character",
-    "activation_code": "Activation code",
-    "wrong_activation_code": "(wrong)",
-    "continue": "Continue",
     "transaction_error": "Unable to process your request.",
-    "email": "Email",
-    "wrong_email": "Wrong email",
-    "email_placeholder": "Email",
-    "recovery_code_message": "An email containing a code has been sent to this email. Please enter the code in the field below.",
-    "recovery_code": "Reset code",
-    "recovery_code_not_sent": "Unreceived code?"
+    "uppercase": "Uppercase",
+    "wrong_activation_code": "(wrong)",
+    "wrong_confirmation": "Wrong confirmation",
+    "wrong_email": "Wrong email"
   },
   "cartography": {
     "important": "Important",
@@ -142,7 +121,12 @@
     "placeholder_improvable1": "According to the available information, additional measures are to be implemented in order to improve the data protection of the processing.",
     "placeholder_improvable2": "Enter your comments.",
     "placeholder_to_correct": "The information provided are not sufficient to properly evaluate them. Send back to the editor to improve the original submission.",
-    "status": ["Pending", "To correct", "Improvable", "Acceptable"],
+    "status": [
+      "Pending",
+      "To correct",
+      "Improvable",
+      "Acceptable"
+    ],
     "title": "Evaluation",
     "to_correct": "To correct"
   },
@@ -159,9 +143,9 @@
     "homepage_link": "My PIAs",
     "knowledge_base_link": "Knowledge base",
     "languages": {
+      "bg": "български",
       "cnil_translations": "CNIL provided translations",
       "community_translations": "Community provided translations",
-      "bg": "български",
       "cz": "Česky",
       "de": "Deutsch",
       "dk": "Dansk",
@@ -190,12 +174,12 @@
     "logo_title": "Privacy impact assessment",
     "structures": "PIA templates",
     "tools": {
-      "users": "Users",
-      "onboarding": "Restart tutorial",
       "about": "About",
       "accessibility": "Visually impaired accessibility (high contrast colors, daltonism)",
+      "onboarding": "Restart tutorial",
       "settings": "Settings",
-      "url_setting": "Server URL configuration"
+      "url_setting": "Server URL configuration",
+      "users": "Users"
     }
   },
   "help": {
@@ -246,12 +230,12 @@
       "creation_status": "Creation",
       "date": "Date",
       "evaluation": "Review",
+      "guest": "Guest(s)",
       "import_pia": "Import PIA",
       "import_structure": "Import template",
       "item": {
         "consult_pia": "Consult",
         "consult_structure": "Consult template",
-        "validate_pia": "Validate",
         "edit_pia": "Edit",
         "edit_structure": "Edit template",
         "tools": {
@@ -263,7 +247,29 @@
           "pia": "Display<br>PIA",
           "remove": "Delete",
           "unarchive": "Unarchive"
-        }
+        },
+        "validate_pia": "Validate"
+      },
+      "knowledges": {
+        "edit": "Edit the base",
+        "import": "Import a base",
+        "new": "Create a base",
+        "placeholder_author": "Author",
+        "placeholder_contributors": "Contributors",
+        "placeholder_entry_number": "Number of entries",
+        "placeholder_name": "Base's name"
+      },
+      "knowledges_entry": {
+        "all_sections": "All sections",
+        "choose_category": "Choose a category",
+        "contents": "Contents",
+        "create": "Create this element",
+        "linked_to": "Linked to",
+        "new": "Create an element",
+        "placeholder_category": "Category",
+        "placeholder_description": "Your description here...",
+        "placeholder_name": "Element's name",
+        "placeholder_updated_at": "Last updated"
       },
       "new_pia": "New PIA",
       "new_structure": "New template",
@@ -272,12 +278,12 @@
       "placeholder_author": "Firstname, lastname",
       "placeholder_category": "Category",
       "placeholder_evaluation": "Firstname, lastname",
+      "placeholder_import_knowledgeBase": "Import base",
       "placeholder_import_pia": "Import PIA",
       "placeholder_import_structure": "Import template",
-      "placeholder_import_knowledgeBase": "Import base",
+      "placeholder_new_knowledgeBase": "New base",
       "placeholder_new_pia": "New PIA",
       "placeholder_new_structure": "New template",
-      "placeholder_new_knowledgeBase": "New base",
       "placeholder_pia_name": "PIA's title",
       "placeholder_sector_name": "Associated sector's name",
       "placeholder_start": "All fields must be filled",
@@ -290,29 +296,7 @@
       "structure": "Template",
       "structure_name": "Template's name",
       "title_close_creation": "Close",
-      "validation": "Validation",
-      "guest": "Guest(s)",
-      "knowledges": {
-        "new": "Create a base",
-        "import": "Import a base",
-        "edit": "Edit the base",
-        "placeholder_name": "Base's name",
-        "placeholder_author": "Author",
-        "placeholder_contributors": "Contributors",
-        "placeholder_entry_number": "Number of entries"
-      },
-      "knowledges_entry": {
-        "new": "Create an element",
-        "create": "Create this element",
-        "placeholder_name": "Element's name",
-        "placeholder_category": "Category",
-        "placeholder_description": "Your description here...",
-        "placeholder_updated_at": "Last updated",
-        "contents": "Contents",
-        "choose_category": "Choose a category",
-        "linked_to": "Linked to",
-        "all_sections": "All sections"
-      }
+      "validation": "Validation"
     },
     "filters": {
       "assessor": "Reviewer",
@@ -367,8 +351,6 @@
     "search_filter": "Search"
   },
   "knowledge_base": {
-    "choose_knowledge_base": "Choose your knowledge base",
-    "default_knowledge_base": "CNIL's knowledge base",
     "add_measure": "Add",
     "add_measure_hint": "You can also add a measure from the knowledge base.",
     "category": {
@@ -380,6 +362,8 @@
       "organizational_measure": "Organisational control",
       "principle": "Principle"
     },
+    "choose_knowledge_base": "Choose your knowledge base",
+    "default_knowledge_base": "CNIL's knowledge base",
     "filters": {
       "all": "All",
       "definitions": "Definitions",
@@ -942,12 +926,6 @@
     "display": "Show / Hide"
   },
   "modals": {
-    "users": {
-      "delete": {
-        "content": "Are you sure you want to delete this user?",
-        "confirm": "Remove user"
-      }
-    },
     "abandon_pia": {
       "additional_text": "Archiving is not definitive and the PIA can go back to it if needed.",
       "content": "Do you wish to give up the processing?"
@@ -990,11 +968,22 @@
       "remove": "Remove",
       "review_section": "Review a section"
     },
+    "general_error": {
+      "content": "All our apologies an error has occurred."
+    },
     "import_wrong_pia_file": {
       "content": "The imported file doesn't correspond to a PIA report file."
     },
     "import_wrong_structure_file": {
       "content": "The imported file doesn't correspond to a PIA template file."
+    },
+    "knowledge": {
+      "content": "Are you sure you want to delete this element?",
+      "remove": "Delete this element"
+    },
+    "knowledges": {
+      "content": "Are you sure you want to delete this knowledge base?",
+      "remove": "Delete this knowledge base"
     },
     "modal_select_text_pia": {
       "content": "The content of the PIA has been copied to clipboard."
@@ -1055,22 +1044,108 @@
     "update_server_url_ok": {
       "content": "The server address has been updated."
     },
+    "users": {
+      "delete": {
+        "confirm": "Remove user",
+        "content": "Are you sure you want to delete this user?"
+      }
+    },
     "validate_evaluation": {
       "content": "This section is ready for validating the PIA."
     },
     "validate_evaluation_to_correct": {
       "content": "Sorry,<br>Several fields must be corrected.<br>Return to edition mode<br>to make corrections."
+    }
+  },
+  "onboarding": {
+    "dashboard": {
+      "step1": {
+        "description": "Click on the <strong>+</strong> to create your first PIA.",
+        "title": "Create a PIA"
+      },
+      "step2": {
+        "description": "<p><strong>Editors</strong> write the first version of the analysis.</p><p>They are, for example, the project managers associated with the data processing.</p>",
+        "title": "PIA's roles"
+      },
+      "step3": {
+        "description": "<p><strong>Reviewers</strong> are involved in a second phase.</p><p>They use their legal or technical expertise to check the quality and compliance of the processing.</p><p>They are, for example, DPO, legal experts, ...</p>",
+        "title": "PIA's roles"
+      },
+      "step4": {
+        "description": "<p>The <strong>validator</strong> accepts or rejects the implementation of the processing. He must sign the analysis.</p><p>He is the controller, e.g. the CEO.</p>",
+        "title": "PIA's roles"
+      },
+      "step5": {
+        "description": "<p><strong>Templates</strong> are an advanced feature. They are used to create a pre-filled basis for the analysis.</p><p>You can create templates by going to the associated section accessible from the top menu.</p>",
+        "title": "Templates"
+      }
     },
-    "general_error": {
-      "content": "All our apologies an error has occurred."
+    "entry": {
+      "step1": {
+        "description": "To move from one part of the analysis to another, use the left navigation menu.",
+        "title": "Browse"
+      },
+      "step2": {
+        "description": "This is used to explain the purpose of the processing and how it will be implemented.",
+        "title": "Context"
+      },
+      "step3": {
+        "description": "These aim to ensure that the processing complies with the GDPR.",
+        "title": "Fundamental principles"
+      },
+      "step4": {
+        "description": "These describe the security measures already planned for the processing operation and make it possible to assess its potential impact on the data subjects.",
+        "title": "Risks"
+      },
+      "step5": {
+        "description": "This allows the DPO to express her opinion on the implementation of the processing and the controller to accept or refuse it.",
+        "title": "Validation"
+      },
+      "step6": {
+        "description": "<p>It provides contextual assistance in carrying out the analysis and is based on the GDPR, the security guide and the CNIL's PIA guides</p><p>In addition to these contents, you can also create your own knowledge bases to easily access information specific to your organization.</p>",
+        "title": "The knowledge base"
+      },
+      "step7": {
+        "description": "At any time during the analysis, you can download the analysis in various formats to share it with your colleagues.",
+        "title": "Export your PIA"
+      }
     },
-    "knowledges": {
-      "content": "Are you sure you want to delete this knowledge base?",
-      "remove": "Delete this knowledge base"
+    "evaluation": {
+      "step1": {
+        "description": "The evaluation can take an entire section into account, or at the level of each element of a section.",
+        "title": "Evaluate the PIA"
+      },
+      "step2": {
+        "description": "<p>This evaluation indicates to the editors that elements are missing in order to make a relevant assessment.</p><p>The assessor must indicate these in the associated <strong>evaluation comment</strong> field. The editor will make the necessary corrections.</p>",
+        "title": "To correct"
+      },
+      "step3": {
+        "description": "<p>This assessment indicates the processing elements to be revised. They are detailed in the <strong>action plan / corrective action</strong> field.</p><p>These measures will be automatically added to the action plan part of the analysis. It is necessary to implement them as soon as possible.</p>",
+        "title": "Improvable"
+      },
+      "step4": {
+        "description": "This assessment means that this part of the processing can be implemented without modification.",
+        "title": "Acceptable"
+      },
+      "step5": {
+        "description": "If the assessment of a section has not yet begun, the request forassessment may be cancelled to make changes to the processing description.",
+        "title": "Cancel a request"
+      }
     },
-    "knowledge": {
-      "content": "Are you sure you want to delete this element?",
-      "remove": "Delete this element"
+    "general": {
+      "done": "Confirm",
+      "next": "Next",
+      "skip": "Skip"
+    },
+    "validated": {
+      "step1": {
+        "description": "A complete and validated analysis can be consulted at any time via a dedicated interface.",
+        "title": "Consult a validated PIA"
+      },
+      "step2": {
+        "description": "It is necessary to review regularly an analysis. You can edit or duplicate it at any time to review its content according to the processing evolution.",
+        "title": "Update a validated PIA"
+      }
     }
   },
   "opinions": {
@@ -1108,6 +1183,7 @@
     "attachments": {
       "add": "Add",
       "download": "Download the attachment",
+      "loading": "Uploading...",
       "remove": "Remove",
       "title": "Attachments"
     },
@@ -1155,7 +1231,13 @@
   },
   "questions": {
     "edit": "Edit question",
-    "gauges": ["(Undefined)", "Negligible", "Limited", "Important", "Maximum"],
+    "gauges": [
+      "(Undefined)",
+      "Negligible",
+      "Limited",
+      "Important",
+      "Maximum"
+    ],
     "placeholder_title": "Question title (mandatory)",
     "remove": "Delete question"
   },
@@ -1508,6 +1590,27 @@
     "risks_overview_title": "Risks overview",
     "title": "PIA information"
   },
+  "users": {
+    "add_new_user": "Add a new user",
+    "cancel": "Cancel",
+    "choose_profile": "Choose a profile for this user",
+    "continue": "Continue",
+    "data": "Data",
+    "edit_user": "Edit an user",
+    "email": "Email",
+    "first_name": "First name",
+    "functional_admin": "Functional administrator",
+    "last_name": "Last name",
+    "new_user_button": "New user",
+    "profile": "Profile",
+    "remove": "Delete",
+    "remove_current_user_error_message": "You can't delete your own account.",
+    "remove_last_functional_admin_error_message": "You cannot delete this user because at least one Technical Administrator account must remain.",
+    "remove_user_with_linked_pias_error_message": "Several PIAs are attached to this user, so you cannot delete him.",
+    "technical_admin": "Technical administrator",
+    "update": "Update",
+    "user": "User"
+  },
   "validation_page": {
     "add_signed_pia": "Add the signed PIA",
     "after_reading": "After reading full PIA relating to the data processing linked to ",
@@ -1531,96 +1634,5 @@
     },
     "validated_pia_with_signature": "Approved",
     "waiting_for_signature": "Pending signed PIA"
-  },
-  "onboarding": {
-    "general": {
-      "next": "Next",
-      "skip": "Skip",
-      "done": "Confirm"
-    },
-    "dashboard": {
-      "step1": {
-        "title": "Create a PIA",
-        "description": "Click on the <strong>+</strong> to create your first PIA."
-      },
-      "step2": {
-        "title": "PIA's roles",
-        "description": "<p><strong>Editors</strong> write the first version of the analysis.</p><p>They are, for example, the project managers associated with the data processing.</p>"
-      },
-      "step3": {
-        "title": "PIA's roles",
-        "description": "<p><strong>Reviewers</strong> are involved in a second phase.</p><p>They use their legal or technical expertise to check the quality and compliance of the processing.</p><p>They are, for example, DPO, legal experts, ...</p>"
-      },
-      "step4": {
-        "title": "PIA's roles",
-        "description": "<p>The <strong>validator</strong> accepts or rejects the implementation of the processing. He must sign the analysis.</p><p>He is the controller, e.g. the CEO.</p>"
-      },
-      "step5": {
-        "title": "Templates",
-        "description": "<p><strong>Templates</strong> are an advanced feature. They are used to create a pre-filled basis for the analysis.</p><p>You can create templates by going to the associated section accessible from the top menu.</p>"
-      }
-    },
-    "entry": {
-      "step1": {
-        "title": "Browse",
-        "description": "To move from one part of the analysis to another, use the left navigation menu."
-      },
-      "step2": {
-        "title": "Context",
-        "description": "This is used to explain the purpose of the processing and how it will be implemented."
-      },
-      "step3": {
-        "title": "Fundamental principles",
-        "description": "These aim to ensure that the processing complies with the GDPR."
-      },
-      "step4": {
-        "title": "Risks",
-        "description": "These describe the security measures already planned for the processing operation and make it possible to assess its potential impact on the data subjects."
-      },
-      "step5": {
-        "title": "Validation",
-        "description": "This allows the DPO to express her opinion on the implementation of the processing and the controller to accept or refuse it."
-      },
-      "step6": {
-        "title": "The knowledge base",
-        "description": "<p>It provides contextual assistance in carrying out the analysis and is based on the GDPR, the security guide and the CNIL's PIA guides</p><p>In addition to these contents, you can also create your own knowledge bases to easily access information specific to your organization.</p>"
-      },
-      "step7": {
-        "title": "Export your PIA",
-        "description": "At any time during the analysis, you can download the analysis in various formats to share it with your colleagues."
-      }
-    },
-    "evaluation": {
-      "step1": {
-        "title": "Evaluate the PIA",
-        "description": "The evaluation can take an entire section into account, or at the level of each element of a section."
-      },
-      "step2": {
-        "title": "To correct",
-        "description": "<p>This evaluation indicates to the editors that elements are missing in order to make a relevant assessment.</p><p>The assessor must indicate these in the associated <strong>evaluation comment</strong> field. The editor will make the necessary corrections.</p>"
-      },
-      "step3": {
-        "title": "Improvable",
-        "description": "<p>This assessment indicates the processing elements to be revised. They are detailed in the <strong>action plan / corrective action</strong> field.</p><p>These measures will be automatically added to the action plan part of the analysis. It is necessary to implement them as soon as possible.</p>"
-      },
-      "step4": {
-        "title": "Acceptable",
-        "description": "This assessment means that this part of the processing can be implemented without modification."
-      },
-      "step5": {
-        "title": "Cancel a request",
-        "description": "If the assessment of a section has not yet begun, the request forassessment may be cancelled to make changes to the processing description."
-      }
-    },
-    "validated": {
-      "step1": {
-        "title": "Consult a validated PIA",
-        "description": "A complete and validated analysis can be consulted at any time via a dedicated interface."
-      },
-      "step2": {
-        "title": "Update a validated PIA",
-        "description": "It is necessary to review regularly an analysis. You can edit or duplicate it at any time to review its content according to the processing evolution."
-      }
-    }
   }
 }
