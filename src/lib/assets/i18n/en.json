@@ -56,6 +56,7 @@
     "forgotten_password": "Forgotten ?",
     "create_account": "Sign up",
     "sign_in_button": "Sign in",
+    "sign_out_button": "Sign out",
     "saved_password": "Your password is saved. You can now sign in.",
     "confirm": "Confirm",
     "create_account2": "Create account",

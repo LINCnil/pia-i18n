@@ -56,6 +56,7 @@
     "forgotten_password": "Oublié ?",
     "create_account": "Créer un compte",
     "sign_in_button": "Se connecter",
+    "sign_out_button": "Se déconnecter",
     "saved_password": "Votre mot de passe a été enregistré. Vous pouvez dès à présent vous connecter.",
     "confirm": "Confirmer",
     "create_account2": "Créer le compte",
