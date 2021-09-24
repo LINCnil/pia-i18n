@@ -77,7 +77,31 @@
     "email_placeholder": "Email",
     "recovery_code_message": "An email containing a code has been sent to this email. Please enter the code in the field below.",
     "recovery_code": "Reset code",
-    "recovery_code_not_sent": "Unreceived code?"
+    "recovery_code_not_sent": "Unreceived code?",
+    "errors": {
+      "create_account": {
+        "uuid": {
+          "404": "Wrong activation code"
+        },
+        "password": {
+          "404": "User not found",
+          "406": "Password not conform"
+        }
+      },
+      "account_recovery": {
+        "email": {
+          "404": "User not found",
+          "423": "Account locked"
+        },
+        "uuid": {
+          "404": "Wrong recovery code"
+        },
+        "password": {
+          "404": "User not found",
+          "406": "Password not conform"
+        }
+      }
+    }
   },
   "cartography": {
     "important": "Important",
