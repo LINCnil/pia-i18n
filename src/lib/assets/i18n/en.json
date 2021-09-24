@@ -85,7 +85,7 @@
         },
         "password": {
           "404": "User not found",
-          "406": "Password not conform"
+          "406": "The password does not meet the password policy requirements."
         }
       },
       "account_recovery": {
@@ -98,7 +98,7 @@
         },
         "password": {
           "404": "User not found",
-          "406": "Password not conform"
+          "406": "The password does not meet the password policy requirements."
         }
       }
     }

@@ -85,20 +85,20 @@
         },
         "password": {
           "404": "Utilisateur non trouvé",
-          "406": "Mot de passe non conforme"
+          "406": "Le mot de passe ne respecte pas les exigences de sécurité nécessaires."
         }
       },
       "account_recovery": {
         "email": {
           "404": "Utilisateur non trouvé",
-          "423": "Ce compte utilisateur n'à pas encore été activé"
+          "423": "Ce compte utilisateur n'a pas encore été activé"
         },
         "uuid": {
           "404": "code de réinitialisation erroné"
         },
         "password": {
           "404": "Utilisateur non trouvé",
-          "406": "Mot de passe non conforme"
+          "406": "Le mot de passe ne respecte pas les exigences de sécurité nécessaires."
         }
       }
     }
