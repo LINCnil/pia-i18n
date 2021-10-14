@@ -143,6 +143,7 @@
     "homepage_link": "Hem",
     "knowledge_base_link": "Kunskapsbas",
     "languages": {
+      "ar": "العربية",
       "bg": "български",
       "cnil_translations": "Traductions fournies par la CNIL",
       "community_translations": "Traductions fournies par la communauté",

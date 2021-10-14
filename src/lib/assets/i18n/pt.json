@@ -143,6 +143,7 @@
     "homepage_link": "Painel",
     "knowledge_base_link": "Base de conhecimento",
     "languages": {
+      "ar": "العربية",
       "bg": "български",
       "cnil_translations": "Traduções fornecidas pela CNIL",
       "community_translations": "Traduções fornecidas pela comunidade",

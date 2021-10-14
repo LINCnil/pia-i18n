@@ -143,6 +143,7 @@
     "homepage_link": "My PIAs",
     "knowledge_base_link": "Knowledge base",
     "languages": {
+      "ar": "العربية",
       "bg": "български",
       "cnil_translations": "CNIL provided translations",
       "community_translations": "Community provided translations",
