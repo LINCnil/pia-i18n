@@ -86,6 +86,13 @@
       }
     }
   },
+  "users": {
+    "errors": {
+      "edit_user": {
+        "406": "TO TRANSLATE - The information provided when creating the account is invalid."
+      }
+    }
+  },
   "cartography": {
     "important": "Significativo",
     "legend1": "Medidas existentes ou planeadas",
