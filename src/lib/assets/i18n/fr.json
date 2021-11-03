@@ -86,6 +86,13 @@
       }
     }
   },
+  "users": {
+    "errors": {
+      "edit_user": {
+        "406": "Les informations fournies lors de la création du compte sont invalides."
+      }
+    }
+  },
   "cartography": {
     "important": "Importante",
     "legend1": "Mesures prévues ou existantes",

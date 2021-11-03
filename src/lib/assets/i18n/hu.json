@@ -86,6 +86,13 @@
       }
     }
   },
+  "users": {
+    "errors": {
+      "edit_user": {
+        "406": "TO TRANSLATE - The information provided when creating the account is invalid."
+      }
+    }
+  },
   "cartography": {
     "important": "Jelentős",
     "legend1": "Tervezett vagy meglévő intézkedések figyelembevételével",
