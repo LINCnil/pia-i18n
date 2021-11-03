@@ -59,6 +59,9 @@
     "wrong_confirmation": "TO TRANSLATE - Wrong confirmation",
     "wrong_email": "TO TRANSLATE - Wrong email",
     "errors": {
+      "sign_in": {
+        "400": "TO TRANSLATE - Wrong email or password."
+      },
       "create_account": {
         "uuid": {
           "404": "TO TRANSLATE - Wrong activation code"
