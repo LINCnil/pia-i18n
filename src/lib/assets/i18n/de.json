@@ -22,62 +22,42 @@
     "risks": "Risiken",
     "title": "Übersicht"
   },
-  "users": {
-    "new_user_button": "Benutzer anlegen",
-    "first_name": "Vorname",
-    "last_name": "Name",
-    "email": "E-Mail",
-    "profile": "Profil",
-    "remove": "Löschen",
-    "update": "Ändern",
-    "technical_admin": "Technischer Administrator",
-    "functional_admin": "TO TRANSLATE - Functional administrator",
-    "user": "Benutzer",
-    "remove_current_user_error_message": "Das eigene Benutzerkonto kann nicht gelöscht werden.",
-    "remove_user_with_linked_pias_error_message": "Diverse DSFAs sind diesem Benutzer zugeordnet, löschen nicht möglich.",
-    "remove_last_functional_admin_error_message": "Löschen des Benutzers nicht möglich, da mindestens ein Technischer Administrator angelegt sein muss.",
-    "add_new_user": "Neuen Benutzer hinzufügen",
-    "edit_user": "Benutzer ändern",
-    "data": "Daten",
-    "choose_profile": "Profil für den Benutzer auswählen",
-    "cancel": "Abbrechen",
-    "continue": "Weiter"
-  },
   "authentication": {
+    "12_characters": "12 Zeichen",
+    "account_recovery": "Kennwort wiederherstellen",
+    "activation_code": "Aktivierungskode",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "confirmation": "Bestätigung",
+    "continue": "Weiter",
+    "create_account": "Anlegen",
+    "create_account2": "Benutzerkonto anlegen",
     "description": "Diese Software der <strong>französischen Datenschutzbehörde (CNIL)</strong> soll den Datenverantwortlichen bei der Erstellung und dem Nachweis der Einhaltung der DS-GVO helfen. Sie hilft bei der Durchführung einer Datenschutz-Folgenabschätzung, indem sie die Verwendung der von der CNIL entwickelten PIA-Methode erleichtert.",
+    "email": "E-Mail",
+    "email_placeholder": "E-Mail",
+    "forgotten_password": "Vergessen?",
+    "login": "Anmeldung",
+    "lowercase": "Kleinbuchstaben",
+    "password": "Kennwort",
+    "password_security": "Kennwort Sicherheit",
+    "recovery_code": "TO TRANSLATE - Reset code",
+    "recovery_code_message": "TO TRANSLATE - An email containing a code has been sent to this email. Please enter the code in the field below.",
+    "recovery_code_not_sent": "TO TRANSLATE - Unreceived code?",
+    "saved_password": "Kennwort wurde gespeichert. Sie können sich nun anmelden.",
+    "sign_in": "Anmelden",
+    "sign_in_button": "Anmelden",
+    "sign_out_button": "TO TRANSLATE - Sign out",
+    "special_character": "Sonderzeichen",
     "start": "Starten",
     "start_app": "Zugriff auf die PIA-Software (Beta)",
     "subtitle1": "Eine Plattform zum Erstellen<br>und Verwalten Ihrer DSFAs",
     "subtitle2": "Zugriff auf Tools und Glossare",
     "title": "Datenschutz-Folgenabschätzung",
-    "sign_in": "Anmelden",
-    "login": "Anmeldung",
-    "password": "Kennwort",
-    "forgotten_password": "Vergessen?",
-    "create_account": "Anlegen",
-    "sign_in_button": "Anmelden",
-    "saved_password": "Kennwort wurde gespeichert. Sie können sich nun anmelden.",
-    "confirm": "Bestätigen",
-    "create_account2": "Benutzerkonto anlegen",
-    "cancel": "Abbrechen",
-    "account_recovery": "Kennwort wiederherstellen",
-    "confirmation": "Bestätigung",
-    "wrong_confirmation": "fehlerhafte Bestätigung",
-    "password_security": "Kennwort Sicherheit",
-    "12_characters": "12 Zeichen",
-    "uppercase": "Großbuchstaben",
-    "lowercase": "Kleinbuchstaben",
-    "special_character": "Sonderzeichen",
-    "activation_code": "Aktivierungskode",
-    "wrong_activation_code": "(falsch)",
-    "continue": "Weiter",
     "transaction_error": "TO TRANSLATE - Die Anforderung kann nicht bearbeitet werden.",
-    "email": "E-Mail",
+    "uppercase": "Großbuchstaben",
+    "wrong_activation_code": "(falsch)",
+    "wrong_confirmation": "fehlerhafte Bestätigung",
     "wrong_email": "falsche E-Mail-Adresse",
-    "email_placeholder": "E-Mail",
-    "recovery_code_message": "TO TRANSLATE - An email containing a code has been sent to this email. Please enter the code in the field below.",
-    "recovery_code": "TO TRANSLATE - Reset code",
-    "recovery_code_not_sent": "TO TRANSLATE - Unreceived code?",
     "errors": {
       "create_account": {
         "uuid": {
@@ -187,9 +167,10 @@
     "homepage_link": "Meine DSFAs",
     "knowledge_base_link": "Wissensbasis",
     "languages": {
+      "ar": "العربية",
+      "bg": "български",
       "cnil_translations": "Von der CNIL bereitgestellte Übersetzungen",
       "community_translations": "Von der Community bereitgestellte Übersetzungen",
-      "bg": "български",
       "cz": "Česky",
       "de": "Deutsch",
       "dk": "Dansk",
@@ -218,12 +199,12 @@
     "logo_title": "DSFA - Datenschutz-Folgenabschätzung",
     "structures": "DSFA-Vorlagen",
     "tools": {
-      "users": "Benutzer",
-      "onboarding": "TO TRANSLATE - Restart tutorial",
       "about": "Über",
       "accessibility": "Unterstützung für Sehbehinderte (kontrastreiche Farben, bei Rot-Grün-Sehschwäche)",
+      "onboarding": "TO TRANSLATE - Restart tutorial",
       "settings": "Einstellungen",
-      "url_setting": "Server-URL-Konfiguration"
+      "url_setting": "Server-URL-Konfiguration",
+      "users": "Benutzer"
     }
   },
   "help": {
@@ -274,12 +255,12 @@
       "creation_status": "Anlegen",
       "date": "Datum",
       "evaluation": "Prüfer",
+      "guest": "Gast",
       "import_pia": "DSFA importieren",
       "import_structure": "Vorlage importieren",
       "item": {
         "consult_pia": "Ansehen",
         "consult_structure": "Vorlage anzeigen",
-        "validate_pia": "Prüfen",
         "edit_pia": "Bearbeiten",
         "edit_structure": "Bearbeiten der Vorlage",
         "tools": {
@@ -291,7 +272,29 @@
           "pia": "DSFA<br>anzeigen",
           "remove": "Löschen",
           "unarchive": "Wiederherstellen"
-        }
+        },
+        "validate_pia": "Prüfen"
+      },
+      "knowledges": {
+        "edit": "Wissensdatenbank ändern",
+        "import": "Wissensdatenbank importieren",
+        "new": "Neue Wissensdatenbank",
+        "placeholder_author": "Autor",
+        "placeholder_contributors": "Mitwirkende",
+        "placeholder_entry_number": "Anzahl Einträge",
+        "placeholder_name": "Name der Wissensdatenbank"
+      },
+      "knowledges_entry": {
+        "all_sections": "Alle Abschnitte",
+        "choose_category": "Kategorie auswählen",
+        "contents": "TO TRANSLATE - Inhalt",
+        "create": "Diesen Eintrag anlegen",
+        "linked_to": "Verknüpft mit",
+        "new": "Eintrag anlegen",
+        "placeholder_category": "Kategorie",
+        "placeholder_description": "Beschreibung...",
+        "placeholder_name": "Name des Eintrags",
+        "placeholder_updated_at": "Letzte Aktualisierung"
       },
       "new_pia": "Neue DSFA",
       "new_structure": "Neue Vorlage",
@@ -300,12 +303,12 @@
       "placeholder_author": "Vorname Nachname",
       "placeholder_category": "Kategorie",
       "placeholder_evaluation": "Vorname Nachname",
+      "placeholder_import_knowledgeBase": "Wissensdatenbank importieren",
       "placeholder_import_pia": "DSFA importieren",
       "placeholder_import_structure": "Vorlage importieren",
-      "placeholder_import_knowledgeBase": "Wissensdatenbank importieren",
+      "placeholder_new_knowledgeBase": "Neue Wissensdatenbank",
       "placeholder_new_pia": "Neue DSFA",
       "placeholder_new_structure": "Neue Vorlage",
-      "placeholder_new_knowledgeBase": "Neue Wissensdatenbank",
       "placeholder_pia_name": "DSFA-Titel",
       "placeholder_sector_name": "Titel des zugehörigen Abschnitts",
       "placeholder_start": "Es müssen alle Felder ausgefüllt sein",
@@ -318,29 +321,7 @@
       "structure": "Vorlage",
       "structure_name": "Name der Vorlage",
       "title_close_creation": "Schließen",
-      "validation": "Bestätigender",
-      "guest": "Gast",
-      "knowledges": {
-        "new": "Neue Wissensdatenbank",
-        "import": "Wissensdatenbank importieren",
-        "edit": "Wissensdatenbank ändern",
-        "placeholder_name": "Name der Wissensdatenbank",
-        "placeholder_author": "Autor",
-        "placeholder_contributors": "Mitwirkende",
-        "placeholder_entry_number": "Anzahl Einträge"
-      },
-      "knowledges_entry": {
-        "new": "Eintrag anlegen",
-        "create": "Diesen Eintrag anlegen",
-        "placeholder_name": "Name des Eintrags",
-        "placeholder_category": "Kategorie",
-        "placeholder_description": "Beschreibung...",
-        "placeholder_updated_at": "Letzte Aktualisierung",
-        "contents": "TO TRANSLATE - Inhalt",
-        "choose_category": "Kategorie auswählen",
-        "linked_to": "Verknüpft mit",
-        "all_sections": "Alle Abschnitte"
-      }
+      "validation": "Bestätigender"
     },
     "filters": {
       "assessor": "Überprüft von",
@@ -395,8 +376,6 @@
     "search_filter": "Suchen"
   },
   "knowledge_base": {
-    "choose_knowledge_base": "Wähle die eigene Wissensdatenbank",
-    "default_knowledge_base": "CNILs Wissensdatenbank",
     "add_measure": "Hinzufügen",
     "add_measure_hint": "Sie können auch eine Maßnahme aus der Wissensdatenbank hinzufügen.",
     "category": {
@@ -408,6 +387,8 @@
       "organizational_measure": "Organisationsmaßnahme",
       "principle": "Prinzip"
     },
+    "choose_knowledge_base": "Wähle die eigene Wissensdatenbank",
+    "default_knowledge_base": "CNILs Wissensdatenbank",
     "filters": {
       "all": "Alle",
       "definitions": "Definitionen",
@@ -970,12 +951,6 @@
     "display": "Anzeigen / Ausblenden"
   },
   "modals": {
-    "users": {
-      "delete": {
-        "content": "Sind Sie sicher, diesen Benutzer zu löschen?",
-        "confirm": "Benutzer entfernen"
-      }
-    },
     "abandon_pia": {
       "additional_text": "Die Archivierung ist nicht endgültig. Sie können die Analyse später bei Bedarf fortsetzen.",
       "content": "Sind Sie sicher, dass Sie diese Verarbeitung aufgeben wollen?"
@@ -1018,11 +993,22 @@
       "remove": "Entfernen",
       "review_section": "Überprüfen Sie einen Abschnitt"
     },
+    "general_error": {
+      "content": "Entschuldigung, es ist ein Fehler aufgetreten."
+    },
     "import_wrong_pia_file": {
       "content": "Die importierte Datei entspricht nicht dem Dateityp einer DSFA."
     },
     "import_wrong_structure_file": {
       "content": "Die importierte Datei entspricht nicht dem Dateityp einer Vorlage."
+    },
+    "knowledge": {
+      "content": "Sind Sie sicher, dass Sie diesen Eintrag löschen wollen?",
+      "remove": "Eintrag löschen"
+    },
+    "knowledges": {
+      "content": "Sind Sie sicher, dass Sie diese Wissensdatenbank löschen wollen?",
+      "remove": "Wissensdatenbank löschen"
     },
     "modal_select_text_pia": {
       "content": "Der Inhalt der DSFA wurde in die Zwischenablage kopiert."
@@ -1083,22 +1069,108 @@
     "update_server_url_ok": {
       "content": "Die Serveradresse wurde aktualisiert."
     },
+    "users": {
+      "delete": {
+        "confirm": "Benutzer entfernen",
+        "content": "Sind Sie sicher, diesen Benutzer zu löschen?"
+      }
+    },
     "validate_evaluation": {
       "content": "Der Unterabschnitt steht jetzt zur Bestätigung der Analyse bereit."
     },
     "validate_evaluation_to_correct": {
       "content": "Entschuldigung,<br>mehrere Felder müssen korrigiert werden.<br>Zum Bearbeitungsmodus zurückkehren und Korrekturen vornehmen."
+    }
+  },
+  "onboarding": {
+    "dashboard": {
+      "step1": {
+        "description": "Auf das <strong>+</strong> klicken, um die erste DSFA anzulegen.",
+        "title": "DSFA anlegen"
+      },
+      "step2": {
+        "description": "TO TRANSLATE - <p><strong>Editors</strong> write the first version of the analysis.</p><p>They are, for example, the project managers associated with the data processing.</p>",
+        "title": "DSFA Rollen"
+      },
+      "step3": {
+        "description": "TO TRANSLATE - <p><strong>Reviewers</strong> are involved in a second phase.</p><p>They use their legal or technical expertise to check the quality and compliance of the processing.</p><p>They are, for example, DPO, legal experts, ...</p>",
+        "title": "DSFA Rollen"
+      },
+      "step4": {
+        "description": "TO TRANSLATE - <p>The <strong>validator</strong> accepts or rejects the implementation of the processing. He must sign the analysis.</p><p>He is the controller, e.g. the CEO.</p>",
+        "title": "DSFA Rollen"
+      },
+      "step5": {
+        "description": "TO TRANSLATE - <p><strong>Templates</strong> are an advanced feature. They are used to create a pre-filled basis for the analysis.</p><p>You can create templates by going to the associated section accessible from the top menu.</p>",
+        "title": "Vorlagen"
+      }
     },
-    "general_error": {
-      "content": "Entschuldigung, es ist ein Fehler aufgetreten."
+    "entry": {
+      "step1": {
+        "description": "TO TRANSLATE - To move from one part of the analysis to another, use the left navigation menu.",
+        "title": "TO TRANSLATE - Browse"
+      },
+      "step2": {
+        "description": "TO TRANSLATE - This is used to explain the purpose of the processing and how it will be implemented.",
+        "title": "TO TRANSLATE - Context"
+      },
+      "step3": {
+        "description": "TO TRANSLATE - These aim to ensure that the processing complies with the GDPR.",
+        "title": "TO TRANSLATE - Fundamental principles"
+      },
+      "step4": {
+        "description": "TO TRANSLATE - These describe the security measures already planned for the processing operation and make it possible to assess its potential impact on the data subjects.",
+        "title": "Risiken"
+      },
+      "step5": {
+        "description": "TO TRANSLATE - This allows the DPO to express her opinion on the implementation of the processing and the controller to accept or refuse it.",
+        "title": "Prüfung"
+      },
+      "step6": {
+        "description": "TO TRANSLATE - <p>It provides contextual assistance in carrying out the analysis and is based on the GDPR, the security guide and the CNIL's PIA guides</p><p>In addition to these contents, you can also create your own knowledge bases to easily access information specific to your organization.</p>",
+        "title": "Wissensdatenbank"
+      },
+      "step7": {
+        "description": "TO TRANSLATE - At any time during the analysis, you can download the analysis in various formats to share it with your colleagues.",
+        "title": "DSFA exportieren"
+      }
     },
-    "knowledges": {
-      "content": "Sind Sie sicher, dass Sie diese Wissensdatenbank löschen wollen?",
-      "remove": "Wissensdatenbank löschen"
+    "evaluation": {
+      "step1": {
+        "description": "TO TRANSLATE - The evaluation can take an entire section into account, or at the level of each element of a section.",
+        "title": "TO TRANSLATE - Evaluate the PIA"
+      },
+      "step2": {
+        "description": "TO TRANSLATE - <p>This evaluation indicates to the editors that elements are missing in order to make a relevant assessment.</p><p>The assessor must indicate these in the associated <strong>evaluation comment</strong> field. The editor will make the necessary corrections.</p>",
+        "title": "TO TRANSLATE - To correct"
+      },
+      "step3": {
+        "description": "TO TRANSLATE - <p>This assessment indicates the processing elements to be revised. They are detailed in the <strong>action plan / corrective action</strong> field.</p><p>These measures will be automatically added to the action plan part of the analysis. It is necessary to implement them as soon as possible.</p>",
+        "title": "TO TRANSLATE - Improvable"
+      },
+      "step4": {
+        "description": "TO TRANSLATE - This assessment means that this part of the processing can be implemented without modification.",
+        "title": "TO TRANSLATE - Acceptable"
+      },
+      "step5": {
+        "description": "TO TRANSLATE - If the assessment of a section has not yet begun, the request forassessment may be cancelled to make changes to the processing description.",
+        "title": "TO TRANSLATE - Cancel a request"
+      }
     },
-    "knowledge": {
-      "content": "Sind Sie sicher, dass Sie diesen Eintrag löschen wollen?",
-      "remove": "Eintrag löschen"
+    "general": {
+      "done": "TO TRANSLATE - Confirm",
+      "next": "TO TRANSLATE - Next",
+      "skip": "TO TRANSLATE - Skip"
+    },
+    "validated": {
+      "step1": {
+        "description": "TO TRANSLATE - A complete and validated analysis can be consulted at any time via a dedicated interface.",
+        "title": "TO TRANSLATE - Consult a validated PIA"
+      },
+      "step2": {
+        "description": "TO TRANSLATE - It is necessary to review regularly an analysis. You can edit or duplicate it at any time to review its content according to the processing evolution.",
+        "title": "TO TRANSLATE - Update a validated PIA"
+      }
     }
   },
   "opinions": {
@@ -1136,6 +1208,7 @@
     "attachments": {
       "add": "Hinzufügen",
       "download": "TO TRANSLATE - Download the attachment",
+      "loading": "TO TRANSLATE - Uploading...",
       "remove": "Löschen",
       "title": "Anlagen"
     },
@@ -1542,6 +1615,27 @@
     "risks_overview_title": "Risikokübersicht",
     "title": "Information zur DSFA"
   },
+  "users": {
+    "add_new_user": "Neuen Benutzer hinzufügen",
+    "cancel": "Abbrechen",
+    "choose_profile": "Profil für den Benutzer auswählen",
+    "continue": "Weiter",
+    "data": "Daten",
+    "edit_user": "Benutzer ändern",
+    "email": "E-Mail",
+    "first_name": "Vorname",
+    "functional_admin": "TO TRANSLATE - Functional administrator",
+    "last_name": "Name",
+    "new_user_button": "Benutzer anlegen",
+    "profile": "Profil",
+    "remove": "Löschen",
+    "remove_current_user_error_message": "Das eigene Benutzerkonto kann nicht gelöscht werden.",
+    "remove_last_functional_admin_error_message": "Löschen des Benutzers nicht möglich, da mindestens ein Technischer Administrator angelegt sein muss.",
+    "remove_user_with_linked_pias_error_message": "Diverse DSFAs sind diesem Benutzer zugeordnet, löschen nicht möglich.",
+    "technical_admin": "Technischer Administrator",
+    "update": "Ändern",
+    "user": "Benutzer"
+  },
   "validation_page": {
     "add_signed_pia": "Fügen Sie die unterschriebene DSFA hinzu",
     "after_reading": "Nach vollständiger Durchsicht der DSFA bezüglich der Verarbeitung von Daten im Rahmen von:",
@@ -1565,96 +1659,5 @@
     },
     "validated_pia_with_signature": "Bestätigt",
     "waiting_for_signature": "Warten auf die Unterschrift der DSFA"
-  },
-  "onboarding": {
-    "general": {
-      "next": "Next",
-      "skip": "Skip",
-      "done": "Confirm"
-    },
-    "dashboard": {
-      "step1": {
-        "title": "DSFA anlegen",
-        "description": "Auf das <strong>+</strong> klicken, um die erste DSFA anzulegen."
-      },
-      "step2": {
-        "title": "DSFA Rollen",
-        "description": "TO TRANSLATE - <p><strong>Editors</strong> write the first version of the analysis.</p><p>They are, for example, the project managers associated with the data processing.</p>"
-      },
-      "step3": {
-        "title": "DSFA Rollen",
-        "description": "TO TRANSLATE - <p><strong>Reviewers</strong> are involved in a second phase.</p><p>They use their legal or technical expertise to check the quality and compliance of the processing.</p><p>They are, for example, DPO, legal experts, ...</p>"
-      },
-      "step4": {
-        "title": "DSFA Rollen",
-        "description": "TO TRANSLATE - <p>The <strong>validator</strong> accepts or rejects the implementation of the processing. He must sign the analysis.</p><p>He is the controller, e.g. the CEO.</p>"
-      },
-      "step5": {
-        "title": "Vorlagen",
-        "description": "TO TRANSLATE - <p><strong>Templates</strong> are an advanced feature. They are used to create a pre-filled basis for the analysis.</p><p>You can create templates by going to the associated section accessible from the top menu.</p>"
-      }
-    },
-    "entry": {
-      "step1": {
-        "title": "TO TRANSLATE - Browse",
-        "description": "TO TRANSLATE - To move from one part of the analysis to another, use the left navigation menu."
-      },
-      "step2": {
-        "title": "TO TRANSLATE - Context",
-        "description": "TO TRANSLATE - This is used to explain the purpose of the processing and how it will be implemented."
-      },
-      "step3": {
-        "title": "TO TRANSLATE - Fundamental principles",
-        "description": "TO TRANSLATE - These aim to ensure that the processing complies with the GDPR."
-      },
-      "step4": {
-        "title": "Risiken",
-        "description": "TO TRANSLATE - These describe the security measures already planned for the processing operation and make it possible to assess its potential impact on the data subjects."
-      },
-      "step5": {
-        "title": "Prüfung",
-        "description": "TO TRANSLATE - This allows the DPO to express her opinion on the implementation of the processing and the controller to accept or refuse it."
-      },
-      "step6": {
-        "title": "Wissensdatenbank",
-        "description": "TO TRANSLATE - <p>It provides contextual assistance in carrying out the analysis and is based on the GDPR, the security guide and the CNIL's PIA guides</p><p>In addition to these contents, you can also create your own knowledge bases to easily access information specific to your organization.</p>"
-      },
-      "step7": {
-        "title": "DSFA exportieren",
-        "description": "TO TRANSLATE - At any time during the analysis, you can download the analysis in various formats to share it with your colleagues."
-      }
-    },
-    "evaluation": {
-      "step1": {
-        "title": "TO TRANSLATE - Evaluate the PIA",
-        "description": "TO TRANSLATE - The evaluation can take an entire section into account, or at the level of each element of a section."
-      },
-      "step2": {
-        "title": "TO TRANSLATE - To correct",
-        "description": "TO TRANSLATE - <p>This evaluation indicates to the editors that elements are missing in order to make a relevant assessment.</p><p>The assessor must indicate these in the associated <strong>evaluation comment</strong> field. The editor will make the necessary corrections.</p>"
-      },
-      "step3": {
-        "title": "TO TRANSLATE - Improvable",
-        "description": "TO TRANSLATE - <p>This assessment indicates the processing elements to be revised. They are detailed in the <strong>action plan / corrective action</strong> field.</p><p>These measures will be automatically added to the action plan part of the analysis. It is necessary to implement them as soon as possible.</p>"
-      },
-      "step4": {
-        "title": "TO TRANSLATE - Acceptable",
-        "description": "TO TRANSLATE - This assessment means that this part of the processing can be implemented without modification."
-      },
-      "step5": {
-        "title": "TO TRANSLATE - Cancel a request",
-        "description": "TO TRANSLATE - If the assessment of a section has not yet begun, the request forassessment may be cancelled to make changes to the processing description."
-      }
-    },
-    "validated": {
-      "step1": {
-        "title": "TO TRANSLATE - Consult a validated PIA",
-        "description": "TO TRANSLATE - A complete and validated analysis can be consulted at any time via a dedicated interface."
-      },
-      "step2": {
-        "title": "TO TRANSLATE - Update a validated PIA",
-        "description": "TO TRANSLATE - It is necessary to review regularly an analysis. You can edit or duplicate it at any time to review its content according to the processing evolution."
-      }
-    }
   }
 }

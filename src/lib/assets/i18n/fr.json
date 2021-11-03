@@ -22,62 +22,42 @@
     "risks": "Risques",
     "title": "Vue d'ensemble"
   },
-  "users": {
-    "new_user_button": "Nouvel utilisateur",
-    "first_name": "Prénom",
-    "last_name": "Nom",
-    "email": "Adresse email",
-    "profile": "Profil",
-    "remove": "Supprimer",
-    "update": "Mettre à jour",
-    "technical_admin": "Administrateur technique",
-    "functional_admin": "Administrateur fonctionnel",
-    "user": "Utilisateur",
-    "remove_current_user_error_message": "Vous ne pouvez pas vous supprimer votre propre compte.",
-    "remove_user_with_linked_pias_error_message": "Plusieurs PIA sont rattachés à cet utilisateur, vous ne pouvez donc pas le supprimer.",
-    "remove_last_functional_admin_error_message": "Impossible de supprimer cet utilisateur car il doit rester au moins un compte Administrateur technique.",
-    "add_new_user": "Ajouter un utilisateur",
-    "edit_user": "Éditer un utilisateur",
-    "data": "Informations",
-    "choose_profile": "Choisir le profil de l'utilisateur",
-    "cancel": "Annuler",
-    "continue": "Continuer"
-  },
   "authentication": {
+    "12_characters": "12 caractères",
+    "account_recovery": "Récupération de compte",
+    "activation_code": "Code d'activation",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "confirmation": "Confirmation",
+    "continue": "Continuer",
+    "create_account": "Créer un compte",
+    "create_account2": "Créer le compte",
     "description": "Le logiciel PIA de la <strong>Commission Nationale de l'Informatique et des Libertés (CNIL)</strong> s'inscrit dans une démarche d'accompagnement des responsables de traitement dans la mise en œuvre des obligations du RGPD. Il accompagne la conduite d'une analyse d'impact relative à la protection des données et vise aussi à faciliter l'appropriation des guides PIA de la CNIL.",
+    "email": "Email",
+    "email_placeholder": "Adresse email",
+    "forgotten_password": "Oublié ?",
+    "login": "Login",
+    "lowercase": "Minuscule",
+    "password": "Mot de passe",
+    "password_security": "Sécurité du mot de passe",
+    "recovery_code": "Code de réinitialisation",
+    "recovery_code_message": "Un email contenant un code a été envoyé à l'adresse indiquée. Veuillez entrer le code dans le champ ci-dessous.",
+    "recovery_code_not_sent": "Code non reçu ?",
+    "saved_password": "Votre mot de passe a été enregistré. Vous pouvez dès à présent vous connecter.",
+    "sign_in": "S'identifier",
+    "sign_in_button": "Se connecter",
+    "sign_out_button": "Se déconnecter",
+    "special_character": "Caractère accentué",
     "start": "Commencer",
     "start_app": "Accéder à l'outil PIA (Beta)",
     "subtitle1": "Une plateforme pour créer <br> et administrer vos pia",
     "subtitle2": "Accéder aux outils et glossaires",
     "title": "Analyse d'impact sur <br> la protection des données",
-    "sign_in": "S'identifier",
-    "login": "Login",
-    "password": "Mot de passe",
-    "forgotten_password": "Oublié ?",
-    "create_account": "Créer un compte",
-    "sign_in_button": "Se connecter",
-    "saved_password": "Votre mot de passe a été enregistré. Vous pouvez dès à présent vous connecter.",
-    "confirm": "Confirmer",
-    "create_account2": "Créer le compte",
-    "cancel": "Annuler",
-    "account_recovery": "Récupération de compte",
-    "confirmation": "Confirmation",
-    "wrong_confirmation": "Confirmation erronée",
-    "password_security": "Sécurité du mot de passe",
-    "12_characters": "12 caractères",
-    "uppercase": "Majuscule",
-    "lowercase": "Minuscule",
-    "special_character": "Caractère accentué",
-    "activation_code": "Code d'activation",
-    "wrong_activation_code": "(erroné)",
-    "continue": "Continuer",
     "transaction_error": "Impossible de traiter votre demande.",
-    "email": "Email",
+    "uppercase": "Majuscule",
+    "wrong_activation_code": "(erroné)",
+    "wrong_confirmation": "Confirmation erronée",
     "wrong_email": "Email invalide",
-    "email_placeholder": "Adresse email",
-    "recovery_code_message": "Un email contenant un code a été envoyé à l'adresse indiquée. Veuillez entrer le code dans le champ ci-dessous.",
-    "recovery_code": "Code de réinitialisation",
-    "recovery_code_not_sent": "Code non reçu ?",
     "errors": {
       "create_account": {
         "uuid": {
@@ -165,7 +145,12 @@
     "placeholder_improvable1": "Entrez vos commentaires pour expliquer quelles mesures additionnelles sont à ajouter afin d'améliorer la protection des données du traitement.",
     "placeholder_improvable2": "Entrez vos commentaires.",
     "placeholder_to_correct": "Entrez vos commentaires pour expliquer pourquoi les informations fournies ne sont pas suffisantes pour pouvoir les évaluer. Cette partie sera renvoyée en édition pour enrichir la proposition initiale.",
-    "status": ["En attente", "À corriger", "Améliorable", "Acceptable"],
+    "status": [
+      "En attente",
+      "À corriger",
+      "Améliorable",
+      "Acceptable"
+    ],
     "title": "Évaluation",
     "to_correct": "À corriger"
   },
@@ -182,9 +167,10 @@
     "homepage_link": "Mes PIAs",
     "knowledge_base_link": "Base de connaissances",
     "languages": {
+      "ar": "العربية",
+      "bg": "български",
       "cnil_translations": "Traductions fournies par la CNIL",
       "community_translations": "Traductions fournies par la communauté",
-      "bg": "български",
       "cz": "Česky",
       "de": "Deutsch",
       "dk": "Dansk",
@@ -213,12 +199,12 @@
     "logo_title": "Analyse d'impact sur la protection des données",
     "structures": "Modèles de PIA",
     "tools": {
-      "users": "Utilisateurs",
-      "onboarding": "Relancer le tutoriel",
       "about": "À propos",
       "accessibility": "Accessibilité malvoyants (couleurs à contraste fort, adapté daltonisme)",
+      "onboarding": "Relancer le tutoriel",
       "settings": "Paramètres",
-      "url_setting": "Configuration URL serveur"
+      "url_setting": "Configuration URL serveur",
+      "users": "Utilisateurs"
     }
   },
   "help": {
@@ -269,12 +255,12 @@
       "creation_status": "Création",
       "date": "Date",
       "evaluation": "Évaluation",
+      "guest": "Invité(s)",
       "import_pia": "Importer PIA",
       "import_structure": "Importer modèle",
       "item": {
         "consult_pia": "Consulter",
         "consult_structure": "Consulter le modèle",
-        "validate_pia": "Valider",
         "edit_pia": "Éditer",
         "edit_structure": "Éditer le modèle",
         "tools": {
@@ -286,7 +272,29 @@
           "pia": "Afficher le<br>PIA",
           "remove": "Supprimer",
           "unarchive": "Désarchiver"
-        }
+        },
+        "validate_pia": "Valider"
+      },
+      "knowledges": {
+        "edit": "Éditer la base",
+        "import": "Importer une base",
+        "new": "Créer une base",
+        "placeholder_author": "Auteur",
+        "placeholder_contributors": "Contributeurs",
+        "placeholder_entry_number": "Nombre d'entrées",
+        "placeholder_name": "Nom de la base"
+      },
+      "knowledges_entry": {
+        "all_sections": "Toutes les sections",
+        "choose_category": "Choisissez une catégorie",
+        "contents": "Contenus",
+        "create": "Créer l'élément",
+        "linked_to": "Lié à",
+        "new": "Créer un élément",
+        "placeholder_category": "Catégorie",
+        "placeholder_description": "Votre description ici...",
+        "placeholder_name": "Nom de l'élément",
+        "placeholder_updated_at": "Modifié le"
       },
       "new_pia": "Nouveau PIA",
       "new_structure": "Nouveau modèle",
@@ -295,12 +303,12 @@
       "placeholder_author": "Prénom, nom",
       "placeholder_category": "Catégorie",
       "placeholder_evaluation": "Prénom, nom",
+      "placeholder_import_knowledgeBase": "Importer une base",
       "placeholder_import_pia": "Importer PIA",
       "placeholder_import_structure": "Importer modèle",
-      "placeholder_import_knowledgeBase": "Importer une base",
+      "placeholder_new_knowledgeBase": "Créer une base",
       "placeholder_new_pia": "Nouveau PIA",
       "placeholder_new_structure": "Nouveau modèle",
-      "placeholder_new_knowledgeBase": "Créer une base",
       "placeholder_pia_name": "Intitulé du PIA",
       "placeholder_sector_name": "Intitulé du Secteur associé",
       "placeholder_start": "Tous les champs doivent être remplis",
@@ -313,29 +321,7 @@
       "structure": "Modèle",
       "structure_name": "Nom du modèle",
       "title_close_creation": "Fermer",
-      "validation": "Validation",
-      "guest": "Invité(s)",
-      "knowledges": {
-        "new": "Créer une base",
-        "import": "Importer une base",
-        "edit": "Éditer la base",
-        "placeholder_name": "Nom de la base",
-        "placeholder_author": "Auteur",
-        "placeholder_contributors": "Contributeurs",
-        "placeholder_entry_number": "Nombre d'entrées"
-      },
-      "knowledges_entry": {
-        "new": "Créer un élément",
-        "create": "Créer l'élément",
-        "placeholder_name": "Nom de l'élément",
-        "placeholder_category": "Catégorie",
-        "placeholder_description": "Votre description ici...",
-        "placeholder_updated_at": "Modifié le",
-        "contents": "Contenus",
-        "choose_category": "Choisissez une catégorie",
-        "linked_to": "Lié à",
-        "all_sections": "Toutes les sections"
-      }
+      "validation": "Validation"
     },
     "filters": {
       "assessor": "Évaluateur",
@@ -390,8 +376,6 @@
     "search_filter": "Chercher"
   },
   "knowledge_base": {
-    "choose_knowledge_base": "Sélectionnez votre base de connaissances",
-    "default_knowledge_base": "Base de connaissances CNIL",
     "add_measure": "Ajouter",
     "add_measure_hint": "Ajoutez aussi une mesure à partir de la base de connaissances.",
     "category": {
@@ -403,6 +387,8 @@
       "organizational_measure": "Mesure organisationnelle",
       "principle": "Principe"
     },
+    "choose_knowledge_base": "Sélectionnez votre base de connaissances",
+    "default_knowledge_base": "Base de connaissances CNIL",
     "filters": {
       "all": "Tout",
       "definitions": "Définitions",
@@ -965,12 +951,6 @@
     "display": "Afficher / Masquer"
   },
   "modals": {
-    "users": {
-      "delete": {
-        "content": "Voulez vous vraiment supprimer cet utilisateur ?",
-        "confirm": "Supprimer"
-      }
-    },
     "abandon_pia": {
       "additional_text": "L'archivage n'est pas définitif et vous pouvez<br>reprendre l'analyse plus tard si besoin.",
       "content": "Souhaitez-vous abandonner<br>le traitement ?"
@@ -1013,11 +993,22 @@
       "remove": "Supprimer",
       "review_section": "Évaluer une section"
     },
+    "general_error": {
+      "content": "Une erreur est survenue.<br>veuillez nous excuser pour ce désagrément."
+    },
     "import_wrong_pia_file": {
       "content": "Le fichier importé ne correspond pas à un fichier de type PIA"
     },
     "import_wrong_structure_file": {
       "content": "Le fichier importé ne correspond pas à un fichier de type Modèle"
+    },
+    "knowledge": {
+      "content": "Êtes-vous sûr de vouloir supprimer cet élément ?",
+      "remove": "Supprimer cet élément"
+    },
+    "knowledges": {
+      "content": "Êtes-vous sûr de vouloir supprimer cette base de connaissances ?",
+      "remove": "Supprimer cette base"
     },
     "modal_select_text_pia": {
       "content": "Le contenu du Rapport PIA a été copié dans votre presse-papier."
@@ -1078,22 +1069,108 @@
     "update_server_url_ok": {
       "content": "L'adresse du serveur à été mise à jour."
     },
+    "users": {
+      "delete": {
+        "confirm": "Supprimer",
+        "content": "Voulez vous vraiment supprimer cet utilisateur ?"
+      }
+    },
     "validate_evaluation": {
       "content": "La partie est prête pour<br>la validation de l'analyse."
     },
     "validate_evaluation_to_correct": {
       "content": "Désolé,<br>Plusieurs champs doivent être corrigés.<br>Retour au mode d'édition<br>pour apporter des corrections."
+    }
+  },
+  "onboarding": {
+    "dashboard": {
+      "step1": {
+        "description": "Cliquez sur le <strong>+</strong> pour créer votre première AIPD.",
+        "title": "Créer une AIPD"
+      },
+      "step2": {
+        "description": "<p>Les <strong>rédacteurs</strong> rédigent la première version de l'analyse.</p><p>Ce sont par exemple les chefs de projet associés au traitement.</p>",
+        "title": "Les rôles autour de l'AIPD"
+      },
+      "step3": {
+        "description": "<p>Les <strong>évaluateurs</strong> interviennent dans un second temps.</p><p>Ils contrôlent, grâce à leur expertise juridique ou technique, la qualité et la conformité du traitement.</p><p>Ce sont par exemple le RSSI, des juristes, ...</p>",
+        "title": "Les rôles autour de l'AIPD"
+      },
+      "step4": {
+        "description": "<p>Le <strong>validateur</strong> accepte ou non la mise en oeuvre du traitement. Il doit signer l'analyse.</p><p>Il s'agit du responsable de traitement, par exemple le CEO.</p>",
+        "title": "Les rôles autour de l'AIPD"
+      },
+      "step5": {
+        "description": "<p>Les <strong>modèles</strong> sont une fonctionnalité avancée. Ils permettent de créer une base pré-remplie pour l'analyse.</p><p>Vous pouvez créer des modèles en allant dans la section associée depuis le menu du haut.</p>",
+        "title": "Les modèles"
+      }
     },
-    "general_error": {
-      "content": "Une erreur est survenue.<br>veuillez nous excuser pour ce désagrément."
+    "entry": {
+      "step1": {
+        "description": "Pour passer d'une partie à l'autre de l'analyse, utilisez le menu de navigation de gauche.",
+        "title": "Naviguer"
+      },
+      "step2": {
+        "description": "Il sert à expliquer l'objectif du traitement et comment il sera mis en oeuvre.",
+        "title": "Le contexte"
+      },
+      "step3": {
+        "description": "Ils permettent de s'assurer que le traitement est conforme au RGPD.",
+        "title": "Les principes fondamentaux"
+      },
+      "step4": {
+        "description": "Ils décrivent les mesures de sécurité déjà prévues pour le traitement et permettent d'évaluer ses impacts potentiels sur les personnes concernées.",
+        "title": "Les risques"
+      },
+      "step5": {
+        "description": "Elle permet au DPO d'exprimer son avis sur la mise en oeuvre du traitement et au responsable de traitement de l'accepter ou de la refuser.",
+        "title": "La validation"
+      },
+      "step6": {
+        "description": "<p>Elle fournit une aide contextuelle à la réalisation de l'analyse et s'appuie sur le RGPD, le guide sécurité et les guides AIPD de la CNIL.</p><p>En plus de ces contenus, vous pouvez également créer vos propres bases de connaissances pour accéder facilement à des informations spécifiques à votre organisme.</p>",
+        "title": "La base de connaissances"
+      },
+      "step7": {
+        "description": "À tout moment lors de la réalisation de l'analyse, vous pouvez télécharger l'analyse sous divers formats pour la partager avec vos collaborateurs.",
+        "title": "Exporter son AIPD"
+      }
     },
-    "knowledges": {
-      "content": "Êtes-vous sûr de vouloir supprimer cette base de connaissances ?",
-      "remove": "Supprimer cette base"
+    "evaluation": {
+      "step1": {
+        "description": "L'évaluation peut se faire au niveau d'une section entière, ou bien au niveau de chaque élément d'une section.",
+        "title": "Évaluer l'AIPD"
+      },
+      "step2": {
+        "description": "<p>Cette évaluation indique aux rédacteurs que des éléments sont manquants pour pouvoir faire une évaluation pertinente.</p><p>L'évaluateur doit indiquer ceux-ci dans le champ <strong>commentaire d'évaluation</strong> associé. Le rédacteur apportera les corrections nécessaires.</p>",
+        "title": "À corriger"
+      },
+      "step3": {
+        "description": "<p>Cette évaluation indique les points du traitement à réviser. Ils sont détaillés dans le champ <strong>plan d'action / mesures correctives</strong>.</p><p>Ces mesures seront ajoutées automatiquement à la partie plan d'action de l'analyse. Il est nécessaire de les mettre en oeuvre dans les plus brefs délais.</p>",
+        "title": "Améliorable"
+      },
+      "step4": {
+        "description": "Cette évaluation signifie que ce point du traitement peut être mis en oeuvre sans y apporter de modifications.",
+        "title": "Acceptable"
+      },
+      "step5": {
+        "description": "Si l'évaluation d'une section n'a pas encore commencé, il est possible d'annuler la demande d'évaluation pour apporter des modifications à la description du traitement.",
+        "title": "Annuler une demande"
+      }
     },
-    "knowledge": {
-      "content": "Êtes-vous sûr de vouloir supprimer cet élément ?",
-      "remove": "Supprimer cet élément"
+    "general": {
+      "done": "Terminer",
+      "next": "Suivant",
+      "skip": "Passer"
+    },
+    "validated": {
+      "step1": {
+        "description": "Une analyse faite dans son intégralité et validée peut être consultée à tout moment via une interface dédiée.",
+        "title": "Consulter une AIPD validée"
+      },
+      "step2": {
+        "description": "Il est nécessaire de réviser son analyse régulièrement. Vous pouvez à tout moment l'éditer ou la dupliquer pour revoir son contenu en fonction des évolutions du traitement.",
+        "title": "Mettre à jour une AIPD validée"
+      }
     }
   },
   "opinions": {
@@ -1131,9 +1208,9 @@
     "attachments": {
       "add": "Ajouter",
       "download": "Télécharger la pièce jointe",
+      "loading": "Dépot en cours...",
       "remove": "Supprimer",
-      "title": "Pièces jointes",
-      "loading": "Dépot en cours..."
+      "title": "Pièces jointes"
     },
     "footer": {
       "ask_evaluation": "Demander l'évaluation",
@@ -1538,6 +1615,27 @@
     "risks_overview_title": "Vue d'ensemble des risques",
     "title": "Informations du PIA"
   },
+  "users": {
+    "add_new_user": "Ajouter un utilisateur",
+    "cancel": "Annuler",
+    "choose_profile": "Choisir le profil de l'utilisateur",
+    "continue": "Continuer",
+    "data": "Informations",
+    "edit_user": "Éditer un utilisateur",
+    "email": "Adresse email",
+    "first_name": "Prénom",
+    "functional_admin": "Administrateur fonctionnel",
+    "last_name": "Nom",
+    "new_user_button": "Nouvel utilisateur",
+    "profile": "Profil",
+    "remove": "Supprimer",
+    "remove_current_user_error_message": "Vous ne pouvez pas vous supprimer votre propre compte.",
+    "remove_last_functional_admin_error_message": "Impossible de supprimer cet utilisateur car il doit rester au moins un compte Administrateur technique.",
+    "remove_user_with_linked_pias_error_message": "Plusieurs PIA sont rattachés à cet utilisateur, vous ne pouvez donc pas le supprimer.",
+    "technical_admin": "Administrateur technique",
+    "update": "Mettre à jour",
+    "user": "Utilisateur"
+  },
   "validation_page": {
     "add_signed_pia": "Ajouter le rapport PIA signé",
     "after_reading": "Après lecture intégrale du PIA concernant le traitement des données liées à l'activité de : ",
@@ -1561,96 +1659,5 @@
     },
     "validated_pia_with_signature": "Validé",
     "waiting_for_signature": "En attente de la signature du rapport PIA"
-  },
-  "onboarding": {
-    "general": {
-      "next": "Suivant",
-      "skip": "Passer",
-      "done": "Terminer"
-    },
-    "dashboard": {
-      "step1": {
-        "title": "Créer une AIPD",
-        "description": "Cliquez sur le <strong>+</strong> pour créer votre première AIPD."
-      },
-      "step2": {
-        "title": "Les rôles autour de l'AIPD",
-        "description": "<p>Les <strong>rédacteurs</strong> rédigent la première version de l'analyse.</p><p>Ce sont par exemple les chefs de projet associés au traitement.</p>"
-      },
-      "step3": {
-        "title": "Les rôles autour de l'AIPD",
-        "description": "<p>Les <strong>évaluateurs</strong> interviennent dans un second temps.</p><p>Ils contrôlent, grâce à leur expertise juridique ou technique, la qualité et la conformité du traitement.</p><p>Ce sont par exemple le RSSI, des juristes, ...</p>"
-      },
-      "step4": {
-        "title": "Les rôles autour de l'AIPD",
-        "description": "<p>Le <strong>validateur</strong> accepte ou non la mise en oeuvre du traitement. Il doit signer l'analyse.</p><p>Il s'agit du responsable de traitement, par exemple le CEO.</p>"
-      },
-      "step5": {
-        "title": "Les modèles",
-        "description": "<p>Les <strong>modèles</strong> sont une fonctionnalité avancée. Ils permettent de créer une base pré-remplie pour l'analyse.</p><p>Vous pouvez créer des modèles en allant dans la section associée depuis le menu du haut.</p>"
-      }
-    },
-    "entry": {
-      "step1": {
-        "title": "Naviguer",
-        "description": "Pour passer d'une partie à l'autre de l'analyse, utilisez le menu de navigation de gauche."
-      },
-      "step2": {
-        "title": "Le contexte",
-        "description": "Il sert à expliquer l'objectif du traitement et comment il sera mis en oeuvre."
-      },
-      "step3": {
-        "title": "Les principes fondamentaux",
-        "description": "Ils permettent de s'assurer que le traitement est conforme au RGPD."
-      },
-      "step4": {
-        "title": "Les risques",
-        "description": "Ils décrivent les mesures de sécurité déjà prévues pour le traitement et permettent d'évaluer ses impacts potentiels sur les personnes concernées."
-      },
-      "step5": {
-        "title": "La validation",
-        "description": "Elle permet au DPO d'exprimer son avis sur la mise en oeuvre du traitement et au responsable de traitement de l'accepter ou de la refuser."
-      },
-      "step6": {
-        "title": "La base de connaissances",
-        "description": "<p>Elle fournit une aide contextuelle à la réalisation de l'analyse et s'appuie sur le RGPD, le guide sécurité et les guides AIPD de la CNIL.</p><p>En plus de ces contenus, vous pouvez également créer vos propres bases de connaissances pour accéder facilement à des informations spécifiques à votre organisme.</p>"
-      },
-      "step7": {
-        "title": "Exporter son AIPD",
-        "description": "À tout moment lors de la réalisation de l'analyse, vous pouvez télécharger l'analyse sous divers formats pour la partager avec vos collaborateurs."
-      }
-    },
-    "evaluation": {
-      "step1": {
-        "title": "Évaluer l'AIPD",
-        "description": "L'évaluation peut se faire au niveau d'une section entière, ou bien au niveau de chaque élément d'une section."
-      },
-      "step2": {
-        "title": "À corriger",
-        "description": "<p>Cette évaluation indique aux rédacteurs que des éléments sont manquants pour pouvoir faire une évaluation pertinente.</p><p>L'évaluateur doit indiquer ceux-ci dans le champ <strong>commentaire d'évaluation</strong> associé. Le rédacteur apportera les corrections nécessaires.</p>"
-      },
-      "step3": {
-        "title": "Améliorable",
-        "description": "<p>Cette évaluation indique les points du traitement à réviser. Ils sont détaillés dans le champ <strong>plan d'action / mesures correctives</strong>.</p><p>Ces mesures seront ajoutées automatiquement à la partie plan d'action de l'analyse. Il est nécessaire de les mettre en oeuvre dans les plus brefs délais.</p>"
-      },
-      "step4": {
-        "title": "Acceptable",
-        "description": "Cette évaluation signifie que ce point du traitement peut être mis en oeuvre sans y apporter de modifications."
-      },
-      "step5": {
-        "title": "Annuler une demande",
-        "description": "Si l'évaluation d'une section n'a pas encore commencé, il est possible d'annuler la demande d'évaluation pour apporter des modifications à la description du traitement."
-      }
-    },
-    "validated": {
-      "step1": {
-        "title": "Consulter une AIPD validée",
-        "description": "Une analyse faite dans son intégralité et validée peut être consultée à tout moment via une interface dédiée."
-      },
-      "step2": {
-        "title": "Mettre à jour une AIPD validée",
-        "description": "Il est nécessaire de réviser son analyse régulièrement. Vous pouvez à tout moment l'éditer ou la dupliquer pour revoir son contenu en fonction des évolutions du traitement."
-      }
-    }
   }
 }
