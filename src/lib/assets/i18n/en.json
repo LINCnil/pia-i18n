@@ -57,7 +57,31 @@
     "uppercase": "Uppercase",
     "wrong_activation_code": "(wrong)",
     "wrong_confirmation": "Wrong confirmation",
-    "wrong_email": "Wrong email"
+    "wrong_email": "Wrong email",
+    "errors": {
+      "create_account": {
+        "uuid": {
+          "404": "Wrong activation code"
+        },
+        "password": {
+          "404": "User not found",
+          "406": "The password does not meet the password policy requirements."
+        }
+      },
+      "account_recovery": {
+        "email": {
+          "404": "User not found",
+          "423": "Account locked"
+        },
+        "uuid": {
+          "404": "Wrong recovery code"
+        },
+        "password": {
+          "404": "User not found",
+          "406": "The password does not meet the password policy requirements."
+        }
+      }
+    }
   },
   "cartography": {
     "important": "Important",

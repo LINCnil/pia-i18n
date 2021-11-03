@@ -57,7 +57,31 @@
     "uppercase": "TO TRANSLATE - Uppercase",
     "wrong_activation_code": "TO TRANSLATE - (wrong)",
     "wrong_confirmation": "TO TRANSLATE - Wrong confirmation",
-    "wrong_email": "TO TRANSLATE - Wrong email"
+    "wrong_email": "TO TRANSLATE - Wrong email",
+    "errors": {
+      "create_account": {
+        "uuid": {
+          "404": "TO TRANSLATE - Wrong activation code"
+        },
+        "password": {
+          "404": "TO TRANSLATE - User not found",
+          "406": "TO TRANSLATE - The password does not meet the password policy requirements."
+        }
+      },
+      "account_recovery": {
+        "email": {
+          "404": "TO TRANSLATE - User not found",
+          "423": "TO TRANSLATE - Account locked"
+        },
+        "uuid": {
+          "404": "TO TRANSLATE - Wrong recovery code"
+        },
+        "password": {
+          "404": "TO TRANSLATE - User not found",
+          "406": "TO TRANSLATE - The password does not meet the password policy requirements."
+        }
+      }
+    }
   },
   "cartography": {
     "important": "Merkittävä",

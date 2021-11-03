@@ -57,7 +57,31 @@
     "uppercase": "Großbuchstaben",
     "wrong_activation_code": "(falsch)",
     "wrong_confirmation": "fehlerhafte Bestätigung",
-    "wrong_email": "falsche E-Mail-Adresse"
+    "wrong_email": "falsche E-Mail-Adresse",
+    "errors": {
+      "create_account": {
+        "uuid": {
+          "404": "TO TRANSLATE - Wrong activation code"
+        },
+        "password": {
+          "404": "TO TRANSLATE - User not found",
+          "406": "TO TRANSLATE - The password does not meet the password policy requirements."
+        }
+      },
+      "account_recovery": {
+        "email": {
+          "404": "TO TRANSLATE - User not found",
+          "423": "TO TRANSLATE - Account locked"
+        },
+        "uuid": {
+          "404": "TO TRANSLATE - Wrong recovery code"
+        },
+        "password": {
+          "404": "TO TRANSLATE - User not found",
+          "406": "TO TRANSLATE - The password does not meet the password policy requirements."
+        }
+      }
+    }
   },
   "cartography": {
     "important": "Substantiell",

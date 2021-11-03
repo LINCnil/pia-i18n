@@ -57,7 +57,31 @@
     "uppercase": "Majuscule",
     "wrong_activation_code": "(erroné)",
     "wrong_confirmation": "Confirmation erronée",
-    "wrong_email": "Email invalide"
+    "wrong_email": "Email invalide",
+    "errors": {
+      "create_account": {
+        "uuid": {
+          "404": "code d'activation erroné"
+        },
+        "password": {
+          "404": "Utilisateur non trouvé",
+          "406": "Le mot de passe ne respecte pas les exigences de sécurité nécessaires."
+        }
+      },
+      "account_recovery": {
+        "email": {
+          "404": "Utilisateur non trouvé",
+          "423": "Ce compte utilisateur n'a pas encore été activé"
+        },
+        "uuid": {
+          "404": "code de réinitialisation erroné"
+        },
+        "password": {
+          "404": "Utilisateur non trouvé",
+          "406": "Le mot de passe ne respecte pas les exigences de sécurité nécessaires."
+        }
+      }
+    }
   },
   "cartography": {
     "important": "Importante",
