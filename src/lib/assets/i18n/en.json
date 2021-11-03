@@ -59,6 +59,9 @@
     "wrong_confirmation": "Wrong confirmation",
     "wrong_email": "Wrong email",
     "errors": {
+      "sign_in": {
+        "400": "Wrong email or password."
+      },
       "create_account": {
         "uuid": {
           "404": "Wrong activation code"
