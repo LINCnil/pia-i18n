@@ -77,7 +77,31 @@
     "email_placeholder": "TO TRANSLATE - Email",
     "recovery_code_message": "TO TRANSLATE - An email containing a code has been sent to this email. Please enter the code in the field below.",
     "recovery_code": "TO TRANSLATE - Reset code",
-    "recovery_code_not_sent": "TO TRANSLATE - Unreceived code?"
+    "recovery_code_not_sent": "TO TRANSLATE - Unreceived code?",
+    "errors": {
+      "create_account": {
+        "uuid": {
+          "404": "TO TRANSLATE - Wrong activation code"
+        },
+        "password": {
+          "404": "TO TRANSLATE - User not found",
+          "406": "TO TRANSLATE - The password does not meet the password policy requirements."
+        }
+      },
+      "account_recovery": {
+        "email": {
+          "404": "TO TRANSLATE - User not found",
+          "423": "TO TRANSLATE - Account locked"
+        },
+        "uuid": {
+          "404": "TO TRANSLATE - Wrong recovery code"
+        },
+        "password": {
+          "404": "TO TRANSLATE - User not found",
+          "406": "TO TRANSLATE - The password does not meet the password policy requirements."
+        }
+      }
+    }
   },
   "cartography": {
     "important": "Svarīgi",

@@ -28,7 +28,31 @@
     "start_app": "Достъп до софтуера за ОВЗД (Beta)",
     "subtitle1": "Платформа за създаване <br> и управление на вашите ОВЗД",
     "subtitle2": "Инструменти за достъп и обяснения на термините",
-    "title": "Оценка на въздействието върху защитата на данните"
+    "title": "Оценка на въздействието върху защитата на данните",
+    "errors": {
+      "create_account": {
+        "uuid": {
+          "404": "TO TRANSLATE - Wrong activation code"
+        },
+        "password": {
+          "404": "TO TRANSLATE - User not found",
+          "406": "TO TRANSLATE - The password does not meet the password policy requirements."
+        }
+      },
+      "account_recovery": {
+        "email": {
+          "404": "TO TRANSLATE - User not found",
+          "423": "TO TRANSLATE - Account locked"
+        },
+        "uuid": {
+          "404": "TO TRANSLATE - Wrong recovery code"
+        },
+        "password": {
+          "404": "TO TRANSLATE - User not found",
+          "406": "TO TRANSLATE - The password does not meet the password policy requirements."
+        }
+      }
+    }
   },
   "cartography": {
     "important": "Важно",
