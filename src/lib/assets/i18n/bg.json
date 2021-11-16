@@ -383,7 +383,11 @@
         }
       }
     },
-    "search_filter": "Търсене"
+    "search_filter": "Търсене",
+    "no_entries": {
+      "pia": "TO TRANSLATE - No PIA created and/or assigned",
+      "archive": "TO TRANSLATE - No PIA archive"
+    }
   },
   "knowledge_base": {
     "add_measure": "Добави",

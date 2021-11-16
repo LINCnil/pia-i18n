@@ -383,7 +383,11 @@
         }
       }
     },
-    "search_filter": "Chercher"
+    "search_filter": "Chercher",
+    "no_entries": {
+      "pia": "Aucun PIA créé et/ou assigné",
+      "archive": "Aucun PIA archivé"
+    }
   },
   "knowledge_base": {
     "add_measure": "Ajouter",
