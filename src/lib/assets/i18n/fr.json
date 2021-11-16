@@ -83,7 +83,8 @@
           "404": "Utilisateur non trouvé",
           "406": "Le mot de passe ne respecte pas les exigences de sécurité nécessaires."
         }
-      }
+      },
+      "unauthorized": "Vous n'avez pas l'autorisation d'accéder à cette ressource."
     }
   },
   "users": {
