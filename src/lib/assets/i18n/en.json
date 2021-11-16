@@ -83,7 +83,8 @@
           "404": "User not found",
           "406": "The password does not meet the password policy requirements."
         }
-      }
+      },
+      "unauthorized": "You are not allowed to access this ressource."
     }
   },
   "users": {
