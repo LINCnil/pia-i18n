@@ -1225,7 +1225,8 @@
       "download": "TO TRANSLATE - Download the attachment",
       "loading": "TO TRANSLATE - Uploading...",
       "remove": "Löschen",
-      "title": "Anlagen"
+      "title": "Anlagen",
+      "no_attachment": "TO TRANSLATE - No attachment available"
     },
     "footer": {
       "ask_evaluation": "Bitte um Überprüfung",

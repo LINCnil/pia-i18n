@@ -1225,7 +1225,8 @@
       "download": "Ladda ner bilaga",
       "loading": "TO TRANSLATE - Uploading...",
       "remove": "Radera",
-      "title": "Bilagor"
+      "title": "Bilagor",
+      "no_attachment": "TO TRANSLATE - No attachment available"
     },
     "footer": {
       "ask_evaluation": "Begär en utvärdering",

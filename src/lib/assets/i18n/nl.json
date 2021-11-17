@@ -1225,7 +1225,8 @@
       "download": "Bijlage downloaden",
       "loading": "TO TRANSLATE - Uploading...",
       "remove": "Verwijderen",
-      "title": "Bijlagen"
+      "title": "Bijlagen",
+      "no_attachment": "TO TRANSLATE - No attachment available"
     },
     "footer": {
       "ask_evaluation": "Vraag een beoordeling",

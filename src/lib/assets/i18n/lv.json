@@ -1225,7 +1225,8 @@
       "download": "Download the attachment",
       "loading": "TO TRANSLATE - Uploading...",
       "remove": "Remove",
-      "title": "Attachments"
+      "title": "Attachments",
+      "no_attachment": "TO TRANSLATE - No attachment available"
     },
     "footer": {
       "ask_evaluation": "Ask for review",

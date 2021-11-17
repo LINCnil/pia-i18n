@@ -1225,7 +1225,8 @@
       "download": "TO TRANSLATE - Download the attachment",
       "loading": "TO TRANSLATE - Uploading...",
       "remove": "Remover",
-      "title": "Anexos"
+      "title": "Anexos",
+      "no_attachment": "TO TRANSLATE - No attachment available"
     },
     "footer": {
       "ask_evaluation": "Pedir revisão",

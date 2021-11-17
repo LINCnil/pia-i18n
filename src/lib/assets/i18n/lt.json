@@ -1225,7 +1225,8 @@
       "download": "TO TRANSLATE - Download the attachment",
       "loading": "TO TRANSLATE - Uploading...",
       "remove": "Pašalinti",
-      "title": "Priedai"
+      "title": "Priedai",
+      "no_attachment": "TO TRANSLATE - No attachment available"
     },
     "footer": {
       "ask_evaluation": "Prašyti peržiūros",

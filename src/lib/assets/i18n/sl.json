@@ -1225,7 +1225,8 @@
       "download": "TO TRANSLATE - Download the attachment",
       "loading": "TO TRANSLATE - Uploading...",
       "remove": "Ukloni",
-      "title": "Prilozi"
+      "title": "Prilozi",
+      "no_attachment": "TO TRANSLATE - No attachment available"
     },
     "footer": {
       "ask_evaluation": "Zatraži pregled",
