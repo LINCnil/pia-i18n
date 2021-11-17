@@ -1225,7 +1225,8 @@
       "download": "Изтеглете приложения обект",
       "loading": "TO TRANSLATE - Uploading...",
       "remove": "Премахни",
-      "title": "Приложени обекти"
+      "title": "Приложени обекти",
+      "no_attachment": "TO TRANSLATE - No attachment available"
     },
     "footer": {
       "ask_evaluation": "Поискайте преглед",

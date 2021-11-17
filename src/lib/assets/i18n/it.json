@@ -1225,7 +1225,8 @@
       "download": "TO TRANSLATE - Download the attachment",
       "loading": "TO TRANSLATE - Uploading...",
       "remove": "Cancella",
-      "title": "Allegati"
+      "title": "Allegati",
+      "no_attachment": "TO TRANSLATE - No attachment available"
     },
     "footer": {
       "ask_evaluation": "Richiedi una revisione",

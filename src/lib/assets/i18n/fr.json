@@ -1225,7 +1225,8 @@
       "download": "Télécharger la pièce jointe",
       "loading": "Dépot en cours...",
       "remove": "Supprimer",
-      "title": "Pièces jointes"
+      "title": "Pièces jointes",
+      "no_attachment": "Aucune pièce jointe"
     },
     "footer": {
       "ask_evaluation": "Demander l'évaluation",
