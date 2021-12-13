@@ -64,7 +64,8 @@
       },
       "create_account": {
         "uuid": {
-          "404": "Wrong activation code"
+          "404": "Wrong activation code",
+          "403": "This account is already activated"
         },
         "password": {
           "404": "User not found",
@@ -83,7 +84,8 @@
           "404": "User not found",
           "406": "The password does not meet the password policy requirements."
         }
-      }
+      },
+      "unauthorized": "You are not allowed to access this ressource."
     }
   },
   "users": {
@@ -383,7 +385,11 @@
         }
       }
     },
-    "search_filter": "Search"
+    "search_filter": "Search",
+    "no_entries": {
+      "pia": "No PIA created and/or assigned",
+      "archive": "No PIA archive"
+    }
   },
   "knowledge_base": {
     "add_measure": "Add",
@@ -1220,7 +1226,8 @@
       "download": "Download the attachment",
       "loading": "Uploading...",
       "remove": "Remove",
-      "title": "Attachments"
+      "title": "Attachments",
+      "no_attachment": "No attachment available"
     },
     "footer": {
       "ask_evaluation": "Ask for review",

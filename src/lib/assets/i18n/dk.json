@@ -64,7 +64,8 @@
       },
       "create_account": {
         "uuid": {
-          "404": "TO TRANSLATE - Wrong activation code"
+          "404": "TO TRANSLATE - Wrong activation code",
+          "403": "TO TRANSLATE - This account is already activated"
         },
         "password": {
           "404": "TO TRANSLATE - User not found",
@@ -83,7 +84,8 @@
           "404": "TO TRANSLATE - User not found",
           "406": "TO TRANSLATE - The password does not meet the password policy requirements."
         }
-      }
+      },
+      "unauthorized": "TO TRANSLATE - You are not allowed to access this ressource."
     }
   },
   "users": {
@@ -383,7 +385,11 @@
         }
       }
     },
-    "search_filter": "TO TRANSLATE - Search"
+    "search_filter": "TO TRANSLATE - Search",
+    "no_entries": {
+      "pia": "TO TRANSLATE - No PIA created and/or assigned",
+      "archive": "TO TRANSLATE - No PIA archive"
+    }
   },
   "knowledge_base": {
     "add_measure": "Tilføj",
@@ -1220,7 +1226,8 @@
       "download": "TO TRANSLATE - Download the attachment",
       "loading": "TO TRANSLATE - Uploading...",
       "remove": "Slet",
-      "title": "Vedhæftelser"
+      "title": "Vedhæftelser",
+      "no_attachment": "TO TRANSLATE - No attachment available"
     },
     "footer": {
       "ask_evaluation": "Bede om evaluering",

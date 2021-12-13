@@ -64,7 +64,8 @@
       },
       "create_account": {
         "uuid": {
-          "404": "code d'activation erroné"
+          "404": "code d'activation erroné",
+          "403": "Ce compte est déjà activé"
         },
         "password": {
           "404": "Utilisateur non trouvé",
@@ -83,7 +84,8 @@
           "404": "Utilisateur non trouvé",
           "406": "Le mot de passe ne respecte pas les exigences de sécurité nécessaires."
         }
-      }
+      },
+      "unauthorized": "Vous n'avez pas l'autorisation d'accéder à cette ressource."
     }
   },
   "users": {
@@ -383,7 +385,11 @@
         }
       }
     },
-    "search_filter": "Chercher"
+    "search_filter": "Chercher",
+    "no_entries": {
+      "pia": "Aucun PIA créé et/ou assigné",
+      "archive": "Aucun PIA archivé"
+    }
   },
   "knowledge_base": {
     "add_measure": "Ajouter",
@@ -1220,7 +1226,8 @@
       "download": "Télécharger la pièce jointe",
       "loading": "Dépot en cours...",
       "remove": "Supprimer",
-      "title": "Pièces jointes"
+      "title": "Pièces jointes",
+      "no_attachment": "Aucune pièce jointe"
     },
     "footer": {
       "ask_evaluation": "Demander l'évaluation",
