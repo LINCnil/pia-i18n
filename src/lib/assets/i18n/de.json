@@ -56,7 +56,7 @@
     "transaction_error": "Die Anforderung kann nicht bearbeitet werden.",
     "uppercase": "Großbuchstaben",
     "wrong_activation_code": "(falsch)",
-    "wrong_confirmation": "fehlerhafte Bestätigung",
+    "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "falsche E-Mail-Adresse",
     "errors": {
       "sign_in": {

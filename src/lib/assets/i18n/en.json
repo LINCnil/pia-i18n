@@ -56,7 +56,7 @@
     "transaction_error": "Unable to process your request.",
     "uppercase": "Uppercase",
     "wrong_activation_code": "(wrong)",
-    "wrong_confirmation": "Passwords are not the same",
+    "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "Wrong email",
     "errors": {
       "sign_in": {

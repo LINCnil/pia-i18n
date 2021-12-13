@@ -56,7 +56,7 @@
     "transaction_error": "Kan uw verzoek niet verwerken.",
     "uppercase": "Hoofdletter",
     "wrong_activation_code": "(verkeerd)",
-    "wrong_confirmation": "Verkeerde bevestiging",
+    "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "Verkeerd e-mailadres",
     "errors": {
       "sign_in": {

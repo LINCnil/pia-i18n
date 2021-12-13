@@ -56,7 +56,7 @@
     "transaction_error": "Não foi possível processar seu pedido.",
     "uppercase": "Letras maiúsculas",
     "wrong_activation_code": "(errado)",
-    "wrong_confirmation": "Confirmação errada",
+    "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "Email errado",
     "errors": {
       "sign_in": {
