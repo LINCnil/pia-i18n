@@ -5,7 +5,7 @@
     "licences": "Bibliothekslizenzen:",
     "title": "Über das Werkzeug PIA",
     "translators": "Das Tool ist derzeit in achtzehn Sprachen verfügbar. Die französische und die englische Version werden von der CNIL bereitgestellt. Die anderen Versionen sind das Ergebnis der Beiträge der folgenden Personen:",
-    "translators_name": "<ul><li>Deutsch : <a target=\"_blank\" href=\"https://github.com/kosmas58\">Kosmas Schütz</a> , Corina Scheiter (<a target=\"_blank\" href=\"https://www.datenschutz-bayern.de/\">BayLfD</a>) ;</li><li>Dänisch : <a target=\"_blank\" href=\"https://github.com/moolsen\">Michael Drews Olsen</a> ;</li><li>Englisch : <a target=\"_blank\" href=\"https://www.cnil.fr\">CNIL</a> ;</li><li>Estnisch : Eva Arumets, Lauri Bender, Rebeka Dronia, Kärol Kibena, Simon Suuban, <a target=\"_blank\" href=\"https://kochpartners.ee/en/people/urmas-kukk/\">Urmas Kukk, <a target=\"_blank\" href=\"https://github.com/PrivacyAssessment1\">PrivacyAssessment1</a> ;</li><li>Finnisch : <a target=\"_blank\" href=\"https://tietosuoja.fi/etusivu\">Tietosuojavaltuutetun toimisto</a> ;</li><li>Französisch : <a target=\"_blank\" href=\"https://www.cnil.fr\">CNIL</a> ;</li><li>Griechisch : <a target=\"_blank\" href=\"https://tzellis.gr\">Dimitris Tzellis</a>  ;</li><li>Italienisch : Manuel d’Orso, Gianluca Markos, Antonio Caselli (<a target=\"_blank\" href=\"http://gpdp.it\">Garante per la Protezione dei Dai Personali (GPDP)</a>) ;</li><li>Kroatisch : <a target=\"_blank\" href=\"https://github.com/B2KapitalBA\">B2KapitalBA</a> ;</li><li>Litauisch : Paulius Galubickas (<a target=\"_blank\" href=\"http://galubickas.lt\">Law firm Galubickas</a>) ;</li><li>Niederländisch : Ruud van Driel, Manuel d’Orso ;</li><li>Norwegisch : <a target=\"_blank\" href=\"https://www.datatilsynet.no\">Datatilsynet</a> ;</li><li>Polnisch : <a target=\"_blank\" href=\"https://github.com/JoannaKar\">Joanna Karczewska</a> , Michal Mazur (<a target=\"_blank\" href=\"https://giodo.gov.pl\">Generalny Inspektor Ochrony Danych Osobowych (GIODO)</a>) ;</li><li>Portugiesisch : <a target=\"_blank\" href=\"https://github.com/bagois\">Barbara Gois</a> ;</li><li>Rumänisch : <a target=\"_blank\" href=\"https://github.com/webmyday\">webmyday</a> ;</li><li>Spanisch : <a target=\"_blank\" href=\"https://github.com/ylachgar\">ylachgar</a>  ;</li><li>Tschechisch : Jiří Grohmann, Manuel d’Orso ;</li><li>Ungarisch : <a target=\"_blank\" href=\"https://naih.hu/\">Nemzeti Adatvédelmi és Információszabadság Hatóság (NAIH)</a>.</li></ul>",
+    "translators_name": "<ul><li>Deutsch : <a target=\"_blank\" href=\"https://github.com/kosmas58\">Kosmas Schütz</a> , Corina Scheiter (<a target=\"_blank\" href=\"https://www.datenschutz-bayern.de/\">BayLfD</a>) , Helmut Karnath ;</li><li>Dänisch : <a target=\"_blank\" href=\"https://github.com/moolsen\">Michael Drews Olsen</a> ;</li><li>Englisch : <a target=\"_blank\" href=\"https://www.cnil.fr\">CNIL</a> ;</li><li>Estnisch : Eva Arumets, Lauri Bender, Rebeka Dronia, Kärol Kibena, Simon Suuban, <a target=\"_blank\" href=\"https://kochpartners.ee/en/people/urmas-kukk/\">Urmas Kukk, <a target=\"_blank\" href=\"https://github.com/PrivacyAssessment1\">PrivacyAssessment1</a> ;</li><li>Finnisch : <a target=\"_blank\" href=\"https://tietosuoja.fi/etusivu\">Tietosuojavaltuutetun toimisto</a> ;</li><li>Französisch : <a target=\"_blank\" href=\"https://www.cnil.fr\">CNIL</a> ;</li><li>Griechisch : <a target=\"_blank\" href=\"https://tzellis.gr\">Dimitris Tzellis</a>  ;</li><li>Italienisch : Manuel d’Orso, Gianluca Markos, Antonio Caselli (<a target=\"_blank\" href=\"http://gpdp.it\">Garante per la Protezione dei Dai Personali (GPDP)</a>) ;</li><li>Kroatisch : <a target=\"_blank\" href=\"https://github.com/B2KapitalBA\">B2KapitalBA</a> ;</li><li>Litauisch : Paulius Galubickas (<a target=\"_blank\" href=\"http://galubickas.lt\">Law firm Galubickas</a>) ;</li><li>Niederländisch : Ruud van Driel, Manuel d’Orso ;</li><li>Norwegisch : <a target=\"_blank\" href=\"https://www.datatilsynet.no\">Datatilsynet</a> ;</li><li>Polnisch : <a target=\"_blank\" href=\"https://github.com/JoannaKar\">Joanna Karczewska</a> , Michal Mazur (<a target=\"_blank\" href=\"https://giodo.gov.pl\">Generalny Inspektor Ochrony Danych Osobowych (GIODO)</a>) ;</li><li>Portugiesisch : <a target=\"_blank\" href=\"https://github.com/bagois\">Barbara Gois</a> ;</li><li>Rumänisch : <a target=\"_blank\" href=\"https://github.com/webmyday\">webmyday</a> ;</li><li>Spanisch : <a target=\"_blank\" href=\"https://github.com/ylachgar\">ylachgar</a>  ;</li><li>Tschechisch : Jiří Grohmann, Manuel d’Orso ;</li><li>Ungarisch : <a target=\"_blank\" href=\"https://naih.hu/\">Nemzeti Adatvédelmi és Információszabadság Hatóság (NAIH)</a>.</li></ul>",
     "version_number": "Versionsnummer"
   },
   "action_plan": {
@@ -25,7 +25,7 @@
   "authentication": {
     "12_characters": "12 Zeichen",
     "account_recovery": "Kennwort wiederherstellen",
-    "activation_code": "Aktivierungskode",
+    "activation_code": "Aktivierungscode",
     "cancel": "Abbrechen",
     "confirm": "Bestätigen",
     "confirmation": "Bestätigung",
@@ -40,49 +40,49 @@
     "lowercase": "Kleinbuchstaben",
     "password": "Kennwort",
     "password_security": "Kennwort Sicherheit",
-    "recovery_code": "TO TRANSLATE - Reset code",
-    "recovery_code_message": "TO TRANSLATE - An email containing a code has been sent to this email. Please enter the code in the field below.",
-    "recovery_code_not_sent": "TO TRANSLATE - Unreceived code?",
+    "recovery_code": "Wiederherstellungscode",
+    "recovery_code_message": "Es wurde eine E-Mail mit einem Wiederherstellungscode an diese Mailadresse gesendet. Bitte geben Sie den Code in das untenstehende Feld ein.",
+    "recovery_code_not_sent": "Wiederherstellungscode nicht erhalten?",
     "saved_password": "Kennwort wurde gespeichert. Sie können sich nun anmelden.",
     "sign_in": "Anmelden",
     "sign_in_button": "Anmelden",
-    "sign_out_button": "TO TRANSLATE - Sign out",
+    "sign_out_button": "Abmelden",
     "special_character": "Sonderzeichen",
     "start": "Starten",
     "start_app": "Zugriff auf die PIA-Software (Beta)",
     "subtitle1": "Eine Plattform zum Erstellen<br>und Verwalten Ihrer DSFAs",
     "subtitle2": "Zugriff auf Tools und Glossare",
     "title": "Datenschutz-Folgenabschätzung",
-    "transaction_error": "TO TRANSLATE - Die Anforderung kann nicht bearbeitet werden.",
+    "transaction_error": "Die Anforderung kann nicht bearbeitet werden.",
     "uppercase": "Großbuchstaben",
     "wrong_activation_code": "(falsch)",
     "wrong_confirmation": "fehlerhafte Bestätigung",
     "wrong_email": "falsche E-Mail-Adresse",
     "errors": {
       "sign_in": {
-        "400": "TO TRANSLATE - Wrong email or password."
+        "400": "Falsche E-Mail-Adresse oder falsches Kennwort."
       },
       "create_account": {
         "uuid": {
-          "404": "TO TRANSLATE - Wrong activation code",
+          "404": "Falscher Aktivierungscode",
           "403": "TO TRANSLATE - This account is already activated"
         },
         "password": {
-          "404": "TO TRANSLATE - User not found",
-          "406": "TO TRANSLATE - The password does not meet the password policy requirements."
+          "404": "Benutzer nicht gefunden",
+          "406": "Das Kennwort entspricht nicht den Anforderungen der Kennwortrichtlinie."
         }
       },
       "account_recovery": {
         "email": {
-          "404": "TO TRANSLATE - User not found",
-          "423": "TO TRANSLATE - Account locked"
+          "404": "Benutzer nicht gefunden",
+          "423": "Benutzerkonto gesperrt"
         },
         "uuid": {
-          "404": "TO TRANSLATE - Wrong recovery code"
+          "404": "Falscher Wiederherstellungscode"
         },
         "password": {
-          "404": "TO TRANSLATE - User not found",
-          "406": "TO TRANSLATE - The password does not meet the password policy requirements."
+          "404": "Benutzer nicht gefunden",
+          "406": "Das Kennwort entspricht nicht den Anforderungen der Kennwortrichtlinie."
         }
       },
       "unauthorized": "TO TRANSLATE - You are not allowed to access this ressource."
@@ -91,7 +91,7 @@
   "users": {
     "errors": {
       "edit_user": {
-        "406": "TO TRANSLATE - The information provided when creating the account is invalid."
+        "406": "Die bei der Erstellung des Kontos angegebenen Informationen sind ungültig."
       }
     }
   },
@@ -213,7 +213,7 @@
     "tools": {
       "about": "Über",
       "accessibility": "Unterstützung für Sehbehinderte (kontrastreiche Farben, bei Rot-Grün-Sehschwäche)",
-      "onboarding": "TO TRANSLATE - Restart tutorial",
+      "onboarding": "Benutzerhandbuch wieder aufbauen",
       "settings": "Einstellungen",
       "url_setting": "Server-URL-Konfiguration",
       "users": "Benutzer"
@@ -299,7 +299,7 @@
       "knowledges_entry": {
         "all_sections": "Alle Abschnitte",
         "choose_category": "Kategorie auswählen",
-        "contents": "TO TRANSLATE - Inhalt",
+        "contents": "Inhalt",
         "create": "Diesen Eintrag anlegen",
         "linked_to": "Verknüpft mit",
         "new": "Eintrag anlegen",
@@ -345,7 +345,7 @@
       "date": "Datum",
       "import_pia": "DSFA importieren",
       "import_structure": "Vorlage importieren",
-      "list": "TO TRANSLATE - List view",
+      "list": "Listansicht",
       "list_rocket_content": "Fangen Sie an! Um eine DSFA anzulegen, klicken Sie auf \"Neue DSFA\"",
       "list_rocket_content_structure": "Fangen Sie an! Um eine Vorlage<br>zu beginnen, klicken Sie auf die Schaltfläche +.",
       "name": "Name",
@@ -360,7 +360,7 @@
     "lists": {
       "column_actions": "Aktionen",
       "column_author": "Bearbeitet von",
-      "column_category": "TO TRANSLATE - Category",
+      "column_category": "Kategorie",
       "column_creation": "Bearbeitet",
       "column_evaluation": "Überprüft von",
       "column_pia": "DSFA",
@@ -1076,7 +1076,7 @@
     },
     "start_evaluation": "Beginnen Sie die Überprüfung",
     "unarchive_pia": {
-      "content": "TO TRANSLATE - <span class='strong'>Warnung!</span><br>Sind Sie sicher, dass Sie<br>diese DSFA wiederherstellen möchten?",
+      "content": "<span class='strong'>Warnung!</span><br>Sind Sie sicher, dass Sie<br>diese DSFA wiederherstellen möchten?",
       "unarchive": "DSFA wiederherstellen"
     },
     "update_server_url_nok": {
@@ -1117,66 +1117,66 @@
         "title": "DSFA Rollen"
       },
       "step5": {
-        "description": "TO TRANSLATE - <p><strong>Templates</strong> are an advanced feature. They are used to create a pre-filled basis for the analysis.</p><p>You can create templates by going to the associated section accessible from the top menu.</p>",
+        "description": "<p><strong>Vorlagen</strong> sind eine erweiterte Funktion. Sie werden verwendet, um eine vorausgefüllte Basis für die Analyse zu erstellen.</p><p>Sie können Vorlagen erstellen, indem Sie auf den entsprechenden Abschnitt im oberen Menü zugreifen.</p>",
         "title": "Vorlagen"
       }
     },
     "entry": {
       "step1": {
-        "description": "TO TRANSLATE - To move from one part of the analysis to another, use the left navigation menu.",
-        "title": "TO TRANSLATE - Browse"
+        "description": "Um von einem Teil der Analyse zu einem anderen zu gelangen, verwenden Sie das linke Navigationsmenü.",
+        "title": "Durchsuchen"
       },
       "step2": {
-        "description": "TO TRANSLATE - This is used to explain the purpose of the processing and how it will be implemented.",
-        "title": "TO TRANSLATE - Context"
+        "description": "Hier wird der Zweck der Verarbeitung und die Art und Weise ihrer Implementation erläutert.",
+        "title": "Zusammenhang"
       },
       "step3": {
-        "description": "TO TRANSLATE - These aim to ensure that the processing complies with the GDPR.",
-        "title": "TO TRANSLATE - Fundamental principles"
+        "description": "Diese sollen sicherstellen, dass die Verarbeitung im Einklang mit der DSGVO steht.",
+        "title": "Grundlegende Prinzipien"
       },
       "step4": {
-        "description": "TO TRANSLATE - These describe the security measures already planned for the processing operation and make it possible to assess its potential impact on the data subjects.",
+        "description": "Hier werden die bereits für die Verarbeitung vorgesehenen Sicherheitsmaßnahmen beschrieben und die möglichen Auswirkungen auf die betroffenen Personen beurteilt.",
         "title": "Risiken"
       },
       "step5": {
-        "description": "TO TRANSLATE - This allows the DPO to express her opinion on the implementation of the processing and the controller to accept or refuse it.",
+        "description": "Hier kann der DSB seine Meinung zur Durchführung der Verarbeitung äußern und der Verantwortliche kann sie akzeptieren oder ablehnen.",
         "title": "Prüfung"
       },
       "step6": {
-        "description": "TO TRANSLATE - <p>It provides contextual assistance in carrying out the analysis and is based on the GDPR, the security guide and the CNIL's PIA guides</p><p>In addition to these contents, you can also create your own knowledge bases to easily access information specific to your organization.</p>",
+        "description": "<p>Die Wissensdatenbank bietet kontextbezogene Unterstützung bei der Durchführung der DSFA, basierend auf der DSGVO, dem Sicherheitsleitfaden und den DSFA-Leitfäden der CNIL.</p><p>Zusätzlich zu diesen Inhalten können Sie auch Ihre eigenen Wissensdatenbanken erstellen, um einfach auf Informationen zuzugreifen, die für Ihre Organisation relevant sind.</p>",
         "title": "Wissensdatenbank"
       },
       "step7": {
-        "description": "TO TRANSLATE - At any time during the analysis, you can download the analysis in various formats to share it with your colleagues.",
+        "description": "Während der Analyse können Sie diese jederzeit in verschiedenen Formaten herunterladen, um sie mit Ihren Kollegen zu teilen.",
         "title": "DSFA exportieren"
       }
     },
     "evaluation": {
       "step1": {
-        "description": "TO TRANSLATE - The evaluation can take an entire section into account, or at the level of each element of a section.",
-        "title": "TO TRANSLATE - Evaluate the PIA"
+        "description": "Die Bewertung kann einen gesamten Abschnitt oder jedes einzelne Element eines Abschnitts umfassen.",
+        "title": "DSFA bewerten"
       },
       "step2": {
-        "description": "TO TRANSLATE - <p>This evaluation indicates to the editors that elements are missing in order to make a relevant assessment.</p><p>The assessor must indicate these in the associated <strong>evaluation comment</strong> field. The editor will make the necessary corrections.</p>",
-        "title": "TO TRANSLATE - To correct"
+        "description": "<p>Diese Bewertung bedeutet, dass Elemente fehlen, um eine abschließende Beurteilung vornehmen zu können.</p><p>Der Bewerter muss diese in dem zugehörigen <strong>Kommentarfeld</strong> der Bewertung angeben. Daraufhin müssen die erforderlichen Korrekturen vorgenommen werden.</p>",
+        "title": "Zu korrigieren"
       },
       "step3": {
-        "description": "TO TRANSLATE - <p>This assessment indicates the processing elements to be revised. They are detailed in the <strong>action plan / corrective action</strong> field.</p><p>These measures will be automatically added to the action plan part of the analysis. It is necessary to implement them as soon as possible.</p>",
-        "title": "TO TRANSLATE - Improvable"
+        "description": "<p>Diese Bewertung gibt an, welche Verarbeitungselemente überarbeitet werden müssen. Sie sind im Feld <strong>Maßnahmenplan/Korrekturmaßnahmen</strong> aufgeführt.</p><p>Diese Maßnahmen werden automatisch in den Maßnahmenplan aufgenommen. Sie sollten so schnell wie möglich umgesetzt werden.</p>",
+        "title": "Verbesserungswürdig"
       },
       "step4": {
-        "description": "TO TRANSLATE - This assessment means that this part of the processing can be implemented without modification.",
-        "title": "TO TRANSLATE - Acceptable"
+        "description": "Diese Bewertung bedeutet, dass dieser Teil der Verarbeitung ohne Änderungen übernommen werden kann.",
+        "title": "Akzeptabel"
       },
       "step5": {
-        "description": "TO TRANSLATE - If the assessment of a section has not yet begun, the request forassessment may be cancelled to make changes to the processing description.",
-        "title": "TO TRANSLATE - Cancel a request"
+        "description": "Wenn die Bewertung eines Abschnitts noch nicht begonnen hat, kann die Bewertungsanfrage zurückgenommen werden, um Änderungen an der Bearbeitungsbeschreibung vorzunehmen.",
+        "title": "Bewertungsanfrage zurücknehmen"
       }
     },
     "general": {
-      "done": "TO TRANSLATE - Confirm",
-      "next": "TO TRANSLATE - Next",
-      "skip": "TO TRANSLATE - Skip"
+      "done": "Bestätigen",
+      "next": "Nächste",
+      "skip": "Überspringen"
     },
     "validated": {
       "step1": {
@@ -1223,8 +1223,8 @@
   "pia": {
     "attachments": {
       "add": "Hinzufügen",
-      "download": "TO TRANSLATE - Download the attachment",
-      "loading": "TO TRANSLATE - Uploading...",
+      "download": "Anlage herunterladen",
+      "loading": "Anlage wird hochgeladen",
       "remove": "Löschen",
       "title": "Anlagen",
       "no_attachment": "TO TRANSLATE - No attachment available"
@@ -1621,12 +1621,12 @@
     "previous_page": "Zurück zur vorherigen Seite",
     "rejection_reason": "Ablehnungsgrund",
     "revision": {
-      "current_version": "TO TRANSLATE - Current version",
-      "pia_version": "TO TRANSLATE - PIA versions",
-      "restore_version": "TO TRANSLATE - Restore",
-      "revision": "TO TRANSLATE - Versions and revision",
-      "save": "TO TRANSLATE - Create a new version",
-      "show": "TO TRANSLATE - Display the {{length}} versions"
+      "current_version": "Aktuelle Version",
+      "pia_version": "DSFA Versionen",
+      "restore_version": "Wiederherstellen",
+      "revision": "Versionen und Revision",
+      "save": "Neue Version anlegen",
+      "show": "Anzeigen der {{length}} Versionen"
     },
     "risks_cartography_title": "Risikokartierung",
     "risks_overview_title": "Risikokübersicht",
@@ -1641,13 +1641,13 @@
     "edit_user": "Benutzer ändern",
     "email": "E-Mail",
     "first_name": "Vorname",
-    "functional_admin": "TO TRANSLATE - Functional administrator",
+    "functional_admin": "Administrator",
     "last_name": "Name",
     "new_user_button": "Benutzer anlegen",
     "profile": "Profil",
     "remove": "Löschen",
     "remove_current_user_error_message": "Das eigene Benutzerkonto kann nicht gelöscht werden.",
-    "remove_last_functional_admin_error_message": "Löschen des Benutzers nicht möglich, da mindestens ein Technischer Administrator angelegt sein muss.",
+    "remove_last_functional_admin_error_message": "Löschen des Benutzers nicht möglich, da mindestens ein Administrator angelegt sein muss.",
     "remove_user_with_linked_pias_error_message": "Diverse DSFAs sind diesem Benutzer zugeordnet, löschen nicht möglich.",
     "technical_admin": "Technischer Administrator",
     "update": "Ändern",
