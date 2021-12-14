@@ -34,20 +34,23 @@ jobs:
             mkdir Move
             mv ./[a-z]* ./Move
 
-        - name: create app and add dependencies
+        - name: get app
           run: |
-            ng new pia --create-application=false
+            git clone https://github.com/LINCnil/pia.git
             cd pia
-            npm install @ngx-translate/core @ngx-translate/http-loader
+            npm install
 
-        - name: prepare library
-          run: |
-            cd pia
-            ng generate library pia-i18n
-            rm -rf ./projects/pia-i18n/*
+        # - name: prepare library
+        #   run: |
+        #     cd pia
+        #     ng generate library pia-i18n
+        #     rm -rf ./projects/pia-i18n/*
 
         - name: go to Move folder, get files and move them to pia-i18n
-          run: mv ./Move/[a-z]* ./pia/projects/pia-i18n
+          run: |
+            mkdir ./pia/projects
+            mkdir ./pia/projects/pia-i18n
+            mv ./Move/[a-z]* ./pia/projects/pia-i18n
 
         - name: return pia projet and build library
           run: |
