@@ -30,6 +30,7 @@
     "confirm": "TO TRANSLATE - Confirm",
     "confirmation": "TO TRANSLATE - Confirmation",
     "continue": "TO TRANSLATE - Continue",
+    "activate_account": "TO TRANSLATE - activate account",
     "create_account": "TO TRANSLATE - Sign up",
     "create_account2": "TO TRANSLATE - Create account",
     "description": "Questo software creato dall'<strong>autorità francese per la protezione dei dati (CNIL)</strong> ha lo scopo di guidare i titolari del trattamento dei dati nell'adempimento degli obblighi del GDPR. Aiuta a svolgere correttamente una valutazione dell'impatto sulla protezione dei dati facilitando l'uso del metodo sviluppato dalla CNIL per affrontare la PIA",
@@ -47,7 +48,7 @@
     "sign_in": "TO TRANSLATE - Sign in",
     "sign_in_button": "TO TRANSLATE - Sign in",
     "sign_out_button": "TO TRANSLATE - Sign out",
-    "special_character": "TO TRANSLATE - Special character",
+    "special_character": "TO TRANSLATE - Special character (!@#$%^&*()?...)",
     "start": "Avvio",
     "start_app": "Accedi al software PIA (Beta)",
     "subtitle1": "Una piattaforma per creare <br>e gestire le tue PIA",
@@ -56,7 +57,7 @@
     "transaction_error": "TO TRANSLATE - Unable to process your request.",
     "uppercase": "TO TRANSLATE - Uppercase",
     "wrong_activation_code": "TO TRANSLATE - (wrong)",
-    "wrong_confirmation": "TO TRANSLATE - Wrong confirmation",
+    "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "TO TRANSLATE - Wrong email",
     "errors": {
       "sign_in": {

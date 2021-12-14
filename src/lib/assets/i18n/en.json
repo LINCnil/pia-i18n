@@ -30,6 +30,7 @@
     "confirm": "Confirm",
     "confirmation": "Confirmation",
     "continue": "Continue",
+    "activate_account": "activate account",
     "create_account": "Sign up",
     "create_account2": "Create account",
     "description": "This software by the <strong>French Data Protection Authority (CNIL)</strong> is meant to guide the data controllers in building and demonstrating compliance to the GDPR. It helps to properly carry out a data protection impact assessment by facilitating the use of the PIA method developed by the CNIL.",
@@ -47,7 +48,7 @@
     "sign_in": "Sign in",
     "sign_in_button": "Sign in",
     "sign_out_button": "Sign out",
-    "special_character": "Special character",
+    "special_character": "Special character (!@#$%^&*()?...)",
     "start": "Start",
     "start_app": "Access the PIA's software (Beta)",
     "subtitle1": "A platform to create <br> and manage your PIAs",
@@ -56,7 +57,7 @@
     "transaction_error": "Unable to process your request.",
     "uppercase": "Uppercase",
     "wrong_activation_code": "(wrong)",
-    "wrong_confirmation": "Wrong confirmation",
+    "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "Wrong email",
     "errors": {
       "sign_in": {

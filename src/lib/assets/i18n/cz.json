@@ -30,6 +30,7 @@
     "confirm": "TO TRANSLATE - Confirm",
     "confirmation": "TO TRANSLATE - Confirmation",
     "continue": "TO TRANSLATE - Continue",
+    "activate_account": "TO TRANSLATE - activate account",
     "create_account": "TO TRANSLATE - Sign up",
     "create_account2": "TO TRANSLATE - Create account",
     "description": "Tento software od <strong>Francouzského Úřadu pro Ochranu Údajů (CNIL)</strong> je určen k tomu, aby vedl Správce údajů při vytváření a prokazování shody s GDPR. Pomáhá správně provádět hodnocení dopadu ochrany údajů usnadněním používání metody PIA vyvinuté CNIL.",
@@ -47,7 +48,7 @@
     "sign_in": "TO TRANSLATE - Sign in",
     "sign_in_button": "TO TRANSLATE - Sign in",
     "sign_out_button": "TO TRANSLATE - Sign out",
-    "special_character": "TO TRANSLATE - Special character",
+    "special_character": "TO TRANSLATE - Special character (!@#$%^&*()?...)",
     "start": "Start",
     "start_app": "Přístup k softwaru PIA (Beta)",
     "subtitle1": "Platforma pro vytváření a správu vašich PIA",
@@ -56,7 +57,7 @@
     "transaction_error": "TO TRANSLATE - Unable to process your request.",
     "uppercase": "TO TRANSLATE - Uppercase",
     "wrong_activation_code": "TO TRANSLATE - (wrong)",
-    "wrong_confirmation": "TO TRANSLATE - Wrong confirmation",
+    "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "TO TRANSLATE - Wrong email",
     "errors": {
       "sign_in": {

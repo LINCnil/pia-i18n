@@ -30,6 +30,7 @@
     "confirm": "TO TRANSLATE - Confirm",
     "confirmation": "TO TRANSLATE - Confirmation",
     "continue": "TO TRANSLATE - Continue",
+    "activate_account": "TO TRANSLATE - activate account",
     "create_account": "TO TRANSLATE - Sign up",
     "create_account2": "TO TRANSLATE - Create account",
     "description": "Този софтуер, предоставен от <strong>френския надзорен орган по защита на данните (CNIL)</strong> е предназначен да подпомогне администраторите на данни в постигане и демонстриране на съответствие с ОРЗД. Той съдейства за правилно извършване на оценка на въздействието върху защитата на данните чрез прилагане на метода за оценка, разработен от френския надзорен орган CNIL.",
@@ -47,7 +48,7 @@
     "sign_in": "TO TRANSLATE - Sign in",
     "sign_in_button": "TO TRANSLATE - Sign in",
     "sign_out_button": "TO TRANSLATE - Sign out",
-    "special_character": "TO TRANSLATE - Special character",
+    "special_character": "TO TRANSLATE - Special character (!@#$%^&*()?...)",
     "start": "Старт",
     "start_app": "Достъп до софтуера за ОВЗД (Beta)",
     "subtitle1": "Платформа за създаване <br> и управление на вашите ОВЗД",
@@ -56,7 +57,7 @@
     "transaction_error": "TO TRANSLATE - Unable to process your request.",
     "uppercase": "TO TRANSLATE - Uppercase",
     "wrong_activation_code": "TO TRANSLATE - (wrong)",
-    "wrong_confirmation": "TO TRANSLATE - Wrong confirmation",
+    "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "TO TRANSLATE - Wrong email",
     "errors": {
       "sign_in": {

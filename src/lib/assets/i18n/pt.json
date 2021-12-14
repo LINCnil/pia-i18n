@@ -30,6 +30,7 @@
     "confirm": "Confirmar",
     "confirmation": "Confirmação",
     "continue": "Continuar",
+    "activate_account": "TO TRANSLATE - activate account",
     "create_account": "Criar conta",
     "create_account2": "Criar conta",
     "description": "Este software da <strong>Comissão Nacional da Informática e das Liberdades (CNIL)</strong> pretende guiar os responsáveis pelo tratamento na construção e demonstração da conformidade para com o RGPD. Através da metodologia desenvolvida pela CNIL, esta ferramenta ajuda na avaliação de risco dos dados pessoais da organização.",
@@ -56,7 +57,7 @@
     "transaction_error": "Não foi possível processar seu pedido.",
     "uppercase": "Letras maiúsculas",
     "wrong_activation_code": "(errado)",
-    "wrong_confirmation": "Confirmação errada",
+    "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "Email errado",
     "errors": {
       "sign_in": {

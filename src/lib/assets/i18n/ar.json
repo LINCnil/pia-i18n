@@ -30,6 +30,7 @@
     "confirm": "TO TRANSLATE - Confirm",
     "confirmation": "TO TRANSLATE - Confirmation",
     "continue": "TO TRANSLATE - Continue",
+    "activate_account": "TO TRANSLATE - activate account",
     "create_account": "TO TRANSLATE - Sign up",
     "create_account2": "TO TRANSLATE - Create account",
     "description": "يُعد برنامج تقييم أثر حماية البيانات الذي أطلقته </strong>اللجنة الوطنية للمعلوماتية والحريات</strong> جزءاً من نهج يدعم المسؤولين عن معالجة البيانات في تنفيذ التزامات اللائحة العامة لحماية البيانات. إنه يدعم عملية تحليل الأثر المتعلقة بحماية البيانات كما يرمي إلى تيسير اعتماد دلائل برنامج تقييم أثر حماية البيانات التابعة للجنة الوطنية للمعلوماتية والحريات.",
@@ -47,7 +48,7 @@
     "sign_in": "TO TRANSLATE - Sign in",
     "sign_in_button": "TO TRANSLATE - Sign in",
     "sign_out_button": "TO TRANSLATE - Sign out",
-    "special_character": "TO TRANSLATE - Special character",
+    "special_character": "TO TRANSLATE - Special character (!@#$%^&*()?...)",
     "start": "البداية",
     "start_app": "الولوج إلى أداة تقييم أثر حماية البيانات (مرحلة بيتا)",
     "subtitle1": "منصة من أجل إنشاء <br> وإدارة أدواتكم الخاصة بتقييم أثر حماية البيانات،",
@@ -56,7 +57,7 @@
     "transaction_error": "TO TRANSLATE - Unable to process your request.",
     "uppercase": "TO TRANSLATE - Uppercase",
     "wrong_activation_code": "TO TRANSLATE - (wrong)",
-    "wrong_confirmation": "TO TRANSLATE - Wrong confirmation",
+    "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "TO TRANSLATE - Wrong email",
     "errors": {
       "sign_in": {

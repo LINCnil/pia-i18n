@@ -30,6 +30,7 @@
     "confirm": "Bevestigen",
     "confirmation": "Bevestiging",
     "continue": "Verdergaan",
+    "activate_account": "TO TRANSLATE - activate account",
     "create_account": "Registreren",
     "create_account2": "Account aanmaken",
     "description": "De PIA-software van de <strong> Franse autoriteit voor gegevensbescherming (CNIL) </strong> is bedoeld als ondersteuningsmiddel voor de verwerkingsverantwoordelijken bij de implementatie van de verplichtingen van de AVG. De software begeleidt de uitvoering van een gegevensbeschermingseffectbeoordeling en wil het gebruik van de door de CNIL ontwikkelde PIA-richtlijnen vergemakkelijken.",
@@ -56,7 +57,7 @@
     "transaction_error": "Kan uw verzoek niet verwerken.",
     "uppercase": "Hoofdletter",
     "wrong_activation_code": "(verkeerd)",
-    "wrong_confirmation": "Verkeerde bevestiging",
+    "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "Verkeerd e-mailadres",
     "errors": {
       "sign_in": {

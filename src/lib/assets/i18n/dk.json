@@ -30,6 +30,7 @@
     "confirm": "TO TRANSLATE - Confirm",
     "confirmation": "TO TRANSLATE - Confirmation",
     "continue": "TO TRANSLATE - Continue",
+    "activate_account": "TO TRANSLATE - activate account",
     "create_account": "TO TRANSLATE - Sign up",
     "create_account2": "TO TRANSLATE - Create account",
     "description": "Denne applikation af det <strong>Franske Datatilsyn (CNIL)</strong>, er stillet tilrådig for at bistå og vejlede dataansvarlige til at opbygge og vedligeholde compliance til persondataforordningen (GDPR). Applikationen hjælper med at udføre konsekvensanalyser ved brug af en analyse methode udviklet af CNIL.",
@@ -47,7 +48,7 @@
     "sign_in": "TO TRANSLATE - Sign in",
     "sign_in_button": "TO TRANSLATE - Sign in",
     "sign_out_button": "TO TRANSLATE - Sign out",
-    "special_character": "TO TRANSLATE - Special character",
+    "special_character": "TO TRANSLATE - Special character (!@#$%^&*()?...)",
     "start": "Start",
     "start_app": "Start Konsekvensanalysen (Beta)",
     "subtitle1": "En platform til at skabe <br> og styre PIA konsekvensanalyser (Privacy Impact Assessment)",
@@ -56,7 +57,7 @@
     "transaction_error": "TO TRANSLATE - Unable to process your request.",
     "uppercase": "TO TRANSLATE - Uppercase",
     "wrong_activation_code": "TO TRANSLATE - (wrong)",
-    "wrong_confirmation": "TO TRANSLATE - Wrong confirmation",
+    "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "TO TRANSLATE - Wrong email",
     "errors": {
       "sign_in": {

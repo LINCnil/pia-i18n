@@ -30,6 +30,7 @@
     "confirm": "Confirmer",
     "confirmation": "Confirmation",
     "continue": "Continuer",
+    "activate_account": "Activer un compte",
     "create_account": "Créer un compte",
     "create_account2": "Créer le compte",
     "description": "Le logiciel PIA de la <strong>Commission Nationale de l'Informatique et des Libertés (CNIL)</strong> s'inscrit dans une démarche d'accompagnement des responsables de traitement dans la mise en œuvre des obligations du RGPD. Il accompagne la conduite d'une analyse d'impact relative à la protection des données et vise aussi à faciliter l'appropriation des guides PIA de la CNIL.",
@@ -47,7 +48,7 @@
     "sign_in": "S'identifier",
     "sign_in_button": "Se connecter",
     "sign_out_button": "Se déconnecter",
-    "special_character": "Caractère accentué",
+    "special_character": "caractère spécial (!@#$%^&*()?...)",
     "start": "Commencer",
     "start_app": "Accéder à l'outil PIA (Beta)",
     "subtitle1": "Une plateforme pour créer <br> et administrer vos pia",
@@ -56,7 +57,7 @@
     "transaction_error": "Impossible de traiter votre demande.",
     "uppercase": "Majuscule",
     "wrong_activation_code": "(erroné)",
-    "wrong_confirmation": "Confirmation erronée",
+    "wrong_confirmation": "Les mots de passe ne sont pas identiques",
     "wrong_email": "Email invalide",
     "errors": {
       "sign_in": {

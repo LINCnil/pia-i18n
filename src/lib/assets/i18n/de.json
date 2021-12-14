@@ -30,6 +30,7 @@
     "confirm": "Bestätigen",
     "confirmation": "Bestätigung",
     "continue": "Weiter",
+    "activate_account": "TO TRANSLATE - activate account",
     "create_account": "Anlegen",
     "create_account2": "Benutzerkonto anlegen",
     "description": "Diese Software der <strong>französischen Datenschutzbehörde (CNIL)</strong> soll den Datenverantwortlichen bei der Erstellung und dem Nachweis der Einhaltung der DS-GVO helfen. Sie hilft bei der Durchführung einer Datenschutz-Folgenabschätzung, indem sie die Verwendung der von der CNIL entwickelten PIA-Methode erleichtert.",
@@ -56,7 +57,7 @@
     "transaction_error": "Die Anforderung kann nicht bearbeitet werden.",
     "uppercase": "Großbuchstaben",
     "wrong_activation_code": "(falsch)",
-    "wrong_confirmation": "fehlerhafte Bestätigung",
+    "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "falsche E-Mail-Adresse",
     "errors": {
       "sign_in": {
