@@ -1651,6 +1651,10 @@
     "delete": {
       "confirm": "Supprimer",
       "content": "Voulez vous vraiment supprimer cet utilisateur ?"
+    },
+    "access_locked": {
+        "false": "Activé",
+        "true": "En attente d'activation"
     }
   },
   "validation_page": {

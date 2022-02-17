@@ -1651,6 +1651,10 @@
     "delete": {
       "confirm": "Benutzer entfernen",
       "content": "Sind Sie sicher, diesen Benutzer zu löschen?"
+    },
+    "access_locked": {
+      "false": "TO TRANSLATE - Active",
+        "true": "TO TRANSLATE - Waiting for activation"
     }
   },
   "validation_page": {

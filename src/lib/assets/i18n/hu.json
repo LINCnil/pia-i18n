@@ -1651,6 +1651,10 @@
     "delete": {
       "confirm": "TO TRANSLATE - Remove user",
       "content": "TO TRANSLATE - Are you sure you want to delete this user?"
+    },
+    "access_locked": {
+      "false": "TO TRANSLATE - Active",
+      "true": "TO TRANSLATE - Waiting for activation"
     }
   },
   "validation_page": {

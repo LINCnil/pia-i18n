@@ -1641,17 +1641,21 @@
     "remove_user_with_linked_pias_error_message": "Vários PIAs estão associados a este usuário, então não é possível removê-lo.",
     "technical_admin": "Administrador técnico",
     "update": "Atualizar",
-    "user": "Usuário",    
+    "user": "Usuário",
     "state": "TO TRANSLATE - Account's state",
     "errors": {
       "edit_user": {
         "406": "A informação provida na criação na conta é inválida."
       }
-    },      
+    },
     "delete": {
       "confirm": "Remover usuário",
       "content": "Tem certeza que deseja deletar este usuário?"
-    }  
+    },
+    "access_locked": {
+      "false": "TO TRANSLATE - Active",
+      "true": "TO TRANSLATE - Waiting for activation"
+    }
   },
   "validation_page": {
     "add_signed_pia": "Adicionar a análise PIA subscrita",
