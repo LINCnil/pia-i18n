@@ -91,6 +91,7 @@
     }
   },
   "users": {
+    "state": "Statut du compte",
     "errors": {
       "edit_user": {
         "406": "Les informations fournies lors de la création du compte sont invalides."

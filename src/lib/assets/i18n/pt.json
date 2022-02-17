@@ -91,6 +91,7 @@
     }
   },
   "users": {
+    "state": "TO TRANSLATE - Account's state",
     "errors": {
       "edit_user": {
         "406": "A informação provida na criação na conta é inválida."

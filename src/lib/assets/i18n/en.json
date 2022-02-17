@@ -48,7 +48,7 @@
     "sign_in": "Sign in",
     "sign_in_button": "Sign in",
     "sign_out_button": "Sign out",
-    "special_character": "Special character (!@#$%^&*()?...)",,
+    "special_character": "Special character (!@#$%^&*()?...)",
     "number": "Number",
     "start": "Start",
     "start_app": "Access the PIA's software (Beta)",
@@ -91,6 +91,7 @@
     }
   },
   "users": {
+    "state": "Account's state",
     "errors": {
       "edit_user": {
         "406": "The information provided when creating the account is invalid."
