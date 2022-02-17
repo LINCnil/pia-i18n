@@ -1085,6 +1085,12 @@
     },
     "validate_evaluation_to_correct": {
       "content": "Désolé,<br>Plusieurs champs doivent être corrigés.<br>Retour au mode d'édition<br>pour apporter des corrections."
+    },
+    "users": {
+      "delete": {
+        "content": "<span class='strong'>Attention,</span><br>Êtes-vous sûr de vouloir<br>supprimer cet utilisateur ?",
+        "confirm": "Supprimer cet utilisateur"
+      }
     }
   },
   "onboarding": {

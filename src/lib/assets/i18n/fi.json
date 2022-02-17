@@ -1085,6 +1085,12 @@
     },
     "validate_evaluation_to_correct": {
       "content": "Pahoittelut,<br>Useiden kenttien sisältöä on korjattava.<br>Palaa muokkaustilaan<br>ja tee korjaukset."
+    },
+    "users": {
+      "delete": {
+        "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>delete this user ?",
+        "confirm": "TO TRANSLATE - Delete this user"
+      }
     }
   },
   "onboarding": {

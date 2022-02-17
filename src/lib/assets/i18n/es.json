@@ -1085,6 +1085,12 @@
     },
     "validate_evaluation_to_correct": {
       "content": "Lo siento,<br>Se deben corregir varios campos. <br> Volver al modo de edición<br>para realizar correcciones"
+    },
+    "users": {
+      "delete": {
+        "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>delete this user ?",
+        "confirm": "TO TRANSLATE - Delete this user"
+      }
     }
   },
   "onboarding": {

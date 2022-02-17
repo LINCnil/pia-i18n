@@ -1085,6 +1085,12 @@
     },
     "validate_evaluation_to_correct": {
       "content": "Sorry,<br>Několik polí musí být opraveno.<br>Návrat do edice režimu a opravy."
+    },
+    "users": {
+      "delete": {
+        "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>delete this user ?",
+        "confirm": "TO TRANSLATE - Delete this user"
+      }
     }
   },
   "onboarding": {

@@ -1085,6 +1085,12 @@
     },
     "validate_evaluation_to_correct": {
       "content": "Съжаляваме,<br>Някои полета трябва да бъдат коригирани.<br>Върнете се в режим на редактиране<br> за да направите корекциите."
+    },
+    "users": {
+      "delete": {
+        "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>delete this user ?",
+        "confirm": "TO TRANSLATE - Delete this user"
+      }
     }
   },
   "onboarding": {

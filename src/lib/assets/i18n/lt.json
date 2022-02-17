@@ -1085,6 +1085,12 @@
     },
     "validate_evaluation_to_correct": {
       "content": "Deja,<br>Tam tikri laukeliai turi būti pataisyti.<br>Grįžti į redagavimo būseną tam, kad atlikti pakeitimus."
+    },
+    "users": {
+      "delete": {
+        "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>delete this user ?",
+        "confirm": "TO TRANSLATE - Delete this user"
+      }
     }
   },
   "onboarding": {
