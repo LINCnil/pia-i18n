@@ -90,14 +90,6 @@
       "unauthorized": "Você não tem permissão para acessar esse recurso."
     }
   },
-  "users": {
-    "state": "TO TRANSLATE - Account's state",
-    "errors": {
-      "edit_user": {
-        "406": "A informação provida na criação na conta é inválida."
-      }
-    }
-  },
   "cartography": {
     "important": "Importante",
     "legend1": "Medidas existentes ou planejadas",
@@ -1088,12 +1080,6 @@
     "update_server_url_ok": {
       "content": "O endereço do servidor foi atualizado."
     },
-    "users": {
-      "delete": {
-        "confirm": "Remover usuário",
-        "content": "Tem certeza que deseja deletar este usuário?"
-      }
-    },
     "validate_evaluation": {
       "content": "<span class='strong'>Parabéns</span><br>, terminou de avaliar esta seção. <br>Outras partes da ferramenta PIA também devem ser avaliadas para poder validar a análise PIA."
     },
@@ -1655,7 +1641,17 @@
     "remove_user_with_linked_pias_error_message": "Vários PIAs estão associados a este usuário, então não é possível removê-lo.",
     "technical_admin": "Administrador técnico",
     "update": "Atualizar",
-    "user": "Usuário"
+    "user": "Usuário",    
+    "state": "TO TRANSLATE - Account's state",
+    "errors": {
+      "edit_user": {
+        "406": "A informação provida na criação na conta é inválida."
+      }
+    },      
+    "delete": {
+      "confirm": "Remover usuário",
+      "content": "Tem certeza que deseja deletar este usuário?"
+    }  
   },
   "validation_page": {
     "add_signed_pia": "Adicionar a análise PIA subscrita",

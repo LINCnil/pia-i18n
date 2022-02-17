@@ -90,14 +90,6 @@
       "unauthorized": "TO TRANSLATE - You are not allowed to access this ressource."
     }
   },
-  "users": {
-    "state": "TO TRANSLATE - Account's state",
-    "errors": {
-      "edit_user": {
-        "406": "TO TRANSLATE - The information provided when creating the account is invalid."
-      }
-    }
-  },
   "cartography": {
     "important": "Belangrijk",
     "legend1": "Geplande of bestaande maatregelen",
@@ -1088,12 +1080,6 @@
     "update_server_url_ok": {
       "content": "Het serveradres werd geüpdatet."
     },
-    "users": {
-      "delete": {
-        "confirm": "Gebruiker verwijderen",
-        "content": "Ben je zeker dat je deze gebruiker wilt verwijderen?"
-      }
-    },
     "validate_evaluation": {
       "content": "Dit gedeelte is klaar voor het valideren van de PIA."
     },
@@ -1655,7 +1641,17 @@
     "remove_user_with_linked_pias_error_message": "Je kunt deze gebruiker niet verwijderen omdat er meerdere PIA's aan gelinkt zijn.",
     "technical_admin": "Technisch beheerder",
     "update": "Updaten",
-    "user": "Gebruiker"
+    "user": "Gebruiker",
+    "state": "TO TRANSLATE - Account's state",
+    "errors": {
+      "edit_user": {
+        "406": "TO TRANSLATE - The information provided when creating the account is invalid."
+      }
+    },
+    "delete": {
+      "confirm": "Gebruiker verwijderen",
+      "content": "Ben je zeker dat je deze gebruiker wilt verwijderen?"
+    }
   },
   "validation_page": {
     "add_signed_pia": "Voeg de ondertekende PIA toe",

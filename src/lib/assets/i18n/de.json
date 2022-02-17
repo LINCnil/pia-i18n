@@ -90,14 +90,6 @@
       "unauthorized": "TO TRANSLATE - You are not allowed to access this ressource."
     }
   },
-  "users": {
-    "state": "TO TRANSLATE - Account's state",
-    "errors": {
-      "edit_user": {
-        "406": "Die bei der Erstellung des Kontos angegebenen Informationen sind ungültig."
-      }
-    }
-  },
   "cartography": {
     "important": "Substantiell",
     "legend1": "Geplante oder bestehende Maßnahmen",
@@ -1088,12 +1080,6 @@
     "update_server_url_ok": {
       "content": "Die Serveradresse wurde aktualisiert."
     },
-    "users": {
-      "delete": {
-        "confirm": "Benutzer entfernen",
-        "content": "Sind Sie sicher, diesen Benutzer zu löschen?"
-      }
-    },
     "validate_evaluation": {
       "content": "Der Unterabschnitt steht jetzt zur Bestätigung der Analyse bereit."
     },
@@ -1655,7 +1641,17 @@
     "remove_user_with_linked_pias_error_message": "Diverse DSFAs sind diesem Benutzer zugeordnet, löschen nicht möglich.",
     "technical_admin": "Technischer Administrator",
     "update": "Ändern",
-    "user": "Benutzer"
+    "user": "Benutzer",
+    "state": "TO TRANSLATE - Account's state",
+    "errors": {
+      "edit_user": {
+        "406": "Die bei der Erstellung des Kontos angegebenen Informationen sind ungültig."
+      }
+    },
+    "delete": {
+      "confirm": "Benutzer entfernen",
+      "content": "Sind Sie sicher, diesen Benutzer zu löschen?"
+    }
   },
   "validation_page": {
     "add_signed_pia": "Fügen Sie die unterschriebene DSFA hinzu",

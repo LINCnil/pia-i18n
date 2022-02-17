@@ -90,14 +90,6 @@
       "unauthorized": "Vous n'avez pas l'autorisation d'accéder à cette ressource."
     }
   },
-  "users": {
-    "state": "Statut du compte",
-    "errors": {
-      "edit_user": {
-        "406": "Les informations fournies lors de la création du compte sont invalides."
-      }
-    }
-  },
   "cartography": {
     "important": "Importante",
     "legend1": "Mesures prévues ou existantes",
@@ -1088,12 +1080,6 @@
     "update_server_url_ok": {
       "content": "L'adresse du serveur à été mise à jour."
     },
-    "users": {
-      "delete": {
-        "confirm": "Supprimer",
-        "content": "Voulez vous vraiment supprimer cet utilisateur ?"
-      }
-    },
     "validate_evaluation": {
       "content": "La partie est prête pour<br>la validation de l'analyse."
     },
@@ -1655,7 +1641,17 @@
     "remove_user_with_linked_pias_error_message": "Plusieurs PIA sont rattachés à cet utilisateur, vous ne pouvez donc pas le supprimer.",
     "technical_admin": "Administrateur technique",
     "update": "Mettre à jour",
-    "user": "Utilisateur"
+    "user": "Utilisateur",
+    "state": "Statut du compte",
+    "errors": {
+      "edit_user": {
+        "406": "Les informations fournies lors de la création du compte sont invalides."
+      }
+    },
+    "delete": {
+      "confirm": "Supprimer",
+      "content": "Voulez vous vraiment supprimer cet utilisateur ?"
+    }
   },
   "validation_page": {
     "add_signed_pia": "Ajouter le rapport PIA signé",
