@@ -1089,7 +1089,8 @@
     "users": {
       "delete": {
         "content": "<span class='strong'>Attention,</span><br>Êtes-vous sûr de vouloir<br>supprimer cet utilisateur ?",
-        "confirm": "Supprimer cet utilisateur"
+        "confirm": "Supprimer cet utilisateur",
+        "pia_exist": "Cet utilisateur est affecté à un ou plusieurs PIA, il faudra penser à ré-affecter des utilisateurs dessus"
       }
     }
   },

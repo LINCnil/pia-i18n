@@ -1089,7 +1089,8 @@
     "users": {
       "delete": {
         "content": "<span class='strong'>Warning,</span><br>Are you sure you want to<br>delete this user ?",
-        "confirm": "Delete this user"
+        "confirm": "Delete this user",
+        "pia_exist": "This user is assigned to one or more PIAs, you will need to re-assign users on them."
       }
     }
   },

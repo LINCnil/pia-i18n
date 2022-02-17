@@ -1089,7 +1089,8 @@
     "users": {
       "delete": {
         "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>delete this user ?",
-        "confirm": "TO TRANSLATE - Delete this user"
+        "confirm": "TO TRANSLATE - Delete this user",
+        "pia_exist": "TO TRANSLATE - This user is assigned to one or more PIAs, you will need to re-assign users on them."
       }
     }
   },
