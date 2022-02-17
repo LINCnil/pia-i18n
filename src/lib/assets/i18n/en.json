@@ -49,6 +49,7 @@
     "sign_in_button": "Sign in",
     "sign_out_button": "Sign out",
     "special_character": "Special character (!@#$%^&*()?...)",
+    "number": "Number",
     "start": "Start",
     "start_app": "Access the PIA's software (Beta)",
     "subtitle1": "A platform to create <br> and manage your PIAs",
@@ -87,13 +88,6 @@
         }
       },
       "unauthorized": "You are not allowed to access this ressource."
-    }
-  },
-  "users": {
-    "errors": {
-      "edit_user": {
-        "406": "The information provided when creating the account is invalid."
-      }
     }
   },
   "cartography": {
@@ -1086,17 +1080,18 @@
     "update_server_url_ok": {
       "content": "The server address has been updated."
     },
-    "users": {
-      "delete": {
-        "confirm": "Remove user",
-        "content": "Are you sure you want to delete this user?"
-      }
-    },
     "validate_evaluation": {
       "content": "This section is ready for validating the PIA."
     },
     "validate_evaluation_to_correct": {
       "content": "Sorry,<br>Several fields must be corrected.<br>Return to edition mode<br>to make corrections."
+    },
+    "users": {
+      "delete": {
+        "content": "<span class='strong'>Warning,</span><br>Are you sure you want to<br>delete this user ?",
+        "confirm": "Delete this user",
+        "pia_exist": "This user is assigned to one or more PIAs, you will need to re-assign users on them."
+      }
     }
   },
   "onboarding": {
@@ -1653,7 +1648,21 @@
     "remove_user_with_linked_pias_error_message": "Several PIAs are attached to this user, so you cannot delete him.",
     "technical_admin": "Technical administrator",
     "update": "Update",
-    "user": "User"
+    "user": "User",
+    "state": "Account's state",
+    "errors": {
+      "edit_user": {
+        "406": "The information provided when creating the account is invalid."
+      }
+    },
+    "delete": {
+      "confirm": "Remove user",
+      "content": "Are you sure you want to delete this user?"
+    },
+    "access_locked": {
+      "false": "Active",
+      "true": "Waiting for activation"
+    }
   },
   "validation_page": {
     "add_signed_pia": "Add the signed PIA",

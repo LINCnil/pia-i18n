@@ -52,6 +52,7 @@
     "start": "Start",
     "start_app": "Tilgang til PIAs programvare (Beta)",
     "subtitle1": "Et program for å opprette <br> og administrere PIA",
+    "number": "TO TRANSLATE - Number",
     "subtitle2": "Tilgang til verktøy og ordlister",
     "title": "Vurdering av personvernkonsekvenser",
     "transaction_error": "TO TRANSLATE - Unable to process your request.",
@@ -87,13 +88,6 @@
         }
       },
       "unauthorized": "TO TRANSLATE - You are not allowed to access this ressource."
-    }
-  },
-  "users": {
-    "errors": {
-      "edit_user": {
-        "406": "TO TRANSLATE - The information provided when creating the account is invalid."
-      }
     }
   },
   "cartography": {
@@ -1086,17 +1080,18 @@
     "update_server_url_ok": {
       "content": "TO BE TRANSLATED - The server address has been updated."
     },
-    "users": {
-      "delete": {
-        "confirm": "TO TRANSLATE - Remove user",
-        "content": "TO TRANSLATE - Are you sure you want to delete this user?"
-      }
-    },
     "validate_evaluation": {
       "content": "TO BE TRANSLATED - This section is ready for validating the PIA."
     },
     "validate_evaluation_to_correct": {
       "content": "Sorry,<br>Several fields must be corrected.<br>Return to edition mode<br>to make corrections."
+    },
+    "users": {
+      "delete": {
+        "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>delete this user ?",
+        "confirm": "TO TRANSLATE - Delete this user",
+        "pia_exist": "TO TRANSLATE - This user is assigned to one or more PIAs, you will need to re-assign users on them."
+      }
     }
   },
   "onboarding": {
@@ -1653,7 +1648,21 @@
     "remove_user_with_linked_pias_error_message": "TO TRANSLATE - Several PIAs are attached to this user, so you cannot delete him.",
     "technical_admin": "TO TRANSLATE - Technical administrator",
     "update": "TO TRANSLATE - Update",
-    "user": "TO TRANSLATE - User"
+    "user": "TO TRANSLATE - User",
+    "state": "TO TRANSLATE - Account's state",
+    "errors": {
+      "edit_user": {
+        "406": "TO TRANSLATE - The information provided when creating the account is invalid."
+      }
+    },
+    "delete": {
+      "confirm": "TO TRANSLATE - Remove user",
+      "content": "TO TRANSLATE - Are you sure you want to delete this user?"
+    },
+    "access_locked": {
+      "false": "TO TRANSLATE - Active",
+      "true": "TO TRANSLATE - Waiting for activation"
+    }
   },
   "validation_page": {
     "add_signed_pia": "TO BE TRANSLATED - Add the signed PIA",

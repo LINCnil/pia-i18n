@@ -49,6 +49,7 @@
     "sign_in_button": "Login",
     "sign_out_button": "Sair",
     "special_character": "Caracter especial",
+    "number": "TO TRANSLATE - Number",
     "start": "Início",
     "start_app": "Acessar ao software PIA (Beta)",
     "subtitle1": "Uma plataforma para criar <br> e gerir as análises de PIA",
@@ -87,13 +88,6 @@
         }
       },
       "unauthorized": "Você não tem permissão para acessar esse recurso."
-    }
-  },
-  "users": {
-    "errors": {
-      "edit_user": {
-        "406": "A informação provida na criação na conta é inválida."
-      }
     }
   },
   "cartography": {
@@ -1086,17 +1080,18 @@
     "update_server_url_ok": {
       "content": "O endereço do servidor foi atualizado."
     },
-    "users": {
-      "delete": {
-        "confirm": "Remover usuário",
-        "content": "Tem certeza que deseja deletar este usuário?"
-      }
-    },
     "validate_evaluation": {
       "content": "<span class='strong'>Parabéns</span><br>, terminou de avaliar esta seção. <br>Outras partes da ferramenta PIA também devem ser avaliadas para poder validar a análise PIA."
     },
     "validate_evaluation_to_correct": {
       "content": "Atenção, <br>vários campos devem ser corrigidos. <br>Retorne ao modo de edição<br>para fazer correções."
+    },
+    "users": {
+      "delete": {
+        "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>delete this user ?",
+        "confirm": "TO TRANSLATE - Delete this user",
+        "pia_exist": "TO TRANSLATE - This user is assigned to one or more PIAs, you will need to re-assign users on them."
+      }
     }
   },
   "onboarding": {
@@ -1653,7 +1648,21 @@
     "remove_user_with_linked_pias_error_message": "Vários PIAs estão associados a este usuário, então não é possível removê-lo.",
     "technical_admin": "Administrador técnico",
     "update": "Atualizar",
-    "user": "Usuário"
+    "user": "Usuário",
+    "state": "TO TRANSLATE - Account's state",
+    "errors": {
+      "edit_user": {
+        "406": "A informação provida na criação na conta é inválida."
+      }
+    },
+    "delete": {
+      "confirm": "Remover usuário",
+      "content": "Tem certeza que deseja deletar este usuário?"
+    },
+    "access_locked": {
+      "false": "TO TRANSLATE - Active",
+      "true": "TO TRANSLATE - Waiting for activation"
+    }
   },
   "validation_page": {
     "add_signed_pia": "Adicionar a análise PIA subscrita",

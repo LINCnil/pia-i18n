@@ -49,6 +49,7 @@
     "sign_in_button": "Anmelden",
     "sign_out_button": "Abmelden",
     "special_character": "Sonderzeichen",
+    "number": "TO TRANSLATE - Number",
     "start": "Starten",
     "start_app": "Zugriff auf die PIA-Software (Beta)",
     "subtitle1": "Eine Plattform zum Erstellen<br>und Verwalten Ihrer DSFAs",
@@ -87,13 +88,6 @@
         }
       },
       "unauthorized": "TO TRANSLATE - You are not allowed to access this ressource."
-    }
-  },
-  "users": {
-    "errors": {
-      "edit_user": {
-        "406": "Die bei der Erstellung des Kontos angegebenen Informationen sind ungültig."
-      }
     }
   },
   "cartography": {
@@ -1086,17 +1080,18 @@
     "update_server_url_ok": {
       "content": "Die Serveradresse wurde aktualisiert."
     },
-    "users": {
-      "delete": {
-        "confirm": "Benutzer entfernen",
-        "content": "Sind Sie sicher, diesen Benutzer zu löschen?"
-      }
-    },
     "validate_evaluation": {
       "content": "Der Unterabschnitt steht jetzt zur Bestätigung der Analyse bereit."
     },
     "validate_evaluation_to_correct": {
       "content": "Entschuldigung,<br>mehrere Felder müssen korrigiert werden.<br>Zum Bearbeitungsmodus zurückkehren und Korrekturen vornehmen."
+    },
+    "users": {
+      "delete": {
+        "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>delete this user ?",
+        "confirm": "TO TRANSLATE - Delete this user",
+        "pia_exist": "TO TRANSLATE - This user is assigned to one or more PIAs, you will need to re-assign users on them."
+      }
     }
   },
   "onboarding": {
@@ -1653,7 +1648,21 @@
     "remove_user_with_linked_pias_error_message": "Diverse DSFAs sind diesem Benutzer zugeordnet, löschen nicht möglich.",
     "technical_admin": "Technischer Administrator",
     "update": "Ändern",
-    "user": "Benutzer"
+    "user": "Benutzer",
+    "state": "TO TRANSLATE - Account's state",
+    "errors": {
+      "edit_user": {
+        "406": "Die bei der Erstellung des Kontos angegebenen Informationen sind ungültig."
+      }
+    },
+    "delete": {
+      "confirm": "Benutzer entfernen",
+      "content": "Sind Sie sicher, diesen Benutzer zu löschen?"
+    },
+    "access_locked": {
+      "false": "TO TRANSLATE - Active",
+        "true": "TO TRANSLATE - Waiting for activation"
+    }
   },
   "validation_page": {
     "add_signed_pia": "Fügen Sie die unterschriebene DSFA hinzu",

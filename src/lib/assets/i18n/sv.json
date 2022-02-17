@@ -49,6 +49,7 @@
     "sign_in_button": "TO TRANSLATE - Sign in",
     "sign_out_button": "TO TRANSLATE - Sign out",
     "special_character": "TO TRANSLATE - Special character (!@#$%^&*()?...)",
+    "number": "TO TRANSLATE - Number",
     "start": "Start",
     "start_app": "Starta konsekvensanalysen (Beta)",
     "subtitle1": "En plattform för att utföra <br> samt att hantera utförda konsekvensanalyser (PIA - Privacy Impact Assessment)",
@@ -87,13 +88,6 @@
         }
       },
       "unauthorized": "TO TRANSLATE - You are not allowed to access this ressource."
-    }
-  },
-  "users": {
-    "errors": {
-      "edit_user": {
-        "406": "TO TRANSLATE - The information provided when creating the account is invalid."
-      }
     }
   },
   "cartography": {
@@ -1086,17 +1080,18 @@
     "update_server_url_ok": {
       "content": "Serveradressen har uppdaterats"
     },
-    "users": {
-      "delete": {
-        "confirm": "TO TRANSLATE - Remove user",
-        "content": "TO TRANSLATE - Are you sure you want to delete this user?"
-      }
-    },
     "validate_evaluation": {
       "content": "Denna sektion är färdig<br>för godkännandeprocessen."
     },
     "validate_evaluation_to_correct": {
       "content": "Tyvärr<br> Flera fält behöver korrigeras.<br>Återgå till bearbetningsläge<br>för att korrigera."
+    },
+    "users": {
+      "delete": {
+        "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>delete this user ?",
+        "confirm": "TO TRANSLATE - Delete this user",
+        "pia_exist": "TO TRANSLATE - This user is assigned to one or more PIAs, you will need to re-assign users on them."
+      }
     }
   },
   "onboarding": {
@@ -1653,7 +1648,21 @@
     "remove_user_with_linked_pias_error_message": "TO TRANSLATE - Several PIAs are attached to this user, so you cannot delete him.",
     "technical_admin": "TO TRANSLATE - Technical administrator",
     "update": "TO TRANSLATE - Update",
-    "user": "TO TRANSLATE - User"
+    "user": "TO TRANSLATE - User",
+    "state": "TO TRANSLATE - Account's state",
+    "errors": {
+      "edit_user": {
+        "406": "TO TRANSLATE - The information provided when creating the account is invalid."
+      }
+    },
+    "delete": {
+      "confirm": "TO TRANSLATE - Remove user",
+      "content": "TO TRANSLATE - Are you sure you want to delete this user?"
+    },
+    "access_locked": {
+      "false": "TO TRANSLATE - Active",
+      "true": "TO TRANSLATE - Waiting for activation"
+    }
   },
   "validation_page": {
     "add_signed_pia": "Lägg till en signerad version av PIAn",

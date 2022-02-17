@@ -48,7 +48,8 @@
     "sign_in": "S'identifier",
     "sign_in_button": "Se connecter",
     "sign_out_button": "Se déconnecter",
-    "special_character": "caractère spécial (!@#$%^&*()?...)",
+    "special_character": "Caractère spécial (!@#$%^&*()?...)",
+    "number": "Chiffre",
     "start": "Commencer",
     "start_app": "Accéder à l'outil PIA (Beta)",
     "subtitle1": "Une plateforme pour créer <br> et administrer vos pia",
@@ -87,13 +88,6 @@
         }
       },
       "unauthorized": "Vous n'avez pas l'autorisation d'accéder à cette ressource."
-    }
-  },
-  "users": {
-    "errors": {
-      "edit_user": {
-        "406": "Les informations fournies lors de la création du compte sont invalides."
-      }
     }
   },
   "cartography": {
@@ -1086,17 +1080,18 @@
     "update_server_url_ok": {
       "content": "L'adresse du serveur à été mise à jour."
     },
-    "users": {
-      "delete": {
-        "confirm": "Supprimer",
-        "content": "Voulez vous vraiment supprimer cet utilisateur ?"
-      }
-    },
     "validate_evaluation": {
       "content": "La partie est prête pour<br>la validation de l'analyse."
     },
     "validate_evaluation_to_correct": {
       "content": "Désolé,<br>Plusieurs champs doivent être corrigés.<br>Retour au mode d'édition<br>pour apporter des corrections."
+    },
+    "users": {
+      "delete": {
+        "content": "<span class='strong'>Attention,</span><br>Êtes-vous sûr de vouloir<br>supprimer cet utilisateur ?",
+        "confirm": "Supprimer cet utilisateur",
+        "pia_exist": "Cet utilisateur est affecté à un ou plusieurs PIA, il faudra penser à ré-affecter des utilisateurs dessus"
+      }
     }
   },
   "onboarding": {
@@ -1653,7 +1648,21 @@
     "remove_user_with_linked_pias_error_message": "Plusieurs PIA sont rattachés à cet utilisateur, vous ne pouvez donc pas le supprimer.",
     "technical_admin": "Administrateur technique",
     "update": "Mettre à jour",
-    "user": "Utilisateur"
+    "user": "Utilisateur",
+    "state": "Statut du compte",
+    "errors": {
+      "edit_user": {
+        "406": "Les informations fournies lors de la création du compte sont invalides."
+      }
+    },
+    "delete": {
+      "confirm": "Supprimer",
+      "content": "Voulez vous vraiment supprimer cet utilisateur ?"
+    },
+    "access_locked": {
+        "false": "Activé",
+        "true": "En attente d'activation"
+    }
   },
   "validation_page": {
     "add_signed_pia": "Ajouter le rapport PIA signé",
