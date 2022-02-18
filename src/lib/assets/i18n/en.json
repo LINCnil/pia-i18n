@@ -1662,6 +1662,13 @@
     "access_locked": {
       "false": "Active",
       "true": "Waiting for activation"
+    },
+    "role": {
+      "label": "Role(s)",
+      "author": "Author",
+      "evaluator": "Evaluator",
+      "validator": "Validator",
+      "guest": "Guest"
     }
   },
   "validation_page": {

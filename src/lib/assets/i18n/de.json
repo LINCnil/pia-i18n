@@ -1662,6 +1662,13 @@
     "access_locked": {
       "false": "TO TRANSLATE - Active",
         "true": "TO TRANSLATE - Waiting for activation"
+    },
+    "role": {
+      "label": "TO TRANSLATE - Role(s)",
+      "author": "TO TRANSLATE - Author",
+      "evaluator": "TO TRANSLATE - Evaluator",
+      "validator": "TO TRANSLATE - Validator",
+      "guest": "TO TRANSLATE - Guest"
     }
   },
   "validation_page": {
