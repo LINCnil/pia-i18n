@@ -30,7 +30,7 @@
     "confirm": "Bestätigen",
     "confirmation": "Bestätigung",
     "continue": "Weiter",
-    "activate_account": "TO TRANSLATE - activate account",
+    "activate_account": "Konto aktivieren",
     "create_account": "Anlegen",
     "create_account2": "Benutzerkonto anlegen",
     "description": "Diese Software der <strong>französischen Datenschutzbehörde (CNIL)</strong> soll den Datenverantwortlichen bei der Erstellung und dem Nachweis der Einhaltung der DS-GVO helfen. Sie hilft bei der Durchführung einer Datenschutz-Folgenabschätzung, indem sie die Verwendung der von der CNIL entwickelten PIA-Methode erleichtert.",
@@ -49,7 +49,7 @@
     "sign_in_button": "Anmelden",
     "sign_out_button": "Abmelden",
     "special_character": "Sonderzeichen",
-    "number": "TO TRANSLATE - Number",
+    "number": "Nummer",
     "start": "Starten",
     "start_app": "Zugriff auf die PIA-Software (Beta)",
     "subtitle1": "Eine Plattform zum Erstellen<br>und Verwalten Ihrer DSFAs",
@@ -58,7 +58,7 @@
     "transaction_error": "Die Anforderung kann nicht bearbeitet werden.",
     "uppercase": "Großbuchstaben",
     "wrong_activation_code": "(falsch)",
-    "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
+    "wrong_confirmation": "Die Kennwörter stimmen nicht überein.",
     "wrong_email": "falsche E-Mail-Adresse",
     "errors": {
       "sign_in": {
@@ -67,7 +67,7 @@
       "create_account": {
         "uuid": {
           "404": "Falscher Aktivierungscode",
-          "403": "TO TRANSLATE - This account is already activated"
+          "403": "Dieses Konto ist bereits aktiviert."
         },
         "password": {
           "404": "Benutzer nicht gefunden",
@@ -87,7 +87,7 @@
           "406": "Das Kennwort entspricht nicht den Anforderungen der Kennwortrichtlinie."
         }
       },
-      "unauthorized": "TO TRANSLATE - You are not allowed to access this ressource."
+      "unauthorized": "Der Zugriff auf diese Ressource ist Ihnen nicht gestattet."
     }
   },
   "cartography": {
@@ -382,8 +382,8 @@
     },
     "search_filter": "Suchen",
     "no_entries": {
-      "pia": "TO TRANSLATE - No PIA created and/or assigned",
-      "archive": "TO TRANSLATE - No PIA archive"
+      "pia": "Keine Datenschutz-Folgeabschätzung (DSFA) erstellt und/oder zugewiesen.",
+      "archive": "Keine archivierte Datenschutz-Folgeabschätzung (DSFA) gefunden."
     }
   },
   "knowledge_base": {
@@ -1088,9 +1088,9 @@
     },
     "users": {
       "delete": {
-        "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>delete this user ?",
-        "confirm": "TO TRANSLATE - Delete this user",
-        "pia_exist": "TO TRANSLATE - This user is assigned to one or more PIAs, you will need to re-assign users on them."
+        "content": "<span class='strong'>Warnung,</span><br>Sind Sie sicher, dass Sie diesen Benutzer löschen möchten?",
+        "confirm": "Diesen Benutzer löschen?",
+        "pia_exist": "Diesem/Dieser Benutzer*in sind eine oder mehrere PIAs zugewiesen. Diesen müssen Sie neue Benutzer*innen zuweisen."
       }
     }
   },
@@ -1101,16 +1101,16 @@
         "title": "DSFA anlegen"
       },
       "step2": {
-        "description": "TO TRANSLATE - <p><strong>Editors</strong> write the first version of the analysis.</p><p>They are, for example, the project managers associated with the data processing.</p>",
+        "description": "<p>Der/Die <strong>Redakteur*inn</strong> schreiben die erste Version der Analyse.</p><p>Sie sind z.B. die mit der Datenverarbeitung verbundenen Projektleitung.</p>",
         "title": "DSFA Rollen"
       },
       "step3": {
-        "description": "TO TRANSLATE - <p><strong>Reviewers</strong> are involved in a second phase.</p><p>They use their legal or technical expertise to check the quality and compliance of the processing.</p><p>They are, for example, DPO, legal experts, ...</p>",
+        "description": "<p>Der/Die<strong>Beurteiler*in</strong> sind in einer zweiten Phase involviert.</p><p>Sie nutzen ihr juristisches oder technisches Fachwissen, um die Qualität und Konformität der Verarbeitung zu überprüfen.</p><p>Sie sind zum Beispiel Datenschutzbeauftragte*r oder Jurist*innen.</p>",
         "title": "DSFA Rollen"
       },
       "step4": {
-        "description": "TO TRANSLATE - <p>The <strong>validator</strong> accepts or rejects the implementation of the processing. He must sign the analysis.</p><p>He is the controller, e.g. the CEO.</p>",
-        "title": "DSFA Rollen"
+        "description": "<p>Der/Die <strong>Gutachter*in</strong> nimmt die Durchführung der Verarbeitung an oder lehnt sie ab. Er muss die Analyse unterschreiben.</p><p>Er ist der für die Verarbeitung Verantwortliche, z.B. der Geschäftsleitung.</p>",
+        "title": "DSFA Rollen" 
       },
       "step5": {
         "description": "<p><strong>Vorlagen</strong> sind eine erweiterte Funktion. Sie werden verwendet, um eine vorausgefüllte Basis für die Analyse zu erstellen.</p><p>Sie können Vorlagen erstellen, indem Sie auf den entsprechenden Abschnitt im oberen Menü zugreifen.</p>",
@@ -1176,12 +1176,12 @@
     },
     "validated": {
       "step1": {
-        "description": "TO TRANSLATE - A complete and validated analysis can be consulted at any time via a dedicated interface.",
-        "title": "TO TRANSLATE - Consult a validated PIA"
+        "description": "Eine vollständige und validierte Analyse kann jederzeit über eine spezielle Schnittstelle abgerufen werden.",
+        "title": "Konsultieren Sie eine validierte DSFA."
       },
       "step2": {
-        "description": "TO TRANSLATE - It is necessary to review regularly an analysis. You can edit or duplicate it at any time to review its content according to the processing evolution.",
-        "title": "TO TRANSLATE - Update a validated PIA"
+        "description": "Es ist notwendig, eine Analyse regelmäßig zu überprüfen. Sie können sie jederzeit bearbeiten oder duplizieren, um ihren Inhalt entsprechend der Entwicklung der Verarbeitung zu überprüfen.",
+        "title": "Aktualisieren Sie eine validierte DSFA."
       }
     }
   },
@@ -1223,7 +1223,7 @@
       "loading": "Anlage wird hochgeladen",
       "remove": "Löschen",
       "title": "Anlagen",
-      "no_attachment": "TO TRANSLATE - No attachment available"
+      "no_attachment": "Kein Anhang verfügbar."
     },
     "footer": {
       "ask_evaluation": "Bitte um Überprüfung",
@@ -1614,7 +1614,7 @@
     "preview_title": "Vorschau",
     "preview_validation": "Überprüfung",
     "preview_validation_section": "Überprüfung",
-    "preview_guests": "TO TRANSLATE - Guests",
+    "preview_guests": "Gäste",
     "previous_page": "Zurück zur vorherigen Seite",
     "rejection_reason": "Ablehnungsgrund",
     "revision": {
@@ -1649,7 +1649,7 @@
     "technical_admin": "Technischer Administrator",
     "update": "Ändern",
     "user": "Benutzer",
-    "state": "TO TRANSLATE - Account's state",
+    "state": "Kontostatus",
     "errors": {
       "edit_user": {
         "406": "Die bei der Erstellung des Kontos angegebenen Informationen sind ungültig."
@@ -1660,15 +1660,15 @@
       "content": "Sind Sie sicher, diesen Benutzer zu löschen?"
     },
     "access_locked": {
-      "false": "TO TRANSLATE - Active",
-        "true": "TO TRANSLATE - Waiting for activation"
+      "false": "Aktiv.",
+        "true": "Warten auf die Aktivierung."
     },
     "role": {
-      "label": "TO TRANSLATE - Role(s)",
-      "author": "TO TRANSLATE - Author",
-      "evaluator": "TO TRANSLATE - Evaluator",
-      "validator": "TO TRANSLATE - Validator",
-      "guest": "TO TRANSLATE - Guest"
+      "label": "Rolle(n)",
+      "author": "Autor*innen",
+      "evaluator": "Beurteiler*in",
+      "validator": "Prüfer*in",
+      "guest": "Gast"
     }
   },
   "validation_page": {
