@@ -23,7 +23,7 @@
     "title": "Panoramica"
   },
   "authentication": {
-    "12_characters": "TO TRANSLATE - 12 characters",
+    "12_characters": "12 caratteri",
     "account_recovery": "TO TRANSLATE - Password recovery",
     "activation_code": "TO TRANSLATE - Activation code",
     "cancel": "TO TRANSLATE - Cancel",
@@ -34,12 +34,12 @@
     "create_account": "TO TRANSLATE - Sign up",
     "create_account2": "TO TRANSLATE - Create account",
     "description": "Questo software creato dall'<strong>autorità francese per la protezione dei dati (CNIL)</strong> ha lo scopo di guidare i titolari del trattamento dei dati nell'adempimento degli obblighi del GDPR. Aiuta a svolgere correttamente una valutazione dell'impatto sulla protezione dei dati facilitando l'uso del metodo sviluppato dalla CNIL per affrontare la PIA",
-    "email": "TO TRANSLATE - Email",
-    "email_placeholder": "TO TRANSLATE - Email",
-    "forgotten_password": "TO TRANSLATE - Forgotten ?",
-    "login": "TO TRANSLATE - Login",
-    "lowercase": "TO TRANSLATE - Lowercase",
-    "password": "TO TRANSLATE - Password",
+    "email": "Email",
+    "email_placeholder": "Email",
+    "forgotten_password": "Password dimenticata?",
+    "login": "Login",
+    "lowercase": "Minuscolo",
+    "password": "Password",
     "password_security": "TO TRANSLATE - Password security",
     "recovery_code": "TO TRANSLATE - Reset code",
     "recovery_code_message": "TO TRANSLATE - An email containing a code has been sent to this email. Please enter the code in the field below.",
@@ -48,25 +48,25 @@
     "sign_in": "TO TRANSLATE - Sign in",
     "sign_in_button": "TO TRANSLATE - Sign in",
     "sign_out_button": "TO TRANSLATE - Sign out",
-    "special_character": "TO TRANSLATE - Special character (!@#$%^&*()?...)",
-    "number": "TO TRANSLATE - Number",
+    "special_character": "Caratteri speciali (!@#$%^&*()?...)",
+    "number": "Numero",
     "start": "Avvio",
     "start_app": "Accedi al software PIA (Beta)",
     "subtitle1": "Una piattaforma per creare <br>e gestire le tue PIA",
     "subtitle2": "Accesso ai tool e glossari",
     "title": "Valutazione d'impatto sulla protezione dei dati",
-    "transaction_error": "TO TRANSLATE - Unable to process your request.",
-    "uppercase": "TO TRANSLATE - Uppercase",
+    "transaction_error": "Impossibile processare la tua richiesta",
+    "uppercase": "Maiuscolo",
     "wrong_activation_code": "TO TRANSLATE - (wrong)",
-    "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
-    "wrong_email": "TO TRANSLATE - Wrong email",
+    "wrong_confirmation": "Le password non coincidono",
+    "wrong_email": "Email sbagliata",
     "errors": {
       "sign_in": {
-        "400": "TO TRANSLATE - Wrong email or password."
+        "400": "L'email o la password sono errate."
       },
       "create_account": {
         "uuid": {
-          "404": "TO TRANSLATE - Wrong activation code",
+          "404": "Codice di attivazione sbagliato",
           "403": "TO TRANSLATE - This account is already activated"
         },
         "password": {
@@ -113,22 +113,22 @@
     "send": "Invia"
   },
   "date": {
-    "april": "TO TRANSLATE - April",
-    "august": "TO TRANSLATE - August",
-    "december": "TO TRANSLATE - December",
-    "earlier-in-this-month": "TO TRANSLATE - Earlier this month",
-    "earlier-in-this-week": "TO TRANSLATE - Earlier this week",
-    "february": "TO TRANSLATE - February",
-    "january": "TO TRANSLATE - January",
-    "july": "TO TRANSLATE - July",
-    "june": "TO TRANSLATE - June",
-    "march": "TO TRANSLATE - March",
-    "may": "TO TRANSLATE - May",
-    "november": "TO TRANSLATE - November",
-    "october": "TO TRANSLATE - October",
-    "september": "TO TRANSLATE - September",
-    "today": "TO TRANSLATE - Today",
-    "yesterday": "TO TRANSLATE - Yesterday"
+    "april": "Aprile",
+    "august": "Agosto",
+    "december": "Dicembre",
+    "earlier-in-this-month": "All'inizio di questo mese",
+    "earlier-in-this-week": "All'inizio di questa settimana",
+    "february": "Febbraio",
+    "january": "Gennaio",
+    "july": "Luglio",
+    "june": "Giugno",
+    "march": "Marzo",
+    "may": "Maggio",
+    "november": "Novembre",
+    "october": "Ottobre",
+    "september": "Settembre",
+    "today": "Oggi",
+    "yesterday": "Ieri"
   },
   "errors": {
     "content": "In caso di altri problemi o se avete suggerimenti migliorativi, <br>potete segnalarceli con questo modulo: <a href=\"https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia\" target=\"_blank\">https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia</a>",
@@ -162,16 +162,16 @@
     "to_correct": "Da correggere"
   },
   "header": {
-    "archives": "TO TRANSLATE - PIA Archives",
-    "current_pias": "TO TRANSLATE - Current PIAs",
+    "archives": "Archivio PIAs",
+    "current_pias": "PIAs recenti",
     "exit_full_screen_mode": "Premi F11 per uscire dalla modalità schermo intero.",
     "help": {
-      "issue_reporting": "TO TRANSLATE - Report an issue",
-      "manual": "TO TRANSLATE - User manual",
+      "issue_reporting": "Segnala un problema",
+      "manual": "Manuale utente",
       "pia_example_link": "Esempio PIA",
       "title": "Aiuto"
     },
-    "homepage_link": "TO TRANSLATE - My PIAs",
+    "homepage_link": "Le mie PIAs",
     "knowledge_base_link": "Archivio",
     "languages": {
       "ar": "العربية",
@@ -208,10 +208,10 @@
     "tools": {
       "about": "Informazioni",
       "accessibility": "Accessibilità per ipovedenti (colori ad alto contrasto, daltonismo)",
-      "onboarding": "TO TRANSLATE - Restart tutorial",
+      "onboarding": "Riavvia il tutorial",
       "settings": "Impostazioni",
-      "url_setting": "TO TRANSLATE - Server URL configuration",
-      "users": "TO TRANSLATE - Users"
+      "url_setting": "Configurazione Server remoto",
+      "users": "Utenti"
     }
   },
   "help": {
@@ -258,7 +258,7 @@
   "homepage": {
     "cards": {
       "author": "Autore",
-      "category": "TO TRANSLATE - Category",
+      "category": "Categoria",
       "creation_status": "Inizializzazione",
       "date": "Data",
       "evaluation": "Revisore",
@@ -272,13 +272,13 @@
         "edit_structure": "Edita modello",
         "tools": {
           "action_plan": "Mostra<br>il piano d'azione",
-          "archive": "TO TRANSLATE - Archive",
+          "archive": "Archivia",
           "duplicate": "Crea una copia",
           "export": "Esporta",
           "more_options": "Altre opzioni",
           "pia": "Mostra<br>PIA",
-          "remove": "TO TRANSLATE - Delete",
-          "unarchive": "TO TRANSLATE - Unarchive"
+          "remove": "Elimina",
+          "unarchive": "Togli dall'archivio"
         },
         "validate_pia": "TO TRANSLATE - Validate"
       },
@@ -293,7 +293,7 @@
       },
       "knowledges_entry": {
         "all_sections": "TO TRANSLATE - All sections",
-        "choose_category": "TO TRANSLATE - Choose a category",
+        "choose_category": "Scegli una categoria",
         "contents": "TO TRANSLATE - Contents",
         "create": "TO TRANSLATE - Create this element",
         "linked_to": "TO TRANSLATE - Linked to",
@@ -308,7 +308,7 @@
       "or": "oppure",
       "pia_name": "PIA",
       "placeholder_author": "Cognome, nome",
-      "placeholder_category": "TO TRANSLATE - Category",
+      "placeholder_category": "Categoria",
       "placeholder_evaluation": "Cognome, nome",
       "placeholder_import_knowledgeBase": "TO TRANSLATE - Import base",
       "placeholder_import_pia": "Importa PIA",
@@ -333,14 +333,14 @@
     "filters": {
       "assessor": "Revisore",
       "author": "Autore",
-      "card": "TO TRANSLATE - Card view",
+      "card": "Mostra come schede",
       "card_rocket_content": "Inizia! Per impostare <br>una PIA, clicca sul +",
       "card_rocket_content_structure": "TO BE TRANSLATED - Lancez-vous !<br><br>Pour commencer<br>un modèle, cliquez<br> sur le +",
-      "category": "TO TRANSLATE - Category",
+      "category": "Categoria",
       "date": "Data",
       "import_pia": "Importa PIA",
-      "import_structure": "TO BE TRANSLATED - Importer modèle",
-      "list": "TO TRANSLATE - List view",
+      "import_structure": "Importa un modello",
+      "list": "Mostra come lista",
       "list_rocket_content": "Inizia! Per impostare <br>una PIA, clicca sul +",
       "list_rocket_content_structure": "TO BE TRANSLATED - Lancez-vous ! Pour commencer<br>un modèle, cliquez sur le +",
       "name": "Nome",
@@ -355,7 +355,7 @@
     "lists": {
       "column_actions": "Azioni",
       "column_author": "Autore",
-      "column_category": "TO TRANSLATE - Category",
+      "column_category": "Categoria",
       "column_creation": "Creato",
       "column_evaluation": "Revisore",
       "column_pia": "PIA",
@@ -369,18 +369,18 @@
       "item": {
         "tools": {
           "action_plan": "Mostra il piano d'azione",
-          "archive": "TO TRANSLATE - Archive",
+          "archive": "Archivia",
           "consult": "Visualizza",
           "duplicate": "Crea una copia",
           "edit": "Modifica",
           "export": "Esporta",
           "pia": "Mostra PIA",
-          "remove": "TO TRANSLATE - Delete",
-          "unarchive": "TO TRANSLATE - Unarchive"
+          "remove": "Elimina",
+          "unarchive": "Togli dall'archivio"
         }
       }
     },
-    "search_filter": "TO TRANSLATE - Search",
+    "search_filter": "Cerca",
     "no_entries": {
       "pia": "TO TRANSLATE - No PIA created and/or assigned",
       "archive": "TO TRANSLATE - No PIA archive"
@@ -972,8 +972,8 @@
     },
     "archive": "Archivia",
     "archive_pia": {
-      "archive": "TO TRANSLATE - Archive PIA",
-      "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>archive this PIA ?"
+      "archive": "Archivia PIA",
+      "content": "<span class='strong'>Attenzione,</span><br>Sei sicuro di voler<br>archiviare questa PIA ?"
     },
     "ask_for_evaluation": {
       "content": "<span class='strong'>Congratulazioni,</span><br>la sezione è <br>disponibile per la valutazione."
@@ -1005,7 +1005,7 @@
       "review_section": "Valuta una sezione"
     },
     "general_error": {
-      "content": "TO TRANSLATE - All our apologies an error has occurred."
+      "content": "C'è stato un errore e ci dispiace molto."
     },
     "import_wrong_pia_file": {
       "content": "TO BE TRANSLATED - Le fichier importé ne correspond pas à un fichier de type PIA"
@@ -1014,8 +1014,8 @@
       "content": "TO BE TRANSLATED - Le fichier importé ne correspond pas à un fichier de type Modèle"
     },
     "knowledge": {
-      "content": "TO TRANSLATE - Are you sure you want to delete this element?",
-      "remove": "TO TRANSLATE - Delete this element"
+      "content": "Sei sicuro di voler cancellare questo elemento?",
+      "remove": "Cancella questo elemento"
     },
     "knowledges": {
       "content": "TO TRANSLATE - Are you sure you want to delete this knowledge base?",
@@ -1047,7 +1047,7 @@
       "remove": "Cancella questa <br>misura"
     },
     "remove_pia": {
-      "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>remove permanently this PIA?",
+      "content": "<span class='strong'>Attenzione,</span><br>Sei sicuro di voler<br>cancellare definitivamente questa PIA?",
       "remove": "Cancella questa PIA"
     },
     "remove_question": {
@@ -1071,11 +1071,11 @@
     },
     "start_evaluation": "Inizia valutazione",
     "unarchive_pia": {
-      "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>unarchive this PIA ?",
-      "unarchive": "TO TRANSLATE - Unarchive PIA"
+      "content": "<span class='strong'>Attenzione,</span><br>Sei sicuro di voler togliere<br>dall'archivio questa PIA ?",
+      "unarchive": "Togli dall'archivio questa PIA"
     },
     "update_server_url_nok": {
-      "content": "TO BE TRANSLATED - Connection impossible."
+      "content": "Impossibile connettersi."
     },
     "update_server_url_ok": {
       "content": "L'indirizzo del server è stato aggiornato."
@@ -1219,16 +1219,16 @@
   "pia": {
     "attachments": {
       "add": "Aggiungi",
-      "download": "TO TRANSLATE - Download the attachment",
-      "loading": "TO TRANSLATE - Uploading...",
+      "download": "Scarica allegato",
+      "loading": "Caricamento...",
       "remove": "Cancella",
       "title": "Allegati",
-      "no_attachment": "TO TRANSLATE - No attachment available"
+      "no_attachment": "Non ci sono allegati disponibili"
     },
     "footer": {
       "ask_evaluation": "Richiedi una revisione",
       "mandatory_fields": "Tutti i campi sono obbligatori",
-      "structure_add_question": "TO BE TRANSLATED - Ajouter une question",
+      "structure_add_question": "Aggiungi una domanda",
       "subsection_validated": "Sezione rivista, in attesa di validazione finale",
       "validate_evaluation": "Valida revisione"
     },
@@ -1608,47 +1608,47 @@
     "preview_dpo_opinion": "TO TRANSLATE - DPO and data subjects opinion",
     "preview_edition": "TO TRANSLATE - Editing",
     "preview_evaluation": "TO TRANSLATE - Evaluation",
-    "preview_no_data": "TO TRANSLATE - No data to display.",
-    "preview_status": "TO TRANSLATE - Status",
-    "preview_subtitle": "TO TRANSLATE - General information",
-    "preview_title": "TO TRANSLATE - Preview",
-    "preview_validation": "TO TRANSLATE - Validation",
-    "preview_validation_section": "TO TRANSLATE - Validation",
+    "preview_no_data": "Nessun dato da mostrare.",
+    "preview_status": "Stato",
+    "preview_subtitle": "Informazioni generali",
+    "preview_title": "Anteprima",
+    "preview_validation": "Validazione",
+    "preview_validation_section": "Validazione",
     "preview_guests": "TO TRANSLATE - Guests",
     "previous_page": "Torna alla pagina precedente",
     "rejection_reason": "Motivazione del rigetto",
     "revision": {
-      "current_version": "TO TRANSLATE - Current version",
-      "pia_version": "TO TRANSLATE - PIA versions",
+      "current_version": "Versione corrente",
+      "pia_version": "Versioni della PIA",
       "restore_version": "TO TRANSLATE - Restoren",
       "revision": "TO TRANSLATE - Versions and revision",
-      "save": "TO TRANSLATE - Create a new version",
-      "show": "TO TRANSLATE - Display the {{length}} versions"
+      "save": "Crea una nuova versione",
+      "show": "Mostra le {{length}} versioni"
     },
     "risks_cartography_title": "Mappaggio dei rischi",
     "risks_overview_title": "Panoramica dei rischi",
     "title": "Informazioni sulla PIA"
   },
   "users": {
-    "add_new_user": "TO TRANSLATE - Add a new user",
-    "cancel": "TO TRANSLATE - Cancel",
-    "choose_profile": "TO TRANSLATE - Choose a profile for this user",
-    "continue": "TO TRANSLATE - Continue",
-    "data": "TO TRANSLATE - Data",
-    "edit_user": "TO TRANSLATE - Edit an user",
-    "email": "TO TRANSLATE - Email",
-    "first_name": "TO TRANSLATE - First name",
+    "add_new_user": "Aggiungi un nuovo utente",
+    "cancel": "Annulla",
+    "choose_profile": "Scegli un profilo per questo utente",
+    "continue": "Continua",
+    "data": "Data",
+    "edit_user": "Modifica un utente",
+    "email": "Email",
+    "first_name": "Nome",
     "functional_admin": "TO TRANSLATE - Functional administrator",
-    "last_name": "TO TRANSLATE - Last name",
-    "new_user_button": "TO TRANSLATE - New user",
-    "profile": "TO TRANSLATE - Profile",
-    "remove": "TO TRANSLATE - Delete",
-    "remove_current_user_error_message": "TO TRANSLATE - You can't delete your own account.",
+    "last_name": "Cognome",
+    "new_user_button": "Nuovo utente",
+    "profile": "Profilo",
+    "remove": "Elimina",
+    "remove_current_user_error_message": "Non puoi cancellare il tuo account",
     "remove_last_functional_admin_error_message": "TO TRANSLATE - You cannot delete this user because at least one Technical Administrator account must remain.",
     "remove_user_with_linked_pias_error_message": "TO TRANSLATE - Several PIAs are attached to this user, so you cannot delete him.",
     "technical_admin": "TO TRANSLATE - Technical administrator",
-    "update": "TO TRANSLATE - Update",
-    "user": "TO TRANSLATE - User",
+    "update": "Aggiorna",
+    "user": "Utente",
     "state": "TO TRANSLATE - Account's state",
     "errors": {
       "edit_user": {
@@ -1656,19 +1656,19 @@
       }
     },
     "delete": {
-      "confirm": "TO TRANSLATE - Remove user",
-      "content": "TO TRANSLATE - Are you sure you want to delete this user?"
+      "confirm": "Rimuovi utente",
+      "content": "Sei sicuro di voler cancellare questo utente?"
     },
     "access_locked": {
-      "false": "TO TRANSLATE - Active",
-      "true": "TO TRANSLATE - Waiting for activation"
+      "false": "Attivo",
+      "true": "In attesa dell'attivazione"
     },
     "role": {
       "label": "TO TRANSLATE - Role(s)",
       "author": "TO TRANSLATE - Author",
       "evaluator": "TO TRANSLATE - Evaluator",
       "validator": "TO TRANSLATE - Validator",
-      "guest": "TO TRANSLATE - Guest"
+      "guest": "Ospite"
     }
   },
   "validation_page": {
