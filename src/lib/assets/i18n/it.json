@@ -262,14 +262,14 @@
       "creation_status": "Inizializzazione",
       "date": "Data",
       "evaluation": "Revisore",
-      "guest": "TO TRANSLATE - Guest(s)",
+      "guest": "Ospiti",
       "import_pia": "Importa PIA",
       "import_structure": "Importa modello",
       "item": {
         "consult_pia": "Visualizza PIA",
-        "consult_structure": "TO TRANSLATE - Consult template",
+        "consult_structure": "Consulta modello",
         "edit_pia": "Modifica PIA",
-        "edit_structure": "Edita modello",
+        "edit_structure": "Modifica modello",
         "tools": {
           "action_plan": "Mostra<br>il piano d'azione",
           "archive": "Archivia",
@@ -317,10 +317,10 @@
       "placeholder_new_pia": "Nuova PIA",
       "placeholder_new_structure": "Nuovo modello",
       "placeholder_pia_name": "Nome della PIA",
-      "placeholder_sector_name": "TO TRANSLATE - Associated sector's name",
+      "placeholder_sector_name": "Nome del settore associato",
       "placeholder_start": "Tutti i campi sono obbligatori",
       "placeholder_structure": "Modello di base",
-      "placeholder_structure_name": "TO TRANSLATE - Template's title",
+      "placeholder_structure_name": "Titolo del modello",
       "placeholder_validation": "Cognome, nome",
       "sector_name": "Settore collegato",
       "start": "Avvio",
@@ -335,18 +335,18 @@
       "author": "Autore",
       "card": "Mostra come schede",
       "card_rocket_content": "Inizia! Per impostare <br>una PIA, clicca sul +",
-      "card_rocket_content_structure": "TO BE TRANSLATED - Lancez-vous !<br><br>Pour commencer<br>un modèle, cliquez<br> sur le +",
+      "card_rocket_content_structure": "Inizia!<br><br>Per creare<br>un modello, fai click<br> sul simbolo +",
       "category": "Categoria",
       "date": "Data",
       "import_pia": "Importa PIA",
       "import_structure": "Importa un modello",
       "list": "Mostra come lista",
       "list_rocket_content": "Inizia! Per impostare <br>una PIA, clicca sul +",
-      "list_rocket_content_structure": "TO BE TRANSLATED - Lancez-vous ! Pour commencer<br>un modèle, cliquez sur le +",
+      "list_rocket_content_structure": "Inizia! Per creare<br>un modello, fai click<br> sul simbolo +",
       "name": "Nome",
       "new_pia": "Nuova PIA",
-      "new_structure": "TO BE TRANSLATED - Nouveau modèle",
-      "sector_name": "TO BE TRANSLATED - Secteur associé",
+      "new_structure": "Nuovo modello",
+      "sector_name": "Settore associato",
       "sort": "Ordina",
       "sort_by": "per",
       "status": "Stato",
@@ -360,10 +360,10 @@
       "column_evaluation": "Revisore",
       "column_pia": "PIA",
       "column_progression": "Avanzamento",
-      "column_sector_name": "TO TRANSLATE - Associated sector",
+      "column_sector_name": "Settore associato",
       "column_status": "Stato",
-      "column_structure": "TO TRANSLATE - Template",
-      "column_structure_name": "TO TRANSLATE - Template",
+      "column_structure": "Modello",
+      "column_structure_name": "Modello",
       "column_updated_at": "Cronologia",
       "column_validation": "Validatore",
       "item": {
@@ -382,7 +382,7 @@
     },
     "search_filter": "Cerca",
     "no_entries": {
-      "pia": "TO TRANSLATE - No PIA created and/or assigned",
+      "pia": "Non è stata creata e/o assegnata una PIA",
       "archive": "TO TRANSLATE - No PIA archive"
     }
   },
@@ -394,12 +394,12 @@
       "example": "Esempio",
       "general_measure": "Misure generali di sicurezza dei sistemi ",
       "measure_on_data": "Misure applicate ai dati ",
-      "method": "TO TRANSLATE - Methodology",
+      "method": "Metodologia",
       "organizational_measure": "Misure organizzative",
       "principle": "Principio"
     },
-    "choose_knowledge_base": "TO TRANSLATE - Choose your knowledge base",
-    "default_knowledge_base": "TO TRANSLATE - CNIL's knowledge base",
+    "choose_knowledge_base": "Scegli la tua base di conoscenza",
+    "default_knowledge_base": "Base di conoscenza del CNIL",
     "filters": {
       "all": "Tutti",
       "definitions": "Definizioni",
@@ -1008,10 +1008,10 @@
       "content": "C'è stato un errore e ci dispiace molto."
     },
     "import_wrong_pia_file": {
-      "content": "TO BE TRANSLATED - Le fichier importé ne correspond pas à un fichier de type PIA"
+      "content": "Il file importato non corrisponde a un file di tipo PIA"
     },
     "import_wrong_structure_file": {
-      "content": "TO BE TRANSLATED - Le fichier importé ne correspond pas à un fichier de type Modèle"
+      "content": "Il file importato non corrisponde a un file di tipo Modello"
     },
     "knowledge": {
       "content": "Sei sicura/o di voler cancellare questo elemento?",
@@ -1029,8 +1029,8 @@
     },
     "recover_version": {
       "continue": "Continua",
-      "message": "TO TRANSLATE - By continuing, you will restore this report version: {{date}}.<br><br>The current version will be saved.",
-      "title": "TO TRANSLATE - Restore a previous version"
+      "message": "Continuando, ripristinerai questa versione del report: {{date}}.<br><br>La versione corrente verrà salvata.",
+      "title": "Ripristina una versione precedente"
     },
     "refuse_pia": {
       "content": "<span class='strong'>PIA rigettata,</span><br>sono necessarie correzioni in più campi.<br>Torna alla modalità valutazione<br>per apportare le correzioni."
@@ -1051,13 +1051,13 @@
       "remove": "Cancella questa PIA"
     },
     "remove_question": {
-      "content": "TO BE TRANSLATED - Souhaitez-vous supprimer la question ?",
-      "keep": "TO BE TRANSLATED - Annuler",
-      "remove": "TO BE TRANSLATED - Supprimer"
+      "content": "Sei sicura/o di voler cancellare la domanda?",
+      "keep": "Annulla",
+      "remove": "Cancella"
     },
     "remove_structure": {
-      "content": "TO BE TRANSLATED - <span class='strong'>Attention,</span><br>Êtes-vous sûr de vouloir<br>supprimer ce modèle ?",
-      "remove": "TO BE TRANSLATED - Supprimer ce modèle"
+      "content": "<span class='strong'>Attenzione,</span><br>sei sicura/o di voler<br>cancellare questo modello?",
+      "remove": "Cancella questo modello"
     },
     "same_comment": {
       "content": "<span class='strong'>Attenzione,</span><br>Inserire un commento diverso dall'ultimo inserito."
@@ -1239,7 +1239,7 @@
       "preview": "Anteprima"
     },
     "sections": {
-      "based_on_structure_name": "TO BE TRANSLATED - Basé sur le modèle :",
+      "based_on_structure_name": "Basato sul modello:",
       "homepage_link": "Torna al pannello di controllo",
       "refuse_pia": "Rifiuta PIA",
       "status": {
@@ -1558,17 +1558,17 @@
       "title": "Piano d'azione"
     },
     "actions": {
-      "complete_download": "TO TRANSLATE - Download the full report",
+      "complete_download": "Scarica il report completo",
       "complete_download_desc": "TO TRANSLATE - Export in a .zip archive all the report content (.doc and pictures), attachments and the action plan in a .csv format.",
-      "individual_download": "TO TRANSLATE - Download elements of the report",
-      "individual_download_desc": "TO TRANSLATE - Export specific elements of the report.",
-      "individual_download_doc": "TO TRANSLATE - Texts (.doc)",
+      "individual_download": "Scarica elementi del report",
+      "individual_download_desc": "Esporta elementi specifici del report.",
+      "individual_download_doc": "Testi (.doc)",
       "individual_download_images": "TO TRANSLATE - Visual elements (.png) including the risk overview, the risk mapping and the action plan.",
       "individual_download_json": "TO TRANSLATE - Report to import into the PIA tool (.json file)",
-      "individual_download_select": "TO TRANSLATE - Select elements to export:",
-      "individual_to_download": "TO TRANSLATE - Download",
-      "print": "TO TRANSLATE - Print the report",
-      "print_and_download": "TO TRANSLATE - Print and download"
+      "individual_download_select": "Seleziona gli elementi da esportare:",
+      "individual_to_download": "Scarica",
+      "print": "Stampa il report",
+      "print_and_download": "Stampa e scarica"
     },
     "attachments": "Allegati",
     "concerned_people_name": "Nomi degli interessati",
@@ -1588,7 +1588,7 @@
     "csv_people_in_charge": "Persona responsabile",
     "csv_section": "Sezione",
     "csv_title_object": "Titolo",
-    "download_csv": "TO TRANSLATE - Action plan (.csv)",
+    "download_csv": "Piano di azione (.csv)",
     "dpo_name": "Nome del DPO/RPD",
     "dpo_opinion": "Parere del DPO/RPD",
     "dpo_status": "Posizione del DPO/RPD",
@@ -1606,21 +1606,21 @@
     "pia_name": "Nome della PIA",
     "pia_validator": "Nome validatore",
     "preview_dpo_opinion": "TO TRANSLATE - DPO and data subjects opinion",
-    "preview_edition": "TO TRANSLATE - Editing",
-    "preview_evaluation": "TO TRANSLATE - Evaluation",
+    "preview_edition": "Modifica",
+    "preview_evaluation": "Valutazione",
     "preview_no_data": "Nessun dato da mostrare.",
     "preview_status": "Stato",
     "preview_subtitle": "Informazioni generali",
     "preview_title": "Anteprima",
     "preview_validation": "Validazione",
     "preview_validation_section": "Validazione",
-    "preview_guests": "TO TRANSLATE - Guests",
+    "preview_guests": "Ospiti",
     "previous_page": "Torna alla pagina precedente",
     "rejection_reason": "Motivazione del rigetto",
     "revision": {
       "current_version": "Versione corrente",
       "pia_version": "Versioni della PIA",
-      "restore_version": "TO TRANSLATE - Restoren",
+      "restore_version": "Ripristina",
       "revision": "TO TRANSLATE - Versions and revision",
       "save": "Crea una nuova versione",
       "show": "Mostra le {{length}} versioni"
@@ -1644,15 +1644,15 @@
     "profile": "Profilo",
     "remove": "Elimina",
     "remove_current_user_error_message": "Non puoi cancellare il tuo account",
-    "remove_last_functional_admin_error_message": "TO TRANSLATE - You cannot delete this user because at least one Technical Administrator account must remain.",
-    "remove_user_with_linked_pias_error_message": "TO TRANSLATE - Several PIAs are attached to this user, so you cannot delete him.",
-    "technical_admin": "TO TRANSLATE - Technical administrator",
+    "remove_last_functional_admin_error_message": "Non puoi cancellare questo utente perché deve esserci almeno un account da Amministratore Tecnico.",
+    "remove_user_with_linked_pias_error_message": "Molte PIA sono collegate a questo utente, quindi non lo puoi cancellare.",
+    "technical_admin": "Amministratore Tecnico",
     "update": "Aggiorna",
     "user": "Utente",
-    "state": "TO TRANSLATE - Account's state",
+    "state": "Stato dell'account",
     "errors": {
       "edit_user": {
-        "406": "TO TRANSLATE - The information provided when creating the account is invalid."
+        "406": "Le informazioni fornite creando l'account non sono valide."
       }
     },
     "delete": {
@@ -1664,10 +1664,10 @@
       "true": "In attesa dell'attivazione"
     },
     "role": {
-      "label": "TO TRANSLATE - Role(s)",
+      "label": "Ruoli",
       "author": "Autore",
-      "evaluator": "TO TRANSLATE - Evaluator",
-      "validator": "TO TRANSLATE - Validator",
+      "evaluator": "Valutatore",
+      "validator": "Validatore",
       "guest": "Ospite"
     }
   },
