@@ -24,15 +24,15 @@
   },
   "authentication": {
     "12_characters": "12 caratteri",
-    "account_recovery": "TO TRANSLATE - Password recovery",
-    "activation_code": "TO TRANSLATE - Activation code",
-    "cancel": "TO TRANSLATE - Cancel",
-    "confirm": "TO TRANSLATE - Confirm",
-    "confirmation": "TO TRANSLATE - Confirmation",
-    "continue": "TO TRANSLATE - Continue",
-    "activate_account": "TO TRANSLATE - activate account",
-    "create_account": "TO TRANSLATE - Sign up",
-    "create_account2": "TO TRANSLATE - Create account",
+    "account_recovery": "Recupera password",
+    "activation_code": "Codice di attivazione",
+    "cancel": "Annulla",
+    "confirm": "Conferma",
+    "confirmation": "Conferma",
+    "continue": "Continua",
+    "activate_account": "Attiva account",
+    "create_account": "Registrati",
+    "create_account2": "Crea un account",
     "description": "Questo software creato dall'<strong>autorità francese per la protezione dei dati (CNIL)</strong> ha lo scopo di guidare i titolari del trattamento dei dati nell'adempimento degli obblighi del GDPR. Aiuta a svolgere correttamente una valutazione dell'impatto sulla protezione dei dati facilitando l'uso del metodo sviluppato dalla CNIL per affrontare la PIA",
     "email": "Email",
     "email_placeholder": "Email",
@@ -40,14 +40,14 @@
     "login": "Login",
     "lowercase": "Minuscolo",
     "password": "Password",
-    "password_security": "TO TRANSLATE - Password security",
-    "recovery_code": "TO TRANSLATE - Reset code",
-    "recovery_code_message": "TO TRANSLATE - An email containing a code has been sent to this email. Please enter the code in the field below.",
-    "recovery_code_not_sent": "TO TRANSLATE - Unreceived code?",
-    "saved_password": "TO TRANSLATE - Your password is saved. You can now sign in.",
-    "sign_in": "TO TRANSLATE - Sign in",
-    "sign_in_button": "TO TRANSLATE - Sign in",
-    "sign_out_button": "TO TRANSLATE - Sign out",
+    "password_security": "Sicurezza della password",
+    "recovery_code": "Resetta il codice",
+    "recovery_code_message": "Una email contenete un codice è stata inviata a questa email. Per favore inserisci il codice nel campo qui sotto.",
+    "recovery_code_not_sent": "Non hai ricevuto il codice?",
+    "saved_password": "La tua password è stata salvata. Ora puoi fare il login",
+    "sign_in": "Entra",
+    "sign_in_button": "Entra",
+    "sign_out_button": "Esci",
     "special_character": "Caratteri speciali (!@#$%^&*()?...)",
     "number": "Numero",
     "start": "Avvio",
@@ -57,9 +57,9 @@
     "title": "Valutazione d'impatto sulla protezione dei dati",
     "transaction_error": "Impossibile processare la tua richiesta",
     "uppercase": "Maiuscolo",
-    "wrong_activation_code": "TO TRANSLATE - (wrong)",
+    "wrong_activation_code": "(sbagliato)",
     "wrong_confirmation": "Le password non coincidono",
-    "wrong_email": "Email sbagliata",
+    "wrong_email": "Email errata",
     "errors": {
       "sign_in": {
         "400": "L'email o la password sono errate."
@@ -67,27 +67,27 @@
       "create_account": {
         "uuid": {
           "404": "Codice di attivazione sbagliato",
-          "403": "TO TRANSLATE - This account is already activated"
+          "403": "Questo account è stato già attivato"
         },
         "password": {
-          "404": "TO TRANSLATE - User not found",
-          "406": "TO TRANSLATE - The password does not meet the password policy requirements."
+          "404": "Utente non trovato",
+          "406": "La password non soddisfa i requisiti di sicurezza."
         }
       },
       "account_recovery": {
         "email": {
-          "404": "TO TRANSLATE - User not found",
-          "423": "TO TRANSLATE - Account locked"
+          "404": "Utente non trovato",
+          "423": "Account bloccato"
         },
         "uuid": {
-          "404": "TO TRANSLATE - Wrong recovery code"
+          "404": "Il codice di recupero è errato"
         },
         "password": {
-          "404": "TO TRANSLATE - User not found",
-          "406": "TO TRANSLATE - The password does not meet the password policy requirements."
+          "404": "Utente non trovato",
+          "406": "La password non soddisfa i requisiti di sicurezza."
         }
       },
-      "unauthorized": "TO TRANSLATE - You are not allowed to access this ressource."
+      "unauthorized": "Non sei autorizzato ad accedere a questa risorsa."
     }
   },
   "cartography": {
@@ -172,7 +172,7 @@
       "title": "Aiuto"
     },
     "homepage_link": "Le mie PIAs",
-    "knowledge_base_link": "Archivio",
+    "knowledge_base_link": "Basi di conoscenza",
     "languages": {
       "ar": "العربية",
       "bg": "български",
@@ -280,28 +280,28 @@
           "remove": "Elimina",
           "unarchive": "Togli dall'archivio"
         },
-        "validate_pia": "TO TRANSLATE - Validate"
+        "validate_pia": "Convalida"
       },
       "knowledges": {
-        "edit": "TO TRANSLATE - Edit the base",
-        "import": "TO TRANSLATE - Import a base",
-        "new": "TO TRANSLATE - Create a base",
-        "placeholder_author": "TO TRANSLATE - Author",
-        "placeholder_contributors": "TO TRANSLATE - Contributors",
-        "placeholder_entry_number": "TO TRANSLATE - Number of entries",
-        "placeholder_name": "TO TRANSLATE - Base's name"
+        "edit": "Modifica la base di conoscenza",
+        "import": "Importa una base di conoscenza",
+        "new": "Crea una base di conoscenza",
+        "placeholder_author": "Autore",
+        "placeholder_contributors": "Contributori",
+        "placeholder_entry_number": "Numero di elementi",
+        "placeholder_name": "Nome della base di conoscenza"
       },
       "knowledges_entry": {
-        "all_sections": "TO TRANSLATE - All sections",
+        "all_sections": "Tutte le sezioni",
         "choose_category": "Scegli una categoria",
-        "contents": "TO TRANSLATE - Contents",
-        "create": "TO TRANSLATE - Create this element",
-        "linked_to": "TO TRANSLATE - Linked to",
-        "new": "TO TRANSLATE - Create an element",
-        "placeholder_category": "TO TRANSLATE - Category",
-        "placeholder_description": "TO TRANSLATE - Your description here...",
-        "placeholder_name": "TO TRANSLATE - Element's name",
-        "placeholder_updated_at": "TO TRANSLATE - Last updated"
+        "contents": "Contenuti",
+        "create": "Crea questo elemento",
+        "linked_to": "Collegato a",
+        "new": "Crea un elemento",
+        "placeholder_category": "Categoria",
+        "placeholder_description": "Inserisci qui la tua descrizione...",
+        "placeholder_name": "Nome dell'elemento",
+        "placeholder_updated_at": "Ultimo aggiornamento"
       },
       "new_pia": "Nuova PIA",
       "new_structure": "Nuovo modello",
@@ -310,10 +310,10 @@
       "placeholder_author": "Cognome, nome",
       "placeholder_category": "Categoria",
       "placeholder_evaluation": "Cognome, nome",
-      "placeholder_import_knowledgeBase": "TO TRANSLATE - Import base",
+      "placeholder_import_knowledgeBase": "Importa una base di conoscenza",
       "placeholder_import_pia": "Importa PIA",
       "placeholder_import_structure": "Importa modello",
-      "placeholder_new_knowledgeBase": "TO TRANSLATE - New base",
+      "placeholder_new_knowledgeBase": "Crea una nuova base di conoscenza",
       "placeholder_new_pia": "Nuova PIA",
       "placeholder_new_structure": "Nuovo modello",
       "placeholder_pia_name": "Nome della PIA",
@@ -964,7 +964,7 @@
   "modals": {
     "abandon_pia": {
       "additional_text": "L'archiviazione non è definitiva; è possibile riprendere la PIA se necessario.",
-      "content": "Sei sicuro di voler <br>terminare il trattamento?"
+      "content": "Sei sicura/o di voler <br>terminare il trattamento?"
     },
     "action_plan_no_evaluation": {
       "content": "È necessario iniziare la valutazione dell'analisi per creare il piano di azione.",
@@ -973,7 +973,7 @@
     "archive": "Archivia",
     "archive_pia": {
       "archive": "Archivia PIA",
-      "content": "<span class='strong'>Attenzione,</span><br>Sei sicuro di voler<br>archiviare questa PIA ?"
+      "content": "<span class='strong'>Attenzione,</span><br>Sei sicura/o di voler<br>archiviare questa PIA ?"
     },
     "ask_for_evaluation": {
       "content": "<span class='strong'>Congratulazioni,</span><br>la sezione è <br>disponibile per la valutazione."
@@ -1014,12 +1014,12 @@
       "content": "TO BE TRANSLATED - Le fichier importé ne correspond pas à un fichier de type Modèle"
     },
     "knowledge": {
-      "content": "Sei sicuro di voler cancellare questo elemento?",
+      "content": "Sei sicura/o di voler cancellare questo elemento?",
       "remove": "Cancella questo elemento"
     },
     "knowledges": {
-      "content": "TO TRANSLATE - Are you sure you want to delete this knowledge base?",
-      "remove": "TO TRANSLATE - Delete this knowledge base"
+      "content": "Sei sicuro di voler cancellare questa base di conoscenza?",
+      "remove": "Cancella questa base di conoscenza"
     },
     "modal_select_text_pia": {
       "content": "I contenuti della PIA sono stati copiati negli appunti."
@@ -1033,21 +1033,21 @@
       "title": "TO TRANSLATE - Restore a previous version"
     },
     "refuse_pia": {
-      "content": "<span class='strong'>PIA rigettata,</span><br>Sono necessarie correzioni in più campi.<br>Torna alla modalità valutazione<br>per apportare le correzioni."
+      "content": "<span class='strong'>PIA rigettata,</span><br>sono necessarie correzioni in più campi.<br>Torna alla modalità valutazione<br>per apportare le correzioni."
     },
     "remove_attachment": {
       "comment": "Inserisci un commento",
-      "content": "<span class='strong'>Attenzione,</span><br>È sicuro di voler<br>cancellare questo allegato?",
+      "content": "<span class='strong'>Attenzione,</span><br>sei sicura/o di voler<br>cancellare questo allegato?",
       "keep": "Mantieni",
       "remove": "Cancella"
     },
     "remove_measure": {
-      "content": "<span class='strong'>Attenzione,</span><br>È sicuro di voler <br>cancellare questa misura?",
+      "content": "<span class='strong'>Attenzione,</span><br>sei sicura/o di voler <br>cancellare questa misura?",
       "keep": "Mantieni questa <br>misura",
       "remove": "Cancella questa <br>misura"
     },
     "remove_pia": {
-      "content": "<span class='strong'>Attenzione,</span><br>Sei sicuro di voler<br>cancellare definitivamente questa PIA?",
+      "content": "<span class='strong'>Attenzione,</span><br>sei sicura/o di voler<br>cancellare definitivamente questa PIA?",
       "remove": "Cancella questa PIA"
     },
     "remove_question": {
@@ -1071,7 +1071,7 @@
     },
     "start_evaluation": "Inizia valutazione",
     "unarchive_pia": {
-      "content": "<span class='strong'>Attenzione,</span><br>Sei sicuro di voler togliere<br>dall'archivio questa PIA ?",
+      "content": "<span class='strong'>Attenzione,</span><br>sei sicura/o di voler togliere<br>dall'archivio questa PIA ?",
       "unarchive": "Togli dall'archivio questa PIA"
     },
     "update_server_url_nok": {
@@ -1088,17 +1088,17 @@
     },
     "users": {
       "delete": {
-        "content": "TO TRANSLATE - <span class='strong'>Warning,</span><br>Are you sure you want to<br>delete this user ?",
-        "confirm": "TO TRANSLATE - Delete this user",
-        "pia_exist": "TO TRANSLATE - This user is assigned to one or more PIAs, you will need to re-assign users on them."
+        "content": "<span class='strong'>Attenzione,</span><br>sei sicura/o di voler<br>cancellare questo utente?",
+        "confirm": "Cancella questo utente",
+        "pia_exist": "Questo utente è assegnato a una o più PIA, dovrai ri-assegnare gli utenti su queste."
       }
     }
   },
   "onboarding": {
     "dashboard": {
       "step1": {
-        "description": "TO TRANSLATE - Click on the <strong>+</strong> to create your first PIA.",
-        "title": "TO TRANSLATE - Create a PIA"
+        "description": "Fai click sul simbolo <strong>+</strong> per creare la tua prima PIA.",
+        "title": "Crea una PIA"
       },
       "step2": {
         "description": "TO TRANSLATE - <p><strong>Editors</strong> write the first version of the analysis.</p><p>They are, for example, the project managers associated with the data processing.</p>",
@@ -1119,8 +1119,8 @@
     },
     "entry": {
       "step1": {
-        "description": "TO TRANSLATE - To move from one part of the analysis to another, use the left navigation menu.",
-        "title": "TO TRANSLATE - Browse"
+        "description": "Per spostarti da una parte all'altra dell'analisi, usa il menù di navigazione a sinistra.",
+        "title": "Naviga"
       },
       "step2": {
         "description": "TO TRANSLATE - This is used to explain the purpose of the processing and how it will be implemented.",
@@ -1139,12 +1139,12 @@
         "title": "TO TRANSLATE - Validation"
       },
       "step6": {
-        "description": "TO TRANSLATE - <p>It provides contextual assistance in carrying out the analysis and is based on the GDPR, the security guide and the CNIL's PIA guides</p><p>In addition to these contents, you can also create your own knowledge bases to easily access information specific to your organization.</p>",
-        "title": "TO TRANSLATE - The knowledge base"
+        "description": "<p>Fornisce assestenza contestuale nello svolgere l'analisi ed è basato sul GDPR, la guida sulla sicurezza e le guide per il PIA del CNIL</p><p>Oltre a questi contenuti, puoi anche creare la tua base di conoscenza per semplificare l'accesso alle informazioni specifiche della tua organizzazione.</p>",
+        "title": "La base di conoscenza"
       },
       "step7": {
-        "description": "TO TRANSLATE - At any time during the analysis, you can download the analysis in various formats to share it with your colleagues.",
-        "title": "TO TRANSLATE - Export your PIA"
+        "description": "In qualunque momento durante l'analisi, puoi scaricarla in vari formati per condividerla con i tuoi colleghi.",
+        "title": "Esporta la tua PIA"
       }
     },
     "evaluation": {
@@ -1170,9 +1170,9 @@
       }
     },
     "general": {
-      "done": "TO TRANSLATE - Confirm",
-      "next": "TO TRANSLATE - Next",
-      "skip": "TO TRANSLATE - Skip"
+      "done": "Conferma",
+      "next": "Avanti",
+      "skip": "Salta"
     },
     "validated": {
       "step1": {
@@ -1657,7 +1657,7 @@
     },
     "delete": {
       "confirm": "Rimuovi utente",
-      "content": "Sei sicuro di voler cancellare questo utente?"
+      "content": "Sei sicura/o di voler cancellare questo utente?"
     },
     "access_locked": {
       "false": "Attivo",
@@ -1665,7 +1665,7 @@
     },
     "role": {
       "label": "TO TRANSLATE - Role(s)",
-      "author": "TO TRANSLATE - Author",
+      "author": "Autore",
       "evaluator": "TO TRANSLATE - Evaluator",
       "validator": "TO TRANSLATE - Validator",
       "guest": "Ospite"
