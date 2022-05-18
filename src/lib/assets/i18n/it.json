@@ -383,7 +383,7 @@
     "search_filter": "Cerca",
     "no_entries": {
       "pia": "Non è stata creata e/o assegnata una PIA",
-      "archive": "TO TRANSLATE - No PIA archive"
+      "archive": "Nessun archivio PIA"
     }
   },
   "knowledge_base": {
@@ -1113,8 +1113,8 @@
         "title": "TO TRANSLATE - PIA's roles"
       },
       "step5": {
-        "description": "TO TRANSLATE - <p><strong>Templates</strong> are an advanced feature. They are used to create a pre-filled basis for the analysis.</p><p>You can create templates by going to the associated section accessible from the top menu.</p>",
-        "title": "TO TRANSLATE - Templates"
+        "description": "<p>I <strong>iodelli</strong> sono una funzionalità avanzata. Sono usati per creare basi pre-compilate per l'analisi.</p><p>Puoi creare i modelli nella sezione dedicata accessibile dal menù in alto.</p>",
+        "title": "Modelli"
       }
     },
     "entry": {
@@ -1123,20 +1123,20 @@
         "title": "Naviga"
       },
       "step2": {
-        "description": "TO TRANSLATE - This is used to explain the purpose of the processing and how it will be implemented.",
-        "title": "TO TRANSLATE - Context"
+        "description": "Questo è usato per spiegare lo scopo del trattamento e come sarà attuato.",
+        "title": "Contesto"
       },
       "step3": {
-        "description": "TO TRANSLATE - These aim to ensure that the processing complies with the GDPR.",
-        "title": "TO TRANSLATE - Fundamental principles"
+        "description": "Questi mirano ad assicurare che il trattamento sia conforme al GDPR.",
+        "title": "Principi fondamentali"
       },
       "step4": {
         "description": "TO TRANSLATE - These describe the security measures already planned for the processing operation and make it possible to assess its potential impact on the data subjects.",
-        "title": "TO TRANSLATE - Risks"
+        "title": "Rischi"
       },
       "step5": {
         "description": "TO TRANSLATE - This allows the DPO to express her opinion on the implementation of the processing and the controller to accept or refuse it.",
-        "title": "TO TRANSLATE - Validation"
+        "title": "Validazione"
       },
       "step6": {
         "description": "<p>Fornisce assestenza contestuale nello svolgere l'analisi ed è basato sul GDPR, la guida sulla sicurezza e le guide per il PIA del CNIL</p><p>Oltre a questi contenuti, puoi anche creare la tua base di conoscenza per semplificare l'accesso alle informazioni specifiche della tua organizzazione.</p>",
@@ -1149,24 +1149,24 @@
     },
     "evaluation": {
       "step1": {
-        "description": "TO TRANSLATE - The evaluation can take an entire section into account, or at the level of each element of a section.",
-        "title": "TO TRANSLATE - Evaluate the PIA"
+        "description": "La valutazione può riguardare una intera sezione o può essere fatta per ciascun elemento della sezione.",
+        "title": "Valuta la PIA"
       },
       "step2": {
         "description": "TO TRANSLATE - <p>This evaluation indicates to the editors that elements are missing in order to make a relevant assessment.</p><p>The assessor must indicate these in the associated <strong>evaluation comment</strong> field. The editor will make the necessary corrections.</p>",
-        "title": "TO TRANSLATE - To correct"
+        "title": "Da correggere"
       },
       "step3": {
         "description": "TO TRANSLATE - <p>This assessment indicates the processing elements to be revised. They are detailed in the <strong>action plan / corrective action</strong> field.</p><p>These measures will be automatically added to the action plan part of the analysis. It is necessary to implement them as soon as possible.</p>",
-        "title": "TO TRANSLATE - Improvable"
+        "title": "Migliorabile"
       },
       "step4": {
-        "description": "TO TRANSLATE - This assessment means that this part of the processing can be implemented without modification.",
-        "title": "TO TRANSLATE - Acceptable"
+        "description": "Questa valutazione significa che questa parte del trattamento può essere attuata senza modificazioni.",
+        "title": "Accettabile"
       },
       "step5": {
         "description": "TO TRANSLATE - If the assessment of a section has not yet begun, the request forassessment may be cancelled to make changes to the processing description.",
-        "title": "TO TRANSLATE - Cancel a request"
+        "title": "Annulla una richiesta"
       }
     },
     "general": {
@@ -1176,12 +1176,12 @@
     },
     "validated": {
       "step1": {
-        "description": "TO TRANSLATE - A complete and validated analysis can be consulted at any time via a dedicated interface.",
-        "title": "TO TRANSLATE - Consult a validated PIA"
+        "description": "Un'analisi completa e validata può essere consultata in qualsiasi momento attraverso una interfaccia dedicata.",
+        "title": "Consulta una PIA validata"
       },
       "step2": {
-        "description": "TO TRANSLATE - It is necessary to review regularly an analysis. You can edit or duplicate it at any time to review its content according to the processing evolution.",
-        "title": "TO TRANSLATE - Update a validated PIA"
+        "description": "È necessario revisionare regolarmente un'analisi. Puoi modificarla o doplicarla in qualsiasi momento per revisionare il contenuto in accordo con le evoluzioni del trattamento.",
+        "title": "Aggiorna una PIA validata"
       }
     }
   },
@@ -1559,12 +1559,12 @@
     },
     "actions": {
       "complete_download": "Scarica il report completo",
-      "complete_download_desc": "TO TRANSLATE - Export in a .zip archive all the report content (.doc and pictures), attachments and the action plan in a .csv format.",
+      "complete_download_desc": "Esporta un archivio .zip tutti i report (.doc e immagini), allegati e piano d'azione in formato .csv.",
       "individual_download": "Scarica elementi del report",
       "individual_download_desc": "Esporta elementi specifici del report.",
       "individual_download_doc": "Testi (.doc)",
-      "individual_download_images": "TO TRANSLATE - Visual elements (.png) including the risk overview, the risk mapping and the action plan.",
-      "individual_download_json": "TO TRANSLATE - Report to import into the PIA tool (.json file)",
+      "individual_download_images": "Elementi grafici (.png) che includono la panoramica del rischio, la mappatura del rischio e il piano di azione.",
+      "individual_download_json": "Report nel formato di file importabile nell'applicazione PIA (per esempio installata nel PC di un collega) (.json file)",
       "individual_download_select": "Seleziona gli elementi da esportare:",
       "individual_to_download": "Scarica",
       "print": "Stampa il report",
@@ -1605,7 +1605,7 @@
     "pia_author": "Nome autore",
     "pia_name": "Nome della PIA",
     "pia_validator": "Nome validatore",
-    "preview_dpo_opinion": "TO TRANSLATE - DPO and data subjects opinion",
+    "preview_dpo_opinion": "Opinioni del DPO/RPD e degli interessati",
     "preview_edition": "Modifica",
     "preview_evaluation": "Valutazione",
     "preview_no_data": "Nessun dato da mostrare.",
@@ -1621,11 +1621,11 @@
       "current_version": "Versione corrente",
       "pia_version": "Versioni della PIA",
       "restore_version": "Ripristina",
-      "revision": "TO TRANSLATE - Versions and revision",
+      "revision": "Versioni e revisioni",
       "save": "Crea una nuova versione",
       "show": "Mostra le {{length}} versioni"
     },
-    "risks_cartography_title": "Mappaggio dei rischi",
+    "risks_cartography_title": "Mappatura dei rischi",
     "risks_overview_title": "Panoramica dei rischi",
     "title": "Informazioni sulla PIA"
   },
