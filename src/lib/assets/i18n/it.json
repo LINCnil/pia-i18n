@@ -1153,7 +1153,7 @@
         "title": "Valuta la PIA"
       },
       "step2": {
-        "description": "TO TRANSLATE - <p>This evaluation indicates to the editors that elements are missing in order to make a relevant assessment.</p><p>The assessor must indicate these in the associated <strong>evaluation comment</strong> field. The editor will make the necessary corrections.</p>",
+        "description": "<p>Questa valutazione indica agli editori che mancano elementi per effettuare una valutazione pertinente.</p><p>Il valutatore deve indicarli nel campo associato <strong>commento di valutazione</strong>. L'editor farà le correzioni necessarie.</p>",
         "title": "Da correggere"
       },
       "step3": {
