@@ -1101,16 +1101,16 @@
         "title": "Crea una PIA"
       },
       "step2": {
-        "description": "TO TRANSLATE - <p><strong>Editors</strong> write the first version of the analysis.</p><p>They are, for example, the project managers associated with the data processing.</p>",
-        "title": "TO TRANSLATE - PIA's roles"
+        "description": "<p>Gli <strong>editori</strong> scrivono la prima versione dell'analisi.</p><p>Sono, per esempio, i project managers associati al trattamento dei dati.</p>",
+        "title": "Ruoli nella PIA"
       },
       "step3": {
-        "description": "TO TRANSLATE - <p><strong>Reviewers</strong> are involved in a second phase.</p><p>They use their legal or technical expertise to check the quality and compliance of the processing.</p><p>They are, for example, DPO, legal experts, ...</p>",
-        "title": "TO TRANSLATE - PIA's roles"
+        "description": "<p>I <strong>revisori</strong> Sono coinvolti nella seconda fase.</p><p>Usano la loro esperienza legale o tecnica con verificare la qualità e l'adeguatezza del trattamento.</p><p>Sono, per esempio, il DPO/RPD, esperti legali, ...</p>",
+        "title": "Ruoli nella PIA"
       },
       "step4": {
-        "description": "TO TRANSLATE - <p>The <strong>validator</strong> accepts or rejects the implementation of the processing. He must sign the analysis.</p><p>He is the controller, e.g. the CEO.</p>",
-        "title": "TO TRANSLATE - PIA's roles"
+        "description": "<p>Il <strong>validatore</strong> accetta o rifiuta l'attuazione del trattamento. Deve firmare l'analisi.</p><p>È il controllore, per esempio, il CEO.</p>",
+        "title": "Ruoli nella PIA"
       },
       "step5": {
         "description": "<p>I <strong>iodelli</strong> sono una funzionalità avanzata. Sono usati per creare basi pre-compilate per l'analisi.</p><p>Puoi creare i modelli nella sezione dedicata accessibile dal menù in alto.</p>",
@@ -1131,11 +1131,11 @@
         "title": "Principi fondamentali"
       },
       "step4": {
-        "description": "TO TRANSLATE - These describe the security measures already planned for the processing operation and make it possible to assess its potential impact on the data subjects.",
+        "description": "Questo descrive le misure di sicurezza già pianificate per le operazioni del trattamento e rende possibile valutare il potenziale impatto sugli interessati del trattamento.",
         "title": "Rischi"
       },
       "step5": {
-        "description": "TO TRANSLATE - This allows the DPO to express her opinion on the implementation of the processing and the controller to accept or refuse it.",
+        "description": "Questo permette al DPO/RPD di esprimere la sua opinione riguardo l'attuazione del trattamento e permette al controllore di accettare o rifiutare.",
         "title": "Validazione"
       },
       "step6": {
@@ -1165,7 +1165,7 @@
         "title": "Accettabile"
       },
       "step5": {
-        "description": "TO TRANSLATE - If the assessment of a section has not yet begun, the request forassessment may be cancelled to make changes to the processing description.",
+        "description": "Se la valutazione di una sezione non è ancora iniziata, la richiesta può essere annullata per fare cambiamenti alla descrizione del trattamento.",
         "title": "Annulla una richiesta"
       }
     },
@@ -1638,7 +1638,7 @@
     "edit_user": "Modifica un utente",
     "email": "Email",
     "first_name": "Nome",
-    "functional_admin": "TO TRANSLATE - Functional administrator",
+    "functional_admin": "Amministratore Funzionale",
     "last_name": "Cognome",
     "new_user_button": "Nuovo utente",
     "profile": "Profilo",
