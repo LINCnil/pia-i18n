@@ -1157,7 +1157,7 @@
         "title": "Da correggere"
       },
       "step3": {
-        "description": "TO TRANSLATE - <p>This assessment indicates the processing elements to be revised. They are detailed in the <strong>action plan / corrective action</strong> field.</p><p>These measures will be automatically added to the action plan part of the analysis. It is necessary to implement them as soon as possible.</p>",
+        "description": "<p>Questa valutazione indica gli elementi del trattamento da rivedere. Sono dettagliati nel campo del <strong>piano d'azione/azione correttiva</strong>.</p><p>Queste misure verranno automaticamente aggiunte alla parte Piano d'azione dell'analisi. È necessario implementarli il prima possibile.</p>",
         "title": "Migliorabile"
       },
       "step4": {
