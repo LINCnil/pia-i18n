@@ -151,7 +151,7 @@
     "placeholder_acceptable": "Inserite i vostri commenti per spiegare in che modo le misure implementate siano sufficienti a far fronte alle esigenze di protezione dei dati",
     "placeholder_improvable1": "Inserite i vostri commenti per spiegare quali misure ulteriori devono essere aggiunte per migliorare la protezione dei dati oggetto di trattamento.",
     "placeholder_improvable2": "Inserire i commenti",
-    "placeholder_to_correct": "Inserite i vostri commenti per spiegare perchè le informazioni fornite non sono sufficienti ai fini della loro valutazione. Questa parte sarà riproposta per modifica al fine di integrare la presentazione iniziale",
+    "placeholder_to_correct": "Inserite i vostri commenti per spiegare perché le informazioni fornite non sono sufficienti ai fini della loro valutazione. Questa parte sarà riproposta per modifica al fine di integrare la presentazione iniziale",
     "status": [
       "In sospeso",
       "Da correggere",
@@ -388,7 +388,7 @@
   },
   "knowledge_base": {
     "add_measure": "Aggiungi",
-    "add_measure_hint": "È possibile aggiungere anche una  misura dall'archivio.",
+    "add_measure_hint": "È possibile aggiungere anche una misura dall'archivio.",
     "category": {
       "definition": "Definizione",
       "example": "Esempio",
