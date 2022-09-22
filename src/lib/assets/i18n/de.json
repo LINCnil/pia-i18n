@@ -112,6 +112,14 @@
     "placeholder_new_comment": "Hinterlassen Sie einen Kommentar",
     "send": "Senden"
   },
+  "conflict": {
+    "keep_initial": "TO TRANSLATE - Keep initial content",
+    "keep_new": "TO TRANSLATE - Update with new content",
+    "initial_content": "TO TRANSLATE - Initial content",
+    "merge": "TO TRANSLATE - Merge both contents",
+    "new_content": "TO TRANSLATE - New content",
+    "title": "TO TRANSLATE - Conflict detected"
+  },
   "date": {
     "april": "April",
     "august": "August",
@@ -1110,7 +1118,7 @@
       },
       "step4": {
         "description": "<p>Der/Die <strong>Gutachter*in</strong> nimmt die Durchführung der Verarbeitung an oder lehnt sie ab. Er muss die Analyse unterschreiben.</p><p>Er ist der für die Verarbeitung Verantwortliche, z.B. der Geschäftsleitung.</p>",
-        "title": "DSFA Rollen" 
+        "title": "DSFA Rollen"
       },
       "step5": {
         "description": "<p><strong>Vorlagen</strong> sind eine erweiterte Funktion. Sie werden verwendet, um eine vorausgefüllte Basis für die Analyse zu erstellen.</p><p>Sie können Vorlagen erstellen, indem Sie auf den entsprechenden Abschnitt im oberen Menü zugreifen.</p>",

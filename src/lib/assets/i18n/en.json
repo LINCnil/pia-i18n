@@ -112,6 +112,14 @@
     "placeholder_new_comment": "Leave a comment",
     "send": "Send"
   },
+  "conflict": {
+    "keep_initial": "Keep initial content",
+    "keep_new": "Update with new content",
+    "initial_content": "Initial content",
+    "merge": "Merge both contents",
+    "new_content": "New content",
+    "title": "Conflict detected"
+  },
   "date": {
     "april": "April",
     "august": "August",

@@ -112,6 +112,14 @@
     "placeholder_new_comment": "Αφήστε ένα σχόλιο",
     "send": "Αποστολή"
   },
+  "conflict": {
+    "keep_initial": "TO TRANSLATE - Keep initial content",
+    "keep_new": "TO TRANSLATE - Update with new content",
+    "initial_content": "TO TRANSLATE - Initial content",
+    "merge": "TO TRANSLATE - Merge both contents",
+    "new_content": "TO TRANSLATE - New content",
+    "title": "TO TRANSLATE - Conflict detected"
+  },
   "date": {
     "april": "TO TRANSLATE - April",
     "august": "TO TRANSLATE - August",
