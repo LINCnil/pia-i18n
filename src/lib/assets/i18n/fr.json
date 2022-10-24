@@ -107,6 +107,7 @@
   },
   "comments": {
     "comment": "Commentaire",
+    "written_by": "Ecrit par",
     "comments_count": "commentaire(s)",
     "new_comment": "Commenter",
     "placeholder_new_comment": "Laissez un commentaire",
