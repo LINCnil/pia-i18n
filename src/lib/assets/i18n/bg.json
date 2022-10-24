@@ -107,6 +107,7 @@
   },
   "comments": {
     "comment": "Коментар",
+    "written_by": "TO TRANSLATE - Written by",
     "comments_count": "коментар(и)",
     "new_comment": "Коментар",
     "placeholder_new_comment": "Направете коментар",

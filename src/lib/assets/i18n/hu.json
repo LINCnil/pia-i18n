@@ -107,6 +107,7 @@
   },
   "comments": {
     "comment": "Megjegyzés",
+    "written_by": "TO TRANSLATE - Written by",
     "comments_count": "Megjegyzés(ek)",
     "new_comment": "Megjegyzés",
     "placeholder_new_comment": "Tegyen megjegyzést",

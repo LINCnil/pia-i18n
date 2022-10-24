@@ -107,6 +107,7 @@
   },
   "comments": {
     "comment": "Kommentar",
+    "written_by": "TO TRANSLATE - Written by",
     "comments_count": "Kommentarer (antal)",
     "new_comment": "Kommentarer",
     "placeholder_new_comment": "Skriv en kommentar",

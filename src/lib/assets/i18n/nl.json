@@ -107,6 +107,7 @@
   },
   "comments": {
     "comment": "Commentaar",
+    "written_by": "TO TRANSLATE - Written by",
     "comments_count": "reactie(s)",
     "new_comment": "Commentaar",
     "placeholder_new_comment": "Laat een reactie achter",

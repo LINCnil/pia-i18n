@@ -107,6 +107,7 @@
   },
   "comments": {
     "comment": "Kommentaar",
+    "written_by": "TO TRANSLATE - Written by",
     "comments_count": "kommentaari",
     "new_comment": "Kommentaar",
     "placeholder_new_comment": "Sisesta kommentaar",
