@@ -107,6 +107,7 @@
   },
   "comments": {
     "comment": "Komentaras",
+    "written_by": "TO TRANSLATE - Written by",
     "comments_count": "Komentaras(-ai)",
     "new_comment": "Komentuoti",
     "placeholder_new_comment": "Palikti komentarą",

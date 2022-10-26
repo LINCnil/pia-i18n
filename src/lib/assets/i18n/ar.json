@@ -107,6 +107,7 @@
   },
   "comments": {
     "comment": "تعليق",
+    "written_by": "TO TRANSLATE - Written by",
     "comments_count": "التعليق(ات)",
     "new_comment": "القيام بالتعليق",
     "placeholder_new_comment": " الإدلاء بتعليق",

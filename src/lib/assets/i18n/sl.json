@@ -107,6 +107,7 @@
   },
   "comments": {
     "comment": "Komentar",
+    "written_by": "TO TRANSLATE - Written by",
     "comments_count": "komentar(a)",
     "new_comment": "Komentar",
     "placeholder_new_comment": "Ostavi komentar",
