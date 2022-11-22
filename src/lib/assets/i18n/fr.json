@@ -87,7 +87,8 @@
           "406": "Le mot de passe ne respecte pas les exigences de sécurité nécessaires."
         }
       },
-      "unauthorized": "Vous n'avez pas l'autorisation d'accéder à cette ressource."
+      "unauthorized": "Vous n'avez pas l'autorisation d'accéder à cette ressource.",
+      "incompatibility": "Incompatibilité de version entre le serveur (pia-back) et l'application (pia). Veuillez contacter votre service informatique."
     }
   },
   "cartography": {

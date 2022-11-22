@@ -87,7 +87,8 @@
           "406": "A senha não satisfaz os requesitos necessários."
         }
       },
-      "unauthorized": "Você não tem permissão para acessar esse recurso."
+      "unauthorized": "Você não tem permissão para acessar esse recurso.",
+      "incompatibility": "TO TRANSLATE - Version incompatibility between your server (pia-back) and your application (pia). Please contact your IT department."
     }
   },
   "cartography": {
