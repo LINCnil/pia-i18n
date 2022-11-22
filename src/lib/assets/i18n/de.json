@@ -87,7 +87,8 @@
           "406": "Das Kennwort entspricht nicht den Anforderungen der Kennwortrichtlinie."
         }
       },
-      "unauthorized": "Der Zugriff auf diese Ressource ist Ihnen nicht gestattet."
+      "unauthorized": "Der Zugriff auf diese Ressource ist Ihnen nicht gestattet.",
+      "incompatibility": "TO TRANSLATE - Version incompatibility between your server (pia-back) and your application (pia). Please contact your IT department."
     }
   },
   "cartography": {

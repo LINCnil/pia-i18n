@@ -87,7 +87,8 @@
           "406": "La password non soddisfa i requisiti di sicurezza."
         }
       },
-      "unauthorized": "Non sei autorizzato ad accedere a questa risorsa."
+      "unauthorized": "Non sei autorizzato ad accedere a questa risorsa.",
+      "incompatibility": "TO TRANSLATE - Version incompatibility between your server (pia-back) and your application (pia). Please contact your IT department."
     }
   },
   "cartography": {

@@ -87,7 +87,8 @@
           "406": "The password does not meet the password policy requirements."
         }
       },
-      "unauthorized": "You are not allowed to access this ressource."
+      "unauthorized": "You are not allowed to access this ressource.",
+      "incompatibility": "Version incompatibility between your server (pia-back) and your application (pia). Please contact your IT department."
     }
   },
   "cartography": {
