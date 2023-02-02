@@ -1572,6 +1572,7 @@
       "complete_download_desc": "Exporar a un archivo .zip todo el contenido del informe (.doc e imágenes), adjuntos y el plan de acción en formato .csv.",
       "individual_download": "Descarga elementos del informe",
       "individual_download_desc": "Exporta elementos específicos del informe.",
+      "individual_download_pdf": "TO TRANSLATE - PIA report (.pdf)",
       "individual_download_doc": "Textos (.doc)",
       "individual_download_images": "Elementos visuales (.png) incluyendo resumen de riesgos, mapa de riesgos y plan de acción.",
       "individual_download_json": "Informe para importar en la herramienta PIA (fichero .json)",

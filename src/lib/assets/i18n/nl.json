@@ -1572,6 +1572,7 @@
       "complete_download_desc": "Exporteer in een .zip-archief de volledige inhoud van het verslag (.doc en afbeeldingen), de bijlagen en het actieplan in .csv-formaat.",
       "individual_download": "Alle elementen van het verslag downloaden",
       "individual_download_desc": "Bepaalde elementen van het verslag exporteren.",
+      "individual_download_pdf": "TO TRANSLATE - PIA report (.pdf)",
       "individual_download_doc": "Teksten (.doc)",
       "individual_download_images": "Visuele elementen (.png) waaronder het risico-overzicht, de risico-mapping en het actieplan.",
       "individual_download_json": "Rapport om in de PIA tool te importeren (.json)",

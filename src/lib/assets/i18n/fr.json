@@ -1572,6 +1572,7 @@
       "complete_download_desc": "Exporte dans une archive .zip les contenus de l'analyse (.doc et images), les pièces-jointes associées et le plan d'action au format .csv.",
       "individual_download": "Téléchargement",
       "individual_download_desc": "Exporte des éléments spécifiques de l'analyse.",
+      "individual_download_pdf": "Rapport PIA (.pdf)",
       "individual_download_doc": "Contenus textuels (fichier .doc)",
       "individual_download_images": "Éléments visuels (fichiers .png) : vue d'ensemble des risques, cartographie des risques, plan d'action",
       "individual_download_json": "Analyse à importer dans l'outil PIA (fichier.json)",
