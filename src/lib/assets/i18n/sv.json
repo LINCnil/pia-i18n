@@ -1572,6 +1572,7 @@
       "complete_download_desc": "Exportera allt rapportinnehåll (.doc och bilder) i ett .zip-arkiv, bilagor och handlingsplanen i ett .csv-format.",
       "individual_download": "Ladda ner delar av rapporten",
       "individual_download_desc": "Exportera specifika delar av rapporten.",
+      "individual_download_pdf": "TO TRANSLATE - PIA report (.pdf)",
       "individual_download_doc": "Texter (.doc)",
       "individual_download_images": "Grafiska element (.png) inklusive risköversikt, kartläggning av risker och handlingsplan.",
       "individual_download_json": "TO TRANSLATE - Report to import into the PIA tool (.json file)",

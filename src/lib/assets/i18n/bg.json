@@ -1572,6 +1572,7 @@
       "complete_download_desc": "Експортирайте в .zip архив цялото съдържание на доклада (.doc и изображения), прикачените обекти и плана за действие в .csv формат.",
       "individual_download": "Изтеглете елементите на доклада",
       "individual_download_desc": "Експортирайте специфични елементи от доклада.",
+      "individual_download_pdf": "TO TRANSLATE - PIA report (.pdf)",
       "individual_download_doc": "Текстове (.doc)",
       "individual_download_images": "Визуални елементи (.png) включително прегледа на риска, картографирането на риска и плана за действие.",
       "individual_download_json": "Импортирайте доклада в инструмента за ОВЗД (.json файл)",
