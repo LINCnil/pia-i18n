@@ -154,8 +154,8 @@
       "2": "Limitata",
       "3": "Importante",
       "4": "Massima",
-      "likelihood": "Alla luce del piano d'azione, come valutate la <span class='red-highlight'>probabilità di questo rischio</span> ({{value}})?",
-      "seriousness": "Alla luce del piano d'azione, come valutate la <span class='red-highlight'>gravità di questo rischio</span> ({{value}})?"
+      "likelihood": "Alla luce del piano d'azione, come valutate la <span class='red-highlight'>probabilità di questo rischio</span>?",
+      "seriousness": "Alla luce del piano d'azione, come valutate la <span class='red-highlight'>gravità di questo rischio</span>?"
     },
     "improvable": "Migliorabile",
     "placeholder_acceptable": "Inserite i vostri commenti per spiegare in che modo le misure implementate siano sufficienti a far fronte alle esigenze di protezione dei dati",

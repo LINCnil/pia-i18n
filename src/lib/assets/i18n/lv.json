@@ -154,8 +154,8 @@
       "2": "Ierobežots",
       "3": "Būtisks",
       "4": "Maksimāls",
-      "likelihood": "Ņemot vērā rīcības plānu, kā jūs atkārtoti novērtējat <span class='red-highlight'>šī riska iespējamību</span> ({{value}})?",
-      "seriousness": "Ņemot vērā rīcības plānu, kā jūs atkārtoti novērtējat <span class='red-highlight'>šī riska nopietnību</span> ({{value}})?"
+      "likelihood": "Ņemot vērā rīcības plānu, kā jūs atkārtoti novērtējat <span class='red-highlight'>šī riska iespējamību</span>?",
+      "seriousness": "Ņemot vērā rīcības plānu, kā jūs atkārtoti novērtējat <span class='red-highlight'>šī riska nopietnību</span>?"
     },
     "improvable": "Uzlabojams",
     "placeholder_acceptable": "Saskaņā ar pieejamo informāciju īstenotie pasākumi ir atbilstoši, lai pienācīgi atbilstu datu aizsardzības prasībām.",

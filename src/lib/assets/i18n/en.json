@@ -154,8 +154,8 @@
       "2": "Limited",
       "3": "Important",
       "4": "Maximum",
-      "likelihood": "Taking into account the action plan, how do you re-evaluate the <span class='red-highlight'>likelihood of this risk</span> ({{value}})?",
-      "seriousness": "Taking into account the action plan, how do you re-evaluate the <span class='red-highlight'>seriousness of this risk</span> ({{value}})?"
+      "likelihood": "Taking into account the action plan, how do you re-evaluate the <span class='red-highlight'>likelihood of this risk</span>?",
+      "seriousness": "Taking into account the action plan, how do you re-evaluate the <span class='red-highlight'>seriousness of this risk</span>?"
     },
     "improvable": "Improvable",
     "placeholder_acceptable": "According to the available information, the measures implemented are adequate to properly meet the requirements for protecting the data.",

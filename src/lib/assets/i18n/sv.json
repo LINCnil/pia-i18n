@@ -154,8 +154,8 @@
       "2": "Begränsad",
       "3": "Allvarlig",
       "4": "Maximal",
-      "likelihood": "Med hänsyn tagen till att åtgärdsplanen följts, hur bedömer du <span class = 'red-highlight'>sannolikheten för att den resterande risken inträffar</span> ({{value}}) ?",
-      "seriousness": "Med hänsyn tagen till att åtgärdsplanen följts, hur bedömer du <span class = 'red-highlight'> allvarlighetsgraden för den resterande risken  </span> ({{value}}) ?"
+      "likelihood": "Med hänsyn tagen till att åtgärdsplanen följts, hur bedömer du <span class='red-highlight'>sannolikheten för att den resterande risken inträffar</span> ?",
+      "seriousness": "Med hänsyn tagen till att åtgärdsplanen följts, hur bedömer du <span class='red-highlight'> allvarlighetsgraden för den resterande risken  </span> ?"
     },
     "improvable": "Kan förbättras",
     "placeholder_acceptable": "Ge en förklarande kommentar kring varför de åtgärder som utförts är tillräckliga för att ge ett tillräckligt skydd av personuppgifterna",

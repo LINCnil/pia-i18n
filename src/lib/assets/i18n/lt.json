@@ -154,8 +154,8 @@
       "2": "Ribotas",
       "3": "Reikšmingas",
       "4": "Maksimalus",
-      "likelihood": "Atsižvelgdamas į veiksmų planą, kaip vertintumėte iš naujo <span class='red-highlight'>šios rizikos dydį</span> ({{value}})?",
-      "seriousness": "Atsižvelgdamas į veiksmų planą, kaip vertintumėte <span class='red-highlight'>šios rizikos dydį</span> ({{value}})?"
+      "likelihood": "Atsižvelgdamas į veiksmų planą, kaip vertintumėte iš naujo <span class='red-highlight'>šios rizikos dydį</span>?",
+      "seriousness": "Atsižvelgdamas į veiksmų planą, kaip vertintumėte <span class='red-highlight'>šios rizikos dydį</span>?"
     },
     "improvable": "Tobulintinas",
     "placeholder_acceptable": "Atsižvelgiant į turimą informaciją, įgyvendintos priemonės yra pakankamos tvarkomų asmens duomenų apsaugai užtikrinti.",

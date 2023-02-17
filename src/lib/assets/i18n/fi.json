@@ -154,8 +154,8 @@
       "2": "Rajattu",
       "3": "Merkittävä",
       "4": "Suurin",
-      "likelihood": "Kuinka arvioisit toimintasuunnitelman valossa <span class='red-highlight'>tämän riskin todennäköisyyden</span> ({{value}})?",
-      "seriousness": "Kuinka arvioisit toimintasuunnitelman valossa <span class='red-highlight'>tämän riskin vakavuuden</span> ({{value}})?"
+      "likelihood": "Kuinka arvioisit toimintasuunnitelman valossa <span class='red-highlight'>tämän riskin todennäköisyyden</span>?",
+      "seriousness": "Kuinka arvioisit toimintasuunnitelman valossa <span class='red-highlight'>tämän riskin vakavuuden</span>?"
     },
     "improvable": "Kehitettävä",
     "placeholder_acceptable": "Käytettävissä olevien tietojen perusteella toimenpiteet ovat riittäviä henkilötietojen asianmukaiseksi suojaamiseksi.",

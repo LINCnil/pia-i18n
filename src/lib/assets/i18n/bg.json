@@ -154,8 +154,8 @@
       "2": "Ограничена",
       "3": "Важна",
       "4": "Максимална",
-      "likelihood": "Отчитайки плана за действие, как ще оцените отново <span class='red-highlight'>likelihood of this risk</span> ({{value}})?",
-      "seriousness": "Очитайки плана за действие, как ще оцените отново <span class='red-highlight'>seriousness of this risk</span> ({{value}})?"
+      "likelihood": "Отчитайки плана за действие, как ще оцените отново <span class='red-highlight'>likelihood of this risk</span>?",
+      "seriousness": "Очитайки плана за действие, как ще оцените отново <span class='red-highlight'>seriousness of this risk</span>?"
     },
     "improvable": "Може да се подобри",
     "placeholder_acceptable": "Съгласно наличната информация, приложените мерки са адекватни на изискванията за защита на данните.",

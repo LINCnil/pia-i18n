@@ -154,8 +154,8 @@
       "2": "Beperkt",
       "3": "Belangrijk",
       "4": "Maximaal",
-      "likelihood": "Rekening houdend met het actieplan, hoe herevalueert u de <span class='red-highlight'>waarschijnlijkheid van dit risico</span> ({{value}})?",
-      "seriousness": "Rekening houdend met het actieplan, hoe herevalueert u de <span class='red-highlight'>ernst van dit risico</span> ({{value}})?"
+      "likelihood": "Rekening houdend met het actieplan, hoe herevalueert u de <span class='red-highlight'>waarschijnlijkheid van dit risico</span>?",
+      "seriousness": "Rekening houdend met het actieplan, hoe herevalueert u de <span class='red-highlight'>ernst van dit risico</span>?"
     },
     "improvable": "Verbeterbaar",
     "placeholder_acceptable": "Volgens de beschikbare informatie zijn de geïmplementeerde maatregelen toereikend om goed te voldoen aan de gegevensbeschermingsvereisten.",

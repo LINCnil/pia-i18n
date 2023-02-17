@@ -154,8 +154,8 @@
       "2": "Piiratud",
       "3": "Oluline",
       "4": "Maksimaalne",
-      "likelihood": "Arvestades tegevuskava, kuidas Te hindaks ümber <span class='red-highlight'>riski tõenäosust</span> ({{value}})?",
-      "seriousness": "Arvestades tegevuskava, kuidas Te hindaks ümber <span class='red-highlight'>riski tõsidust</span> ({{value}})?"
+      "likelihood": "Arvestades tegevuskava, kuidas Te hindaks ümber <span class='red-highlight'>riski tõenäosust</span>?",
+      "seriousness": "Arvestades tegevuskava, kuidas Te hindaks ümber <span class='red-highlight'>riski tõsidust</span>?"
     },
     "improvable": "Parandatav",
     "placeholder_acceptable": "Arvestades olemasolevat teavet on rakendatud meetmed kohased tagamaks andmeturve.",
