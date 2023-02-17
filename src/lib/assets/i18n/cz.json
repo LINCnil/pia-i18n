@@ -154,8 +154,8 @@
       "2": "Omezené",
       "3": "Důležité",
       "4": "Maximální",
-      "likelihood": "Pokud vezmeme v úvahu akční plán, jak přehodnotíte <span class='red-highlight'>pravděpodobnost tohoto rizika </span> ({{value}})?",
-      "seriousness": "Pokud vezmeme v úvahu akční plán, jak přehodnotit <span class='red-highlight'>závažnost tohoto rizika </span> ({{value}})?"
+      "likelihood": "Pokud vezmeme v úvahu akční plán, jak přehodnotíte <span class='red-highlight'>pravděpodobnost tohoto rizika </span>?",
+      "seriousness": "Pokud vezmeme v úvahu akční plán, jak přehodnotit <span class='red-highlight'>závažnost tohoto rizika </span>?"
     },
     "improvable": "Vylepšitelné",
     "placeholder_acceptable": "TO BE TRANSLATED - According to the available information, the measures implemented are adequate to properly meet the requirements for protecting the data.",

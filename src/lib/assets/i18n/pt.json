@@ -154,8 +154,8 @@
       "2": "Limitado",
       "3": "Importante",
       "4": "Máximo",
-      "likelihood": "Tendo em conta o plano de ação, como reavalia a <span class='red-highlight'>probabilidade deste risco</span> ({{value}})?",
-      "seriousness": "Tendo em conta o plano de ação, como reavalia a <span class='red-highlight'>gravidade deste risco</span> ({{value}})?"
+      "likelihood": "Tendo em conta o plano de ação, como reavalia a <span class='red-highlight'>probabilidade deste risco</span>?",
+      "seriousness": "Tendo em conta o plano de ação, como reavalia a <span class='red-highlight'>gravidade deste risco</span>?"
     },
     "improvable": "Improvável",
     "placeholder_acceptable": "De acordo com as informações disponíveis, as medidas implementadas são adequadas para atender apropriadamente aos requisitos de proteção dos dados.",

@@ -154,8 +154,8 @@
       "2": "Betydelig",
       "3": "Alvorlig",
       "4": "Katastrofal",
-      "likelihood": "Under hensyntagen til handlingsplanen, hvordan vurderer du <span class='red-highlight'>sandsynligheden for denne risiko</span> ({{value}})?",
-      "seriousness": "Under hensyntagen til handlingsplanen, hvordan vurderer du<span class='red-highlight'>alvorligheden af denne risiko</span> ({{value}})?"
+      "likelihood": "Under hensyntagen til handlingsplanen, hvordan vurderer du <span class='red-highlight'>sandsynligheden for denne risiko</span>?",
+      "seriousness": "Under hensyntagen til handlingsplanen, hvordan vurderer du<span class='red-highlight'>alvorligheden af denne risiko</span>?"
     },
     "improvable": "Kan forbedres",
     "placeholder_acceptable": "Ifølge de foreliggende oplysninger er de gennemførte foranstaltninger tilstrækkelige til at opfylde kravene til databeskyttelse.",

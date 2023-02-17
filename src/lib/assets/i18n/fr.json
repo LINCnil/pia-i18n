@@ -154,8 +154,8 @@
       "2": "Limitée",
       "3": "Importante",
       "4": "Maximale",
-      "likelihood": "Prenant en compte le plan d'action, comment ré-évaluez-vous la <span class='red-highlight'>vraisemblance de ce risque</span> ({{value}}) ?",
-      "seriousness": "Prenant en compte le plan d'action, comment ré-évaluez-vous la <span class='red-highlight'>gravité de ce risque</span> ({{value}}) ?"
+      "likelihood": "Prenant en compte le plan d'action, comment ré-évaluez-vous la <span class='red-highlight'>vraisemblance de ce risque</span> ?",
+      "seriousness": "Prenant en compte le plan d'action, comment ré-évaluez-vous la <span class='red-highlight'>gravité de ce risque</span> ?"
     },
     "improvable": "Améliorable",
     "placeholder_acceptable": "Entrer vos commentaires pour expliquer en quoi les mesures mises en œuvre sont suffisantes pour répondre aux exigences de protections des données.",

@@ -154,8 +154,8 @@
       "2": "Limitado",
       "3": "Importante",
       "4": "Máximo",
-      "likelihood": "Teniendo en cuenta el plan de acción, ¿cómo se vuelve a evaluar la <span class='red-highlight'>probabilidad de que este riesgo</span> ({{value}})?",
-      "seriousness": "Teniendo en cuenta el plan de acción, ¿cómo se vuelve a evaluar la <span class='red-highlight'>gravedad de este riesgo</span> ({{value}})?"
+      "likelihood": "Teniendo en cuenta el plan de acción, ¿cómo se vuelve a evaluar la <span class='red-highlight'>probabilidad de que este riesgo</span>?",
+      "seriousness": "Teniendo en cuenta el plan de acción, ¿cómo se vuelve a evaluar la <span class='red-highlight'>gravedad de este riesgo</span>?"
     },
     "improvable": "Mejorable",
     "placeholder_acceptable": "Según la información disponible, las medidas adoptadas son suficientes para satisfacer adecuadamente los requisitos para la protección de los datos.",
@@ -1035,7 +1035,7 @@
       "content": "El contenido del PIA se ha copiado al portapapeles."
     },
     "not_enough_measures_to_remove": {
-      "content": "<span class = 'strong'> Advertencia, </ span> <br> Se debe completar al menos una medida: no es posible la eliminación."
+      "content": "<span class='strong'> Advertencia, </ span> <br> Se debe completar al menos una medida: no es posible la eliminación."
     },
     "recover_version": {
       "continue": "Continuar",

@@ -154,8 +154,8 @@
       "2": "Limitat",
       "3": "Important",
       "4": "Maxim",
-      "likelihood": "Ținând cont de planul de acțiune, cum este reevaluată <span class='red-highlight'>probabilitatea de concretizare a acestui risc</span> ({{value}})?",
-      "seriousness": "Ținând cont de planul de acțiune, cum este reevaluată <span class='red-highlight'>gravitatea acestui risc</span> ({{value}})?"
+      "likelihood": "Ținând cont de planul de acțiune, cum este reevaluată <span class='red-highlight'>probabilitatea de concretizare a acestui risc</span>?",
+      "seriousness": "Ținând cont de planul de acțiune, cum este reevaluată <span class='red-highlight'>gravitatea acestui risc</span>?"
     },
     "improvable": "De îmbunătățit",
     "placeholder_acceptable": "Conform informațiilor disponibile, măsurile implementate sunt corespunzătoare pentru a îndeplini în mod adecvat cerințele cu privire la protecția datelor.",
