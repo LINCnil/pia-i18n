@@ -1085,7 +1085,7 @@
       "unarchive": "Désarchiver ce PIA"
     },
     "update_server_url_nok": {
-      "content": "Connexion impossible.",
+      "content": "Connexion impossible au serveur : veuillez vérifier l'URL saisie.",
       "introspect": "Les informations Client ID et Client SECRET n'ont pas été validées par le serveur, veuillez les vérifier s'il vous plait."
     },
     "update_server_url_ok": {

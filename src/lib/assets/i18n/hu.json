@@ -1085,7 +1085,7 @@
       "unarchive": "TO TRANSLATE - Unarchive PIA"
     },
     "update_server_url_nok": {
-      "content": "TO TRANSLATED - Connection impossible.",
+      "content": "TO TRANSLATE - The connection with the server is not possible: please check the filled URL.",
       "introspect": "TO TRANSLATE - The Client ID and Client SECRET have not been validated by the server, please check them."
     },
     "update_server_url_ok": {
