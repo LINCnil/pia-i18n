@@ -1085,7 +1085,8 @@
       "unarchive": "DSFA wiederherstellen"
     },
     "update_server_url_nok": {
-      "content": "Keine Verbindung möglich."
+      "content": "Keine Verbindung möglich.",
+      "introspect": "TO TRANSLATE - The Client ID and Client SECRET have not been validated by the server, please check them."
     },
     "update_server_url_ok": {
       "content": "Die Serveradresse wurde aktualisiert."

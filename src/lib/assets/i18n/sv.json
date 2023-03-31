@@ -1085,7 +1085,8 @@
       "unarchive": "TO TRANSLATE - Unarchive PIA"
     },
     "update_server_url_nok": {
-      "content": "Ingen uppkoppling."
+      "content": "Ingen uppkoppling.",
+      "introspect": "TO TRANSLATE - The Client ID and Client SECRET have not been validated by the server, please check them."
     },
     "update_server_url_ok": {
       "content": "Serveradressen har uppdaterats"

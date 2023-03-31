@@ -1085,7 +1085,8 @@
       "unarchive": "Desarquivar PIA"
     },
     "update_server_url_nok": {
-      "content": "Não foi possível conectar-se."
+      "content": "Não foi possível conectar-se.",
+      "introspect": "TO TRANSLATE - The Client ID and Client SECRET have not been validated by the server, please check them."
     },
     "update_server_url_ok": {
       "content": "O endereço do servidor foi atualizado."
