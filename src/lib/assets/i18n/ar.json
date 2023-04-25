@@ -1085,7 +1085,8 @@
       "unarchive": "إزالة تقييم أثر حماية البيانات هذا من الأرشيف"
     },
     "update_server_url_nok": {
-      "content": "الاتصال غير ممكن."
+      "content": "TO TRANSLATE - The connection with the server is not possible: please check the filled URL.",
+      "introspect": "TO TRANSLATE - The Client ID and Client SECRET have not been validated by the server, please check them."
     },
     "update_server_url_ok": {
       "content": "تم تحديث عنوان الخادم."
