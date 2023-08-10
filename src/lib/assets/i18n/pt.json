@@ -67,7 +67,7 @@
       "create_account": {
         "uuid": {
           "404": "Código de ativação errado",
-          "403": "Esta conta já foi ativada"
+          "406": "Esta conta já foi ativada"
         },
         "password": {
           "404": "Usuário não encontrado",
