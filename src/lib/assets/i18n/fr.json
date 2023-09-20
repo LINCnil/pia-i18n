@@ -60,6 +60,7 @@
     "wrong_activation_code": "(erroné)",
     "wrong_confirmation": "Les mots de passe ne sont pas identiques",
     "wrong_email": "Email invalide",
+    "sso": "Connexion SSO",
     "errors": {
       "sign_in": {
         "400": "Email ou mot de passe erroné."
