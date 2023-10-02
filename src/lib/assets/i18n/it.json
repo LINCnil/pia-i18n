@@ -88,7 +88,7 @@
         }
       },
       "unauthorized": "Non sei autorizzato ad accedere a questa risorsa.",
-      "incompatibility": "TO TRANSLATE - Version incompatibility between your server (pia-back) and your application (pia). Please contact your IT department."
+      "incompatibility": "La versione del tuo server (pia-back) non è compatibile con la versione della tua applicazione (pia). Si prega di contattare il proprio dipartimento IT."
     }
   },
   "cartography": {
@@ -108,19 +108,19 @@
   },
   "comments": {
     "comment": "Commenta",
-    "written_by": "TO TRANSLATE - Written by",
+    "written_by": "Scritto da",
     "comments_count": "commenti",
     "new_comment": "Commento",
     "placeholder_new_comment": "Lascia un commento",
     "send": "Invia"
   },
   "conflict": {
-    "keep_initial": "TO TRANSLATE - Keep initial content",
-    "keep_new": "TO TRANSLATE - Update with new content",
-    "initial_content": "TO TRANSLATE - Initial content",
-    "merge": "TO TRANSLATE - Merge both contents",
-    "new_content": "TO TRANSLATE - New content",
-    "title": "TO TRANSLATE - Conflict detected"
+    "keep_initial": "Mantieni il contenuto iniziale",
+    "keep_new": "Aggiorna con il nuovo contenuto",
+    "initial_content": "Contenuto iniziale",
+    "merge": "Uniusci (merge) i contenuti",
+    "new_content": "Nuovo contenuto",
+    "title": "Riscontrato conflitto"
   },
   "date": {
     "april": "Aprile",
@@ -1085,8 +1085,8 @@
       "unarchive": "Togli dall'archivio questa PIA"
     },
     "update_server_url_nok": {
-      "content": "TO TRANSLATE - The connection with the server is not possible: please check the filled URL.",
-      "introspect": "TO TRANSLATE - The Client ID and Client SECRET have not been validated by the server, please check them."
+      "content": "Non è possibile connettersi al server: verificare l'URL inserito.",
+      "introspect": "Il Client ID e il Client SECRET non sono stati validati dal server, si prega di verificarli."
     },
     "update_server_url_ok": {
       "content": "L'indirizzo del server è stato aggiornato."
@@ -1573,7 +1573,7 @@
       "complete_download_desc": "Esporta un archivio .zip tutti i report (.doc e immagini), allegati e piano d'azione in formato .csv.",
       "individual_download": "Scarica elementi del report",
       "individual_download_desc": "Esporta elementi specifici del report.",
-      "individual_download_pdf": "TO TRANSLATE - PIA report (.pdf)",
+      "individual_download_pdf": "Scarica il report PIA (.pdf)",
       "individual_download_doc": "Testi (.doc)",
       "individual_download_images": "Elementi grafici (.png) che includono la panoramica del rischio, la mappatura del rischio e il piano di azione.",
       "individual_download_json": "Report nel formato di file importabile nell'applicazione PIA (per esempio installata nel PC di un collega) (.json file)",
