@@ -60,6 +60,7 @@
     "wrong_activation_code": "(errado)",
     "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "Email errado",
+    "sso": "TO TRANSLATE - SSO connection",
     "errors": {
       "sign_in": {
         "400": "Email ou senha errados."

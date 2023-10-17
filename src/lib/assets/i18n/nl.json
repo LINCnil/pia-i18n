@@ -60,6 +60,7 @@
     "wrong_activation_code": "(verkeerd)",
     "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "Verkeerd e-mailadres",
+    "sso": "TO TRANSLATE - SSO connection",
     "errors": {
       "sign_in": {
         "400": "TO TRANSLATE - Wrong email or password."
