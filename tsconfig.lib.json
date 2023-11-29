@@ -15,11 +15,11 @@
     ]
   },
   "angularCompilerOptions": {
+    "compilationMode": "partial",
     "fullTemplateTypeCheck": true,
     "skipTemplateCodegen": true,
     "strictMetadataEmit": true,
-    "enableResourceInlining": true,
-    "enableIvy": false
+    "enableResourceInlining": true
   },
   "exclude": [
     "src/test.ts",
