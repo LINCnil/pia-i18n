@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-20.04
     strategy:
       matrix:
-        node-version: [14.17.0]
+        node-version: [16.17.0]
 
     steps:
         - uses: actions/checkout@v1
@@ -27,7 +27,7 @@ jobs:
             NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
         - name: NPM angular CLI
-          run: npm install -g @angular/cli@11.2.15
+          run: npm install -g @angular/cli@15.2.10
 
         - name: prepare to move
           run: |
@@ -38,6 +38,7 @@ jobs:
           run: |
             git clone https://github.com/LINCnil/pia.git
             cd pia
+            git checkout upgrade-angular-version
             npm install
 
         # - name: prepare library
