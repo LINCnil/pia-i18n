@@ -66,9 +66,9 @@ jobs:
         - name: create tgz file
           run: |
             cd ./pia/dist/pia-i18n
-            npm pack
+            npm pack --force
             cd ../../
-            npm install ./dist/pia-i18n/atnos-pia-i18n-${{ steps.vars.outputs.tag }}.tgz
+            npm install ./dist/pia-i18n/atnos-pia-i18n-${{ steps.vars.outputs.tag }}.tgz --force
 
         - name: publish library
           run: |
