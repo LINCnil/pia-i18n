@@ -39,7 +39,7 @@ jobs:
             git clone https://github.com/LINCnil/pia.git
             cd pia
             git checkout upgrade-angular-version
-            npm install
+            npm i -f
 
         # - name: prepare library
         #   run: |
