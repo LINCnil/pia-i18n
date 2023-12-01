@@ -3,5 +3,6 @@
   "dest": "../../dist/pia-i18n",
   "lib": {
     "entryFile": "src/public-api.ts"
-  }
+  },
+  "allowedNonPeerDependencies": ["@ngx-translate/core"]
 }
