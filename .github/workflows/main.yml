@@ -57,7 +57,7 @@ jobs:
           run: |
             cd ./pia
             rm -f ./projects/pia-i18n/src/lib/assets/i18n/cnil.babel
-            ng build pia-i18n --prod
+            ng build pia-i18n
 
         - name: Set output
           id: vars
