@@ -1086,8 +1086,8 @@
       "unarchive": "Разархивирай ОВЗД"
     },
     "update_server_url_nok": {
-      "content": "TO TRANSLATE - The connection with the server is not possible: please check the filled URL.",
-      "introspect": "TO TRANSLATE - The Client ID and Client SECRET have not been validated by the server, please check them."
+      "content": "Връзката със сървъра не е възможна: моля, проверете попълнения URL адрес.",
+      "introspect": "Клиентският идентификатор и клиентската тайна не са били потвърдени от сървъра, моля, проверете ги."
     },
     "update_server_url_ok": {
       "content": "Адресът на сървъра беше актуализиран."
