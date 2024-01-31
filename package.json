@@ -1,6 +1,6 @@
 {
   "name": "@atnos/pia-i18n",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "peerDependencies": {
     "@angular/common": "^15.2.10",
     "@angular/core": "^15.2.10"
