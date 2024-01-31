@@ -67,7 +67,7 @@
       "create_account": {
         "uuid": {
           "404": "TO TRANSLATE - Wrong activation code",
-          "403": "TO TRANSLATE - This account is already activated"
+          "406": "TO TRANSLATE - This account is already activated"
         },
         "password": {
           "404": "TO TRANSLATE - User not found",
@@ -154,8 +154,8 @@
       "2": "Περιορισμένη",
       "3": "Σημαντική",
       "4": "Μέγιστη",
-      "likelihood": "Λαμβάνοντας υπόψη το σχέδιο δράσης, πώς επαναξιολογείτε την <span class='red-highlight'>πιθανότητα αυτού του κινδύνου</span> ({{value}});",
-      "seriousness": "Λαμβάνοντας υπόψη το σχέδιο δράσης, πώς επαναξιολογείτε τη <span class='red-highlight'>σοβαρότητα αυτού του κινδύνου</span> ({{value}});"
+      "likelihood": "Λαμβάνοντας υπόψη το σχέδιο δράσης, πώς επαναξιολογείτε την <span class='red-highlight'>πιθανότητα αυτού του κινδύνου</span>;",
+      "seriousness": "Λαμβάνοντας υπόψη το σχέδιο δράσης, πώς επαναξιολογείτε τη <span class='red-highlight'>σοβαρότητα αυτού του κινδύνου</span>;"
     },
     "improvable": "Δεκτικό βελτίωσης",
     "placeholder_acceptable": "Σύμφωνα με τις διαθέσιμες πληροφορίες, τα μέτρα που εφαρμόζονται είναι επαρκή ώστε να πληρούν σωστά τις απαιτήσεις για την προστασία των δεδομένων.",
@@ -1085,7 +1085,8 @@
       "unarchive": "TO TRANSLATE - Unarchive PIA"
     },
     "update_server_url_nok": {
-      "content": "Αδύνατη σύνδεση."
+      "content": "TO TRANSLATE - The connection with the server is not possible: please check the filled URL.",
+      "introspect": "TO TRANSLATE - The Client ID and Client SECRET have not been validated by the server, please check them."
     },
     "update_server_url_ok": {
       "content": "Η διεύθυνση του διακομιστή έχει ενημερωθεί."

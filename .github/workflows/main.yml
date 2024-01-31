@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-20.04
     strategy:
       matrix:
-        node-version: [14.17.0]
+        node-version: [16.17.0]
 
     steps:
         - uses: actions/checkout@v1
@@ -27,7 +27,7 @@ jobs:
             NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
         - name: NPM angular CLI
-          run: npm install -g @angular/cli@11.2.15
+          run: npm install -g @angular/cli@15.2.10
 
         - name: prepare to move
           run: |
@@ -38,7 +38,7 @@ jobs:
           run: |
             git clone https://github.com/LINCnil/pia.git
             cd pia
-            npm install
+            npm i -f
 
         # - name: prepare library
         #   run: |
@@ -56,7 +56,7 @@ jobs:
           run: |
             cd ./pia
             rm -f ./projects/pia-i18n/src/lib/assets/i18n/cnil.babel
-            ng build pia-i18n --prod
+            ng build pia-i18n
 
         - name: Set output
           id: vars
@@ -65,9 +65,9 @@ jobs:
         - name: create tgz file
           run: |
             cd ./pia/dist/pia-i18n
-            npm pack
+            npm pack --force
             cd ../../
-            npm install ./dist/pia-i18n/atnos-pia-i18n-${{ steps.vars.outputs.tag }}.tgz
+            npm install ./dist/pia-i18n/atnos-pia-i18n-${{ steps.vars.outputs.tag }}.tgz --force
 
         - name: publish library
           run: |

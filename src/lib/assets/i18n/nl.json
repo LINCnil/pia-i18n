@@ -60,6 +60,7 @@
     "wrong_activation_code": "(verkeerd)",
     "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "Verkeerd e-mailadres",
+    "sso": "TO TRANSLATE - SSO connection",
     "errors": {
       "sign_in": {
         "400": "TO TRANSLATE - Wrong email or password."
@@ -67,7 +68,7 @@
       "create_account": {
         "uuid": {
           "404": "TO TRANSLATE - Wrong activation code",
-          "403": "TO TRANSLATE - This account is already activated"
+          "406": "TO TRANSLATE - This account is already activated"
         },
         "password": {
           "404": "TO TRANSLATE - User not found",
@@ -154,8 +155,8 @@
       "2": "Beperkt",
       "3": "Belangrijk",
       "4": "Maximaal",
-      "likelihood": "Rekening houdend met het actieplan, hoe herevalueert u de <span class='red-highlight'>waarschijnlijkheid van dit risico</span> ({{value}})?",
-      "seriousness": "Rekening houdend met het actieplan, hoe herevalueert u de <span class='red-highlight'>ernst van dit risico</span> ({{value}})?"
+      "likelihood": "Rekening houdend met het actieplan, hoe herevalueert u de <span class='red-highlight'>waarschijnlijkheid van dit risico</span>?",
+      "seriousness": "Rekening houdend met het actieplan, hoe herevalueert u de <span class='red-highlight'>ernst van dit risico</span>?"
     },
     "improvable": "Verbeterbaar",
     "placeholder_acceptable": "Volgens de beschikbare informatie zijn de geïmplementeerde maatregelen toereikend om goed te voldoen aan de gegevensbeschermingsvereisten.",
@@ -1085,7 +1086,8 @@
       "unarchive": "Archiveren PIA ongedaan maken"
     },
     "update_server_url_nok": {
-      "content": "Verbinden mislukt."
+      "content": "TO TRANSLATE - The connection with the server is not possible: please check the filled URL.",
+      "introspect": "TO TRANSLATE - The Client ID and Client SECRET have not been validated by the server, please check them."
     },
     "update_server_url_ok": {
       "content": "Het serveradres werd geüpdatet."

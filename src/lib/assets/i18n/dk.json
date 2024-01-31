@@ -67,7 +67,7 @@
       "create_account": {
         "uuid": {
           "404": "TO TRANSLATE - Wrong activation code",
-          "403": "TO TRANSLATE - This account is already activated"
+          "406": "TO TRANSLATE - This account is already activated"
         },
         "password": {
           "404": "TO TRANSLATE - User not found",
@@ -154,8 +154,8 @@
       "2": "Betydelig",
       "3": "Alvorlig",
       "4": "Katastrofal",
-      "likelihood": "Under hensyntagen til handlingsplanen, hvordan vurderer du <span class='red-highlight'>sandsynligheden for denne risiko</span> ({{value}})?",
-      "seriousness": "Under hensyntagen til handlingsplanen, hvordan vurderer du<span class='red-highlight'>alvorligheden af denne risiko</span> ({{value}})?"
+      "likelihood": "Under hensyntagen til handlingsplanen, hvordan vurderer du <span class='red-highlight'>sandsynligheden for denne risiko</span>?",
+      "seriousness": "Under hensyntagen til handlingsplanen, hvordan vurderer du<span class='red-highlight'>alvorligheden af denne risiko</span>?"
     },
     "improvable": "Kan forbedres",
     "placeholder_acceptable": "Ifølge de foreliggende oplysninger er de gennemførte foranstaltninger tilstrækkelige til at opfylde kravene til databeskyttelse.",
@@ -1085,7 +1085,8 @@
       "unarchive": "TO TRANSLATE - Unarchive PIA"
     },
     "update_server_url_nok": {
-      "content": "Ingen forbindelse."
+      "content": "TO TRANSLATE - The connection with the server is not possible: please check the filled URL.",
+      "introspect": "TO TRANSLATE - The Client ID and Client SECRET have not been validated by the server, please check them."
     },
     "update_server_url_ok": {
       "content": "Serveradressen er blevet opdateret."

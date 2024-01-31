@@ -60,6 +60,7 @@
     "wrong_activation_code": "(грешно)",
     "wrong_confirmation": "Паролите не съвпадат",
     "wrong_email": "Грешен адрес на електронна поща",
+    "sso": "TO TRANSLATE - SSO connection",
     "errors": {
       "sign_in": {
         "400": "Грешен адрес на електронна поща или парола."
@@ -67,7 +68,7 @@
       "create_account": {
         "uuid": {
           "404": "Грешен код за активиране",
-          "403": "Този акаунт вече е активиран"
+          "406": "Този акаунт вече е активиран"
         },
         "password": {
           "404": "Не е намерен такъв потребител",
@@ -154,8 +155,8 @@
       "2": "Ограничена",
       "3": "Важна",
       "4": "Максимална",
-      "likelihood": "Отчитайки плана за действие, как ще оцените отново <span class='red-highlight'>likelihood of this risk</span> ({{value}})?",
-      "seriousness": "Очитайки плана за действие, как ще оцените отново <span class='red-highlight'>seriousness of this risk</span> ({{value}})?"
+      "likelihood": "Отчитайки плана за действие, как ще оцените отново <span class='red-highlight'>likelihood of this risk</span>?",
+      "seriousness": "Очитайки плана за действие, как ще оцените отново <span class='red-highlight'>seriousness of this risk</span>?"
     },
     "improvable": "Може да се подобри",
     "placeholder_acceptable": "Съгласно наличната информация, приложените мерки са адекватни на изискванията за защита на данните.",
@@ -1085,7 +1086,8 @@
       "unarchive": "Разархивирай ОВЗД"
     },
     "update_server_url_nok": {
-      "content": "Свързването невъзможно."
+      "content": "TO TRANSLATE - The connection with the server is not possible: please check the filled URL.",
+      "introspect": "TO TRANSLATE - The Client ID and Client SECRET have not been validated by the server, please check them."
     },
     "update_server_url_ok": {
       "content": "Адресът на сървъра беше актуализиран."

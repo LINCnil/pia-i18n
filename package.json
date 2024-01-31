@@ -1,11 +1,12 @@
 {
   "name": "@atnos/pia-i18n",
-  "version": "0.0.13",
+  "version": "0.0.19",
   "peerDependencies": {
-    "@angular/common": "^11.0.9",
-    "@angular/core": "^11.0.9"
+    "@angular/common": "^15.2.10",
+    "@angular/core": "^15.2.10"
   },
   "dependencies": {
-    "tslib": "^2.0.0"
+    "tslib": "^2.0.3",
+    "@ngx-translate/core": "^13.0.0"
   }
 }

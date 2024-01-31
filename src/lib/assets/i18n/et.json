@@ -60,6 +60,7 @@
     "wrong_activation_code": "TO TRANSLATE - (wrong)",
     "wrong_confirmation": "TO TRANSLATE - Passwords are not the same",
     "wrong_email": "TO TRANSLATE - Wrong email",
+    "sso": "TO TRANSLATE - SSO connection",
     "errors": {
       "sign_in": {
         "400": "TO TRANSLATE - Wrong email or password."
@@ -67,7 +68,7 @@
       "create_account": {
         "uuid": {
           "404": "TO TRANSLATE - Wrong activation code",
-          "403": "TO TRANSLATE - This account is already activated"
+          "406": "TO TRANSLATE - This account is already activated"
         },
         "password": {
           "404": "TO TRANSLATE - User not found",
@@ -154,8 +155,8 @@
       "2": "Piiratud",
       "3": "Oluline",
       "4": "Maksimaalne",
-      "likelihood": "Arvestades tegevuskava, kuidas Te hindaks ümber <span class='red-highlight'>riski tõenäosust</span> ({{value}})?",
-      "seriousness": "Arvestades tegevuskava, kuidas Te hindaks ümber <span class='red-highlight'>riski tõsidust</span> ({{value}})?"
+      "likelihood": "Arvestades tegevuskava, kuidas Te hindaks ümber <span class='red-highlight'>riski tõenäosust</span>?",
+      "seriousness": "Arvestades tegevuskava, kuidas Te hindaks ümber <span class='red-highlight'>riski tõsidust</span>?"
     },
     "improvable": "Parandatav",
     "placeholder_acceptable": "Arvestades olemasolevat teavet on rakendatud meetmed kohased tagamaks andmeturve.",
@@ -1085,7 +1086,8 @@
       "unarchive": "TO TRANSLATE - Unarchive PIA"
     },
     "update_server_url_nok": {
-      "content": "Ühendus puudub."
+      "content": "TO TRANSLATE - The connection with the server is not possible: please check the filled URL.",
+      "introspect": "TO TRANSLATE - The Client ID and Client SECRET have not been validated by the server, please check them."
     },
     "update_server_url_ok": {
       "content": "Serveri aadress on uuendatud."

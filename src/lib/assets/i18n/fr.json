@@ -60,6 +60,7 @@
     "wrong_activation_code": "(erroné)",
     "wrong_confirmation": "Les mots de passe ne sont pas identiques",
     "wrong_email": "Email invalide",
+    "sso": "Connexion SSO",
     "errors": {
       "sign_in": {
         "400": "Email ou mot de passe erroné."
@@ -67,7 +68,7 @@
       "create_account": {
         "uuid": {
           "404": "code d'activation erroné",
-          "403": "Ce compte est déjà activé"
+          "406": "Ce compte est déjà activé"
         },
         "password": {
           "404": "Utilisateur non trouvé",
@@ -154,8 +155,8 @@
       "2": "Limitée",
       "3": "Importante",
       "4": "Maximale",
-      "likelihood": "Prenant en compte le plan d'action, comment ré-évaluez-vous la <span class='red-highlight'>vraisemblance de ce risque</span> ({{value}}) ?",
-      "seriousness": "Prenant en compte le plan d'action, comment ré-évaluez-vous la <span class='red-highlight'>gravité de ce risque</span> ({{value}}) ?"
+      "likelihood": "Prenant en compte le plan d'action, comment ré-évaluez-vous la <span class='red-highlight'>vraisemblance de ce risque</span> ?",
+      "seriousness": "Prenant en compte le plan d'action, comment ré-évaluez-vous la <span class='red-highlight'>gravité de ce risque</span> ?"
     },
     "improvable": "Améliorable",
     "placeholder_acceptable": "Entrer vos commentaires pour expliquer en quoi les mesures mises en œuvre sont suffisantes pour répondre aux exigences de protections des données.",
@@ -1085,7 +1086,8 @@
       "unarchive": "Désarchiver ce PIA"
     },
     "update_server_url_nok": {
-      "content": "Connexion impossible."
+      "content": "Connexion impossible au serveur : veuillez vérifier l'URL saisie.",
+      "introspect": "Les informations Client ID et Client SECRET n'ont pas été validées par le serveur, veuillez les vérifier s'il vous plait."
     },
     "update_server_url_ok": {
       "content": "L'adresse du serveur à été mise à jour."
