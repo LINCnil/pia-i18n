@@ -60,7 +60,7 @@
     "wrong_activation_code": "(грешно)",
     "wrong_confirmation": "Паролите не съвпадат",
     "wrong_email": "Грешен адрес на електронна поща",
-    "sso": "TO TRANSLATE - SSO connection",
+    "sso": "SSO връзка",
     "errors": {
       "sign_in": {
         "400": "Грешен адрес на електронна поща или парола."
