@@ -1,4 +1,7 @@
 # PiaI18n - Fichiers de traduction / Translation Files
+
+⚠️ This repository has been archived and is no longer maintained. Its contents have been fully integrated into [the main PIA project](https://github.com/LINCnil/pia)
+
 ## Présentation / Presentation
 <img src="https://raw.githubusercontent.com/LINCnil/pia/master/src/assets/images/pia-auth-logo.png" align="left" hspace="10" vspace="6"> Le logiciel PIA est un outil distribué librement par la [CNIL](https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil) afin de faciliter la réalisation d’analyses d’impact sur la protection des données prévues par le RGPD. Ce dépôt regroupe l'ensemble des fichiers de traductions de l'outil PIA et comprend actuellement 22 langues (voir liste ci-dessous). Si vous souhaitez traduire l'outil PIA, vous pouvez suivre le tutorial disponible [ici](https://github.com/LINCnil/pia-i18n/tree/main/src/lib/assets/i18n#tutorial-for-translating-the-pia-software).
 
